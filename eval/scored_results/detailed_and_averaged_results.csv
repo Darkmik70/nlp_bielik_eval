@@ -1,0 +1,906 @@
+Model,Question,Exact Match,F1 Score,Similarity Score
+Bielik,Czym są pisma rabiniczne?,0,0.7272727272727272,0.18518518518518523
+Bielik,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0.1739130434782609,0.02857142857142858
+Bielik,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.6363636363636365,0.052631578947368474
+Bielik,W jakiej formie przekazana została Miszna?,0,0.4166666666666667,0.09756097560975607
+Bielik,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0.6808510638297872,0.16393442622950816
+Bielik,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,1,1.0,1.0
+Bielik,Czy Emilia podbiła Dyneburg?,0,0.6500000000000001,0.34090909090909094
+Bielik,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.7169811320754718,0.12154696132596687
+Bielik,W jakim miejscu odbył się ślub pary?,0,0.6808510638297872,0.09302325581395354
+Bielik,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.7169811320754716,0.2547169811320755
+Bielik,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.7428571428571429,0.47058823529411764
+Bielik,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.723404255319149,0.23529411764705888
+Bielik,Jakie dania jedzono w czasie karnawału? ,0,0.3846153846153846,0.06060606060606055
+Bielik,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.6222222222222222,0.1875
+Bielik,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.6857142857142857,0.19444444444444442
+Bielik,Kto zmierzy się w pojedynku o Superpuchar?,0,0.7755102040816326,0.21276595744680848
+Bielik,Jakim mianem ponownie określano imprezę od 2014 roku?,1,1.0,1.0
+Bielik,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.9375,0.9642857142857143
+Bielik,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.5945945945945945,0.28301886792452835
+Bielik,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.30769230769230765,0.125
+Bielik,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0.5945945945945946,0.15909090909090906
+Bielik,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.782608695652174,0.49122807017543857
+Bielik,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0.7272727272727272,0.23943661971830987
+Bielik,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,1,1.0,1.0
+Bielik,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.47058823529411764,0.2727272727272727
+Bielik,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0.3846153846153846,0.08108108108108103
+Bielik,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.6153846153846153,0.196078431372549
+Bielik,Kiedy sfinalizowano konstrukcję 13WE?,0,0.5833333333333334,0.5882352941176471
+Bielik,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0.32,0.11111111111111116
+Bielik,Kiedy przekazano pojazd do użytku?,0,0.8695652173913044,0.6470588235294117
+Bielik,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.9696969696969697,0.9615384615384616
+Bielik,Dlaczego artysta tworzy rozmaite alter ego?,0,0.7000000000000001,0.2033898305084746
+Bielik,Która tożsamość rapera jest najpopularniejsza?,0,0.3448275862068966,0.12195121951219512
+Bielik,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0.7500000000000001,0.18518518518518523
+Bielik,Czyim alter ego jest Eminem?,0,0.6923076923076924,0.4390243902439024
+Bielik,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.6818181818181818,0.24193548387096775
+Bielik,W jaki sposób należy dotykać mezuzę?,0,0.5333333333333333,0.16666666666666663
+Bielik,W jakich miejscach można wykonać pocałunek?,0,0.7346938775510204,0.27419354838709675
+Bielik,O czym świadczy wykonanie pocałunku?,0,0.6938775510204083,0.19298245614035092
+Bielik,W którym roku Rosja dokonała aneksji Krymu?,0,0.4444444444444445,0.23076923076923073
+Bielik,Jaka była przyczyna aneksji Krymu?,0,0.6341463414634148,0.19047619047619047
+Bielik,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.8095238095238095,0.2093023255813954
+Bielik,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.6086956521739131,0.1658031088082902
+Bielik,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0.8571428571428571,0.5641025641025641
+Bielik,Czyje imię nosił szpital na Wolskiej?,0,0.7857142857142858,0.4242424242424242
+Bielik,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.22222222222222224,0.0714285714285714
+Bielik,Jakie tereny obejmował główny odcinek frontu?,0,0.6666666666666666,0.1585365853658537
+Bielik,Czy wojsko niemieckie dysponowało także czołgami?,0,0.7346938775510204,0.2755102040816326
+Bielik,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.24000000000000002,0.11111111111111116
+Bielik,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.3333333333333333,0.1351351351351351
+Bielik,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0.5185185185185185,0.19444444444444442
+Bielik,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0.29629629629629634,0.09999999999999998
+Bielik,Kiedy Matczak zdobył tytuł profesorski?,0,0.9166666666666666,0.8235294117647058
+Bielik,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0.5333333333333333,0.19999999999999996
+Bielik,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.7755102040816326,0.27118644067796616
+Bielik,Jak nazywa się prowadzony przez niego podcast?,1,1.0,1.0
+Bielik,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.3225806451612903,0.1333333333333333
+Bielik,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",1,1.0,1.0
+Bielik,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0.6,0.1923076923076923
+Bielik,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,1,1.0,1.0
+Bielik,Jakie tematy poruszył w swojej piosence Hill?,0,0.55,0.25
+Bielik,Czy Lil Nas X jest osobą homoseksualną?,0,0.6909090909090909,0.18478260869565222
+Bielik,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0.679245283018868,0.16417910447761197
+Bielik,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.5507246376811594,0.10648148148148151
+Bielik,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0.7,0.2666666666666667
+Bielik,Jakie zadania należały do pionu okrętów?,0,0.7755102040816326,0.0992366412213741
+Bielik,"Kto dowodził ""Wilkiem""?",0,0.6153846153846155,0.16176470588235292
+Bielik,Na kiedy przypadł zmierzch rycerstwa?,0,0.6451612903225806,0.16666666666666663
+Bielik,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0.5161290322580645,0.1578947368421053
+Bielik,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.5909090909090908,0.16176470588235292
+Bielik,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.14285714285714288,0.18181818181818177
+Bielik,Skąd biorą się komety krótkookresowe?,0,0.7058823529411765,0.19444444444444442
+Bielik,Kiedy powstał Pas Kuipera?,0,0.7999999999999999,0.18181818181818177
+Bielik,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0.3870967741935484,0.10526315789473684
+Bielik,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0.7804878048780488,0.14893617021276595
+Bielik,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.7272727272727274,0.16216216216216217
+Bielik,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0.9230769230769231,0.8611111111111112
+Bielik,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0.9473684210526316,0.9375
+Bielik,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,1,1.0,1.0
+Bielik,Kiedy naukowiec zdobył profesurę?,0,0.4615384615384615,0.33333333333333337
+Bielik,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.9795918367346939,0.7636363636363637
+Bielik,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0.7857142857142857,0.5454545454545454
+Bielik,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.7441860465116279,0.21568627450980393
+Bielik,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",1,1.0,1.0
+Bielik,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.975609756097561,0.9705882352941176
+Bielik,Za co ukarano Guozhu?,0,0.7428571428571428,0.25
+Bielik,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.7567567567567567,0.18181818181818177
+Bielik,Jaki był powód dokonania przez władze eksmisji?,0,0.7567567567567567,0.30188679245283023
+Bielik,W jakiej produkcji pojawił się aktor w 1997 roku?,1,1.0,1.0
+Bielik,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0.30769230769230765,0.125
+Bielik,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0.2857142857142857,0.07499999999999996
+Bielik,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.5454545454545454,0.1724137931034483
+Bielik,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.9090909090909091,0.6538461538461539
+Bielik,Skąd chciano pozbyć się Żydów i Polaków?,0,0.627450980392157,0.15217391304347827
+Bielik,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0.5454545454545454,0.11363636363636365
+Bielik,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.8421052631578948,0.9
+Bielik,Jaki obiekt przyniósł straty spółce?,0,0.2608695652173913,0.12903225806451613
+Bielik,Kiedy doszło do likwidacji spółki?,0,0.375,0.2142857142857143
+Bielik,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0.6857142857142857,0.13157894736842102
+Bielik,Kiedy ostatecznie zlikwidowano windę?,0,0.717948717948718,0.10810810810810811
+Bielik,Czym są pisma rabiniczne?,0,0.923076923076923,0.5384615384615384
+Bielik,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0.32258064516129037,0.06944444444444442
+Bielik,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.7307692307692307,0.3055555555555556
+Bielik,W jakiej formie przekazana została Miszna?,0,0.33333333333333337,0.0625
+Bielik,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0.7777777777777777,0.19480519480519476
+Bielik,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,1,1.0,1.0
+Bielik,Czy Emilia podbiła Dyneburg?,0,0.6500000000000001,0.34090909090909094
+Bielik,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.847457627118644,0.16574585635359118
+Bielik,W jakim miejscu odbył się ślub pary?,0,0.896551724137931,0.5584415584415585
+Bielik,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.7241379310344828,0.3679245283018868
+Bielik,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.7499999999999999,0.3055555555555556
+Bielik,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.7843137254901961,0.18571428571428572
+Bielik,Jakie dania jedzono w czasie karnawału? ,0,0.42424242424242425,0.11428571428571432
+Bielik,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.6666666666666666,0.13414634146341464
+Bielik,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.7317073170731708,0.171875
+Bielik,Kto zmierzy się w pojedynku o Superpuchar?,0,0.8679245283018867,0.18085106382978722
+Bielik,Jakim mianem ponownie określano imprezę od 2014 roku?,1,1.0,1.0
+Bielik,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.9375,0.9642857142857143
+Bielik,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.8333333333333333,0.2592592592592593
+Bielik,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.3888888888888889,0.10769230769230764
+Bielik,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0.6666666666666667,0.17500000000000004
+Bielik,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.782608695652174,0.49122807017543857
+Bielik,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0.7636363636363636,0.13157894736842102
+Bielik,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,1,1.0,1.0
+Bielik,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.6046511627906976,0.2098765432098766
+Bielik,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0.43750000000000006,0.0625
+Bielik,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.7213114754098361,0.2549019607843137
+Bielik,Kiedy sfinalizowano konstrukcję 13WE?,0,0.4864864864864865,0.1724137931034483
+Bielik,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0.35294117647058826,0.07692307692307687
+Bielik,Kiedy przekazano pojazd do użytku?,0,0.5714285714285715,0.19298245614035092
+Bielik,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.6808510638297872,0.352112676056338
+Bielik,Dlaczego artysta tworzy rozmaite alter ego?,0,0.8260869565217391,0.23529411764705888
+Bielik,Która tożsamość rapera jest najpopularniejsza?,0,0.45000000000000007,0.1298701298701299
+Bielik,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0.6938775510204083,0.189873417721519
+Bielik,Czyim alter ego jest Eminem?,0,0.5294117647058824,0.16666666666666663
+Bielik,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.8,0.20512820512820518
+Bielik,W jaki sposób należy dotykać mezuzę?,0,0.5641025641025641,0.16455696202531644
+Bielik,W jakich miejscach można wykonać pocałunek?,0,0.9310344827586207,0.4193548387096774
+Bielik,O czym świadczy wykonanie pocałunku?,0,0.8363636363636363,0.22807017543859653
+Bielik,W którym roku Rosja dokonała aneksji Krymu?,0,0.3,0.0674157303370787
+Bielik,Jaka była przyczyna aneksji Krymu?,0,0.625,0.21739130434782605
+Bielik,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.7450980392156864,0.17808219178082196
+Bielik,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.775,0.27461139896373055
+Bielik,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0.7692307692307693,0.4782608695652174
+Bielik,Czyje imię nosił szpital na Wolskiej?,0,0.5945945945945945,0.1573033707865169
+Bielik,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.35294117647058826,0.09999999999999998
+Bielik,Jakie tereny obejmował główny odcinek frontu?,0,0.8148148148148148,0.18292682926829273
+Bielik,Czy wojsko niemieckie dysponowało także czołgami?,0,0.7450980392156864,0.2755102040816326
+Bielik,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.19999999999999998,0.053333333333333344
+Bielik,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.3684210526315789,0.0786516853932584
+Bielik,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0.411764705882353,0.08333333333333337
+Bielik,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0.2424242424242424,0.0444444444444444
+Bielik,Kiedy Matczak zdobył tytuł profesorski?,0,0.9166666666666666,0.8235294117647058
+Bielik,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0.4324324324324324,0.10666666666666669
+Bielik,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.9090909090909091,0.4661016949152542
+Bielik,Jak nazywa się prowadzony przez niego podcast?,1,1.0,1.0
+Bielik,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.4102564102564102,0.10526315789473684
+Bielik,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",1,1.0,1.0
+Bielik,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0.6122448979591836,0.22807017543859653
+Bielik,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,1,1.0,1.0
+Bielik,Jakie tematy poruszył w swojej piosence Hill?,0,0.6153846153846154,0.2533333333333333
+Bielik,Czy Lil Nas X jest osobą homoseksualną?,0,0.6909090909090909,0.18478260869565222
+Bielik,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0.6349206349206349,0.20895522388059706
+Bielik,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.6216216216216216,0.17592592592592593
+Bielik,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0.7727272727272727,0.16666666666666663
+Bielik,Jakie zadania należały do pionu okrętów?,0,0.9285714285714286,0.16793893129770987
+Bielik,"Kto dowodził ""Wilkiem""?",0,0.5217391304347827,0.08088235294117652
+Bielik,Na kiedy przypadł zmierzch rycerstwa?,0,0.631578947368421,0.18518518518518523
+Bielik,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0.48648648648648646,0.1333333333333333
+Bielik,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.76,0.2134831460674157
+Bielik,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.14285714285714288,0.18181818181818177
+Bielik,Skąd biorą się komety krótkookresowe?,0,0.7804878048780487,0.33333333333333337
+Bielik,Kiedy powstał Pas Kuipera?,0,0.9433962264150945,0.7236842105263157
+Bielik,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0.3243243243243243,0.05555555555555558
+Bielik,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0.7916666666666666,0.2191780821917808
+Bielik,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.6486486486486487,0.13157894736842102
+Bielik,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0.9230769230769231,0.8611111111111112
+Bielik,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0.9473684210526316,0.9375
+Bielik,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,1,1.0,1.0
+Bielik,Kiedy naukowiec zdobył profesurę?,0,0.4615384615384615,0.33333333333333337
+Bielik,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.9433962264150945,0.7794117647058824
+Bielik,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0.7857142857142857,0.5454545454545454
+Bielik,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.7843137254901961,0.19047619047619047
+Bielik,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",1,1.0,1.0
+Bielik,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.975609756097561,0.9705882352941176
+Bielik,Za co ukarano Guozhu?,0,0.85,0.4782608695652174
+Bielik,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.8,0.2098765432098766
+Bielik,Jaki był powód dokonania przez władze eksmisji?,0,0.8444444444444444,0.28378378378378377
+Bielik,W jakiej produkcji pojawił się aktor w 1997 roku?,1,1.0,1.0
+Bielik,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0.35294117647058826,0.11290322580645162
+Bielik,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0.33333333333333337,0.09615384615384615
+Bielik,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.6538461538461539,0.15625
+Bielik,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.9090909090909091,0.6538461538461539
+Bielik,Skąd chciano pozbyć się Żydów i Polaków?,0,0.65625,0.21739130434782605
+Bielik,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0.4615384615384615,0.07594936708860756
+Bielik,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.8421052631578948,0.9
+Bielik,Jaki obiekt przyniósł straty spółce?,0,0.2608695652173913,0.12903225806451613
+Bielik,Kiedy doszło do likwidacji spółki?,0,0.375,0.2142857142857143
+Bielik,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0.6818181818181819,0.19117647058823528
+Bielik,Kiedy ostatecznie zlikwidowano windę?,0,0.8636363636363635,0.5
+Bielik,Czym są pisma rabiniczne?,0,0.923076923076923,0.5384615384615384
+Bielik,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0.32258064516129037,0.06944444444444442
+Bielik,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.7307692307692307,0.3055555555555556
+Bielik,W jakiej formie przekazana została Miszna?,0,0.33333333333333337,0.0625
+Bielik,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0.7777777777777777,0.19480519480519476
+Bielik,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,1,1.0,1.0
+Bielik,Czy Emilia podbiła Dyneburg?,0,0.6500000000000001,0.34090909090909094
+Bielik,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.847457627118644,0.16574585635359118
+Bielik,W jakim miejscu odbył się ślub pary?,0,0.896551724137931,0.5584415584415585
+Bielik,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.7241379310344828,0.3679245283018868
+Bielik,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.7499999999999999,0.3055555555555556
+Bielik,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.7843137254901961,0.18571428571428572
+Bielik,Jakie dania jedzono w czasie karnawału? ,0,0.42424242424242425,0.11428571428571432
+Bielik,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.6666666666666666,0.13414634146341464
+Bielik,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.7317073170731708,0.171875
+Bielik,Kto zmierzy się w pojedynku o Superpuchar?,0,0.8679245283018867,0.18085106382978722
+Bielik,Jakim mianem ponownie określano imprezę od 2014 roku?,1,1.0,1.0
+Bielik,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.9375,0.9642857142857143
+Bielik,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.8333333333333333,0.2592592592592593
+Bielik,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.3888888888888889,0.10769230769230764
+Bielik,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0.6666666666666667,0.17500000000000004
+Bielik,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.782608695652174,0.49122807017543857
+Bielik,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0.7636363636363636,0.13157894736842102
+Bielik,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,1,1.0,1.0
+Bielik,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.6046511627906976,0.2098765432098766
+Bielik,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0.43750000000000006,0.0625
+Bielik,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.7213114754098361,0.2549019607843137
+Bielik,Kiedy sfinalizowano konstrukcję 13WE?,0,0.4864864864864865,0.1724137931034483
+Bielik,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0.35294117647058826,0.07692307692307687
+Bielik,Kiedy przekazano pojazd do użytku?,0,0.5714285714285715,0.19298245614035092
+Bielik,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.6808510638297872,0.352112676056338
+Bielik,Dlaczego artysta tworzy rozmaite alter ego?,0,0.8260869565217391,0.23529411764705888
+Bielik,Która tożsamość rapera jest najpopularniejsza?,0,0.45000000000000007,0.1298701298701299
+Bielik,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0.6938775510204083,0.189873417721519
+Bielik,Czyim alter ego jest Eminem?,0,0.5294117647058824,0.16666666666666663
+Bielik,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.8,0.20512820512820518
+Bielik,W jaki sposób należy dotykać mezuzę?,0,0.5945945945945945,0.15294117647058825
+Bielik,W jakich miejscach można wykonać pocałunek?,0,0.9310344827586207,0.4193548387096774
+Bielik,O czym świadczy wykonanie pocałunku?,0,0.8363636363636363,0.22807017543859653
+Bielik,W którym roku Rosja dokonała aneksji Krymu?,0,0.3,0.0674157303370787
+Bielik,Jaka była przyczyna aneksji Krymu?,0,0.625,0.21739130434782605
+Bielik,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.7450980392156864,0.17808219178082196
+Bielik,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.775,0.27461139896373055
+Bielik,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0.7692307692307693,0.4782608695652174
+Bielik,Czyje imię nosił szpital na Wolskiej?,0,0.5945945945945945,0.1573033707865169
+Bielik,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.35294117647058826,0.09999999999999998
+Bielik,Jakie tereny obejmował główny odcinek frontu?,0,0.8148148148148148,0.18292682926829273
+Bielik,Czy wojsko niemieckie dysponowało także czołgami?,0,0.7450980392156864,0.2755102040816326
+Bielik,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.19999999999999998,0.053333333333333344
+Bielik,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.3684210526315789,0.0786516853932584
+Bielik,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0.411764705882353,0.08333333333333337
+Bielik,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0.2424242424242424,0.0444444444444444
+Bielik,Kiedy Matczak zdobył tytuł profesorski?,0,0.9166666666666666,0.8235294117647058
+Bielik,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0.4324324324324324,0.10666666666666669
+Bielik,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.9090909090909091,0.4661016949152542
+Bielik,Jak nazywa się prowadzony przez niego podcast?,1,1.0,1.0
+Bielik,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.4102564102564102,0.10526315789473684
+Bielik,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",1,1.0,1.0
+Bielik,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0.6122448979591836,0.22807017543859653
+Bielik,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,1,1.0,1.0
+Bielik,Jakie tematy poruszył w swojej piosence Hill?,0,0.6153846153846154,0.2533333333333333
+Bielik,Czy Lil Nas X jest osobą homoseksualną?,0,0.6909090909090909,0.18478260869565222
+Bielik,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0.6349206349206349,0.20895522388059706
+Bielik,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.6216216216216216,0.17592592592592593
+Bielik,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0.7727272727272727,0.16666666666666663
+Bielik,Jakie zadania należały do pionu okrętów?,0,0.9285714285714286,0.16793893129770987
+Bielik,"Kto dowodził ""Wilkiem""?",0,0.5217391304347827,0.08088235294117652
+Bielik,Na kiedy przypadł zmierzch rycerstwa?,0,0.631578947368421,0.18518518518518523
+Bielik,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0.48648648648648646,0.1333333333333333
+Bielik,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.76,0.2134831460674157
+Bielik,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.14285714285714288,0.18181818181818177
+Bielik,Skąd biorą się komety krótkookresowe?,0,0.7804878048780487,0.33333333333333337
+Bielik,Kiedy powstał Pas Kuipera?,0,0.9433962264150945,0.7236842105263157
+Bielik,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0.3243243243243243,0.05555555555555558
+Bielik,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0.7916666666666666,0.23376623376623373
+Bielik,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.6486486486486487,0.13157894736842102
+Bielik,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0.9230769230769231,0.8611111111111112
+Bielik,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0.9473684210526316,0.9375
+Bielik,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,1,1.0,1.0
+Bielik,Kiedy naukowiec zdobył profesurę?,0,0.4615384615384615,0.33333333333333337
+Bielik,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.9433962264150945,0.7794117647058824
+Bielik,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0.7857142857142857,0.5454545454545454
+Bielik,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.7843137254901961,0.19047619047619047
+Bielik,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",1,1.0,1.0
+Bielik,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.975609756097561,0.9705882352941176
+Bielik,Za co ukarano Guozhu?,0,0.85,0.4782608695652174
+Bielik,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.8,0.2098765432098766
+Bielik,Jaki był powód dokonania przez władze eksmisji?,0,0.8444444444444444,0.28378378378378377
+Bielik,W jakiej produkcji pojawił się aktor w 1997 roku?,1,1.0,1.0
+Bielik,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0.35294117647058826,0.11290322580645162
+Bielik,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0.33333333333333337,0.09615384615384615
+Bielik,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.6538461538461539,0.15625
+Bielik,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.9090909090909091,0.6538461538461539
+Bielik,Skąd chciano pozbyć się Żydów i Polaków?,0,0.65625,0.21739130434782605
+Bielik,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0.4615384615384615,0.07594936708860756
+Bielik,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.8421052631578948,0.9
+Bielik,Jaki obiekt przyniósł straty spółce?,0,0.2608695652173913,0.12903225806451613
+Bielik,Kiedy doszło do likwidacji spółki?,0,0.375,0.2142857142857143
+Bielik,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0.6818181818181819,0.19117647058823528
+Bielik,Kiedy ostatecznie zlikwidowano windę?,0,0.8636363636363635,0.5
+gpt35,Czym są pisma rabiniczne?,0,0.3076923076923077,0.32167832167832167
+gpt35,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0,0.2777777777777778
+gpt35,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.11764705882352941,0.3013698630136986
+gpt35,W jakiej formie przekazana została Miszna?,0,0,0.09523809523809523
+gpt35,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0,0.11475409836065575
+gpt35,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,0,0.4,0.18571428571428572
+gpt35,Czy Emilia podbiła Dyneburg?,0,0,0.40909090909090906
+gpt35,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.5714285714285714,0.37016574585635365
+gpt35,W jakim miejscu odbył się ślub pary?,0,0.08,0.20833333333333337
+gpt35,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.20000000000000004,0.4339622641509434
+gpt35,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.4,0.2558139534883721
+gpt35,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.5,0.5108695652173914
+gpt35,Jakie dania jedzono w czasie karnawału? ,0,0,0.06666666666666665
+gpt35,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.09090909090909091,0.19999999999999996
+gpt35,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.5,0.39655172413793105
+gpt35,Kto zmierzy się w pojedynku o Superpuchar?,0,0.3846153846153846,0.5425531914893618
+gpt35,Jakim mianem ponownie określano imprezę od 2014 roku?,0,0.5,0.9473684210526316
+gpt35,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.375,0.313953488372093
+gpt35,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.5217391304347825,0.43442622950819676
+gpt35,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.12903225806451613,0.048128342245989275
+gpt35,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0.0888888888888889,0.09187279151943462
+gpt35,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.16666666666666666,0.27722772277227725
+gpt35,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0.20689655172413793,0.22695035460992907
+gpt35,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,0,0.28571428571428575,0.19277108433734935
+gpt35,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.3,0.15454545454545454
+gpt35,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0,0.09375
+gpt35,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.15384615384615383,0.2647058823529411
+gpt35,Kiedy sfinalizowano konstrukcję 13WE?,0,0.2,0.18867924528301883
+gpt35,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0,0.07692307692307687
+gpt35,Kiedy przekazano pojazd do użytku?,0,0.3636363636363636,0.19298245614035092
+gpt35,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.3809523809523809,0.33333333333333337
+gpt35,Dlaczego artysta tworzy rozmaite alter ego?,0,0.11764705882352941,0.23563218390804597
+gpt35,Która tożsamość rapera jest najpopularniejsza?,0,0,0.15873015873015872
+gpt35,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0,0.18518518518518523
+gpt35,Czyim alter ego jest Eminem?,0,0,0.16666666666666663
+gpt35,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.5517241379310345,0.5166666666666666
+gpt35,W jaki sposób należy dotykać mezuzę?,0,0.17391304347826084,0.08227848101265822
+gpt35,W jakich miejscach można wykonać pocałunek?,0,0.18749999999999997,0.467741935483871
+gpt35,O czym świadczy wykonanie pocałunku?,0,0.29411764705882354,0.16666666666666663
+gpt35,W którym roku Rosja dokonała aneksji Krymu?,0,0.1818181818181818,0.11538461538461542
+gpt35,Jaka była przyczyna aneksji Krymu?,0,0.4210526315789474,0.37168141592920356
+gpt35,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.3636363636363636,0.2102272727272727
+gpt35,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.5614035087719298,0.4559585492227979
+gpt35,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0,0.13043478260869568
+gpt35,Czyje imię nosił szpital na Wolskiej?,0,0.1818181818181818,0.24561403508771928
+gpt35,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.22222222222222224,0.10344827586206895
+gpt35,Jakie tereny obejmował główny odcinek frontu?,0,0.6451612903225806,0.6721311475409837
+gpt35,Czy wojsko niemieckie dysponowało także czołgami?,0,0,0.2551020408163265
+gpt35,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.14285714285714288,0.048192771084337394
+gpt35,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.125,0.06818181818181823
+gpt35,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0,0.7777777777777778
+gpt35,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0,0.06153846153846154
+gpt35,Kiedy Matczak zdobył tytuł profesorski?,0,0.5454545454545454,0.28
+gpt35,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0.13333333333333336,0.09195402298850575
+gpt35,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.41379310344827586,0.4576271186440678
+gpt35,Jak nazywa się prowadzony przez niego podcast?,0,0.4,0.25806451612903225
+gpt35,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.1111111111111111,0.08181818181818179
+gpt35,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",0,0,0.11904761904761907
+gpt35,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0.7692307692307692,0.896551724137931
+gpt35,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,0,0.1904761904761905,0.16666666666666663
+gpt35,Jakie tematy poruszył w swojej piosence Hill?,0,0.5454545454545455,0.5137614678899083
+gpt35,Czy Lil Nas X jest osobą homoseksualną?,0,0.36363636363636365,0.18478260869565222
+gpt35,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0.1904761904761905,0.26751592356687903
+gpt35,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.10256410256410256,0.12962962962962965
+gpt35,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0.5161290322580644,0.4285714285714286
+gpt35,Jakie zadania należały do pionu okrętów?,0,0.3870967741935484,0.5419847328244275
+gpt35,"Kto dowodził ""Wilkiem""?",0,0.1818181818181818,0.22580645161290325
+gpt35,Na kiedy przypadł zmierzch rycerstwa?,0,0,0.18518518518518523
+gpt35,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0,0.1325301204819277
+gpt35,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.4166666666666667,0.4811320754716981
+gpt35,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.11764705882352941,0.11111111111111116
+gpt35,Skąd biorą się komety krótkookresowe?,0,0.15789473684210525,0.10483870967741937
+gpt35,Kiedy powstał Pas Kuipera?,0,0.7058823529411764,0.7236842105263157
+gpt35,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0,0.13953488372093026
+gpt35,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0,0.26086956521739135
+gpt35,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.10526315789473684,0.1151079136690647
+gpt35,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0,0.2450980392156863
+gpt35,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0,0.13235294117647056
+gpt35,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,0,0.6666666666666666,0.9523809523809523
+gpt35,Kiedy naukowiec zdobył profesurę?,0,0.2857142857142857,0.10256410256410253
+gpt35,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.5000000000000001,0.5760869565217391
+gpt35,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0.5,0.6923076923076923
+gpt35,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.34782608695652173,0.33333333333333337
+gpt35,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",0,0,0.18085106382978722
+gpt35,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.375,0.3626373626373627
+gpt35,Za co ukarano Guozhu?,0,0.47619047619047616,0.33333333333333337
+gpt35,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.26666666666666666,0.3191489361702128
+gpt35,Jaki był powód dokonania przez władze eksmisji?,0,0.4347826086956522,0.3795620437956204
+gpt35,W jakiej produkcji pojawił się aktor w 1997 roku?,0,0.13333333333333333,0.34523809523809523
+gpt35,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0,0.109375
+gpt35,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0,0.06666666666666665
+gpt35,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.7142857142857143,0.47540983606557374
+gpt35,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.35294117647058826,0.20731707317073167
+gpt35,Skąd chciano pozbyć się Żydów i Polaków?,0,0.39999999999999997,0.35114503816793896
+gpt35,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0.2222222222222222,0.14473684210526316
+gpt35,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.2,0.15517241379310343
+gpt35,Jaki obiekt przyniósł straty spółce?,0,0,0.12903225806451613
+gpt35,Kiedy doszło do likwidacji spółki?,0,0,0.2142857142857143
+gpt35,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0.5000000000000001,0.3943661971830986
+gpt35,Kiedy ostatecznie zlikwidowano windę?,0,0,0.1470588235294118
+gpt35,Czym są pisma rabiniczne?,0,0.2857142857142857,0.33766233766233766
+gpt35,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0.16666666666666669,0.0641025641025641
+gpt35,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.11764705882352941,0.3013698630136986
+gpt35,W jakiej formie przekazana została Miszna?,0,0,0.09523809523809523
+gpt35,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0,0.11475409836065575
+gpt35,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,0,0.5,0.24528301886792447
+gpt35,Czy Emilia podbiła Dyneburg?,0,0,0.40909090909090906
+gpt35,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.30769230769230765,0.19786096256684493
+gpt35,W jakim miejscu odbył się ślub pary?,0,0.08,0.20833333333333337
+gpt35,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.1818181818181818,0.33018867924528306
+gpt35,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.4,0.2558139534883721
+gpt35,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.5,0.5108695652173914
+gpt35,Jakie dania jedzono w czasie karnawału? ,0,0,0.05494505494505497
+gpt35,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.09090909090909091,0.19999999999999996
+gpt35,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.39999999999999997,0.26136363636363635
+gpt35,Kto zmierzy się w pojedynku o Superpuchar?,0,0.6451612903225806,0.635036496350365
+gpt35,Jakim mianem ponownie określano imprezę od 2014 roku?,0,0.5,0.9473684210526316
+gpt35,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.5,0.9642857142857143
+gpt35,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.375,0.2912087912087912
+gpt35,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.12121212121212122,0.04500000000000004
+gpt35,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0.0851063829787234,0.08823529411764708
+gpt35,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.16666666666666666,0.28865979381443296
+gpt35,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0.26315789473684215,0.2727272727272727
+gpt35,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,0,0.4,0.18181818181818177
+gpt35,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.3,0.15454545454545454
+gpt35,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0,0.09375
+gpt35,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.15384615384615383,0.2647058823529411
+gpt35,Kiedy sfinalizowano konstrukcję 13WE?,0,0,0.1282051282051282
+gpt35,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0,0.07692307692307687
+gpt35,Kiedy przekazano pojazd do użytku?,0,0.6666666666666666,0.5
+gpt35,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.3809523809523809,0.33333333333333337
+gpt35,Dlaczego artysta tworzy rozmaite alter ego?,0,0.16,0.2920353982300885
+gpt35,Która tożsamość rapera jest najpopularniejsza?,0,0,0.14925373134328357
+gpt35,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0.375,0.38095238095238093
+gpt35,Czyim alter ego jest Eminem?,0,0,0.1875
+gpt35,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.5517241379310345,0.5166666666666666
+gpt35,W jaki sposób należy dotykać mezuzę?,0,0.17391304347826084,0.08227848101265822
+gpt35,W jakich miejscach można wykonać pocałunek?,0,0.5161290322580646,0.4838709677419355
+gpt35,O czym świadczy wykonanie pocałunku?,0,0.29411764705882354,0.1842105263157895
+gpt35,W którym roku Rosja dokonała aneksji Krymu?,0,0.2,0.12244897959183676
+gpt35,Jaka była przyczyna aneksji Krymu?,0,0.25806451612903225,0.21319796954314718
+gpt35,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.34285714285714286,0.18974358974358974
+gpt35,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.5714285714285715,0.4766839378238342
+gpt35,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0,0.13043478260869568
+gpt35,Czyje imię nosił szpital na Wolskiej?,0,0.22222222222222224,0.28260869565217395
+gpt35,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.2,0.09090909090909094
+gpt35,Jakie tereny obejmował główny odcinek frontu?,0,0.6451612903225806,0.6721311475409837
+gpt35,Czy wojsko niemieckie dysponowało także czołgami?,0,0,0.20491803278688525
+gpt35,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.13333333333333333,0.0449438202247191
+gpt35,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.125,0.06818181818181823
+gpt35,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0,0.08333333333333337
+gpt35,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0.11764705882352941,0.03960396039603964
+gpt35,Kiedy Matczak zdobył tytuł profesorski?,0,0.8571428571428571,0.8235294117647058
+gpt35,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0,0.8888888888888888
+gpt35,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.41379310344827586,0.4576271186440678
+gpt35,Jak nazywa się prowadzony przez niego podcast?,0,0.4,0.25806451612903225
+gpt35,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.3,0.1428571428571429
+gpt35,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",1,1.0,1.0
+gpt35,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0.15384615384615383,0.33999999999999997
+gpt35,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,0,0.06666666666666667,0.08999999999999997
+gpt35,Jakie tematy poruszył w swojej piosence Hill?,0,0.4444444444444444,0.4242424242424242
+gpt35,Czy Lil Nas X jest osobą homoseksualną?,0,0.36363636363636365,0.18478260869565222
+gpt35,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0,0.17910447761194026
+gpt35,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.10256410256410256,0.12962962962962965
+gpt35,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0.33333333333333326,0.4191176470588235
+gpt35,Jakie zadania należały do pionu okrętów?,0,0.42622950819672134,0.5801526717557253
+gpt35,"Kto dowodził ""Wilkiem""?",0,0.1818181818181818,0.22580645161290325
+gpt35,Na kiedy przypadł zmierzch rycerstwa?,0,0,0.17741935483870963
+gpt35,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0,0.1351351351351351
+gpt35,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.2608695652173913,0.49504950495049505
+gpt35,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.11764705882352941,0.11340206185567014
+gpt35,Skąd biorą się komety krótkookresowe?,0,0.10810810810810813,0.09426229508196726
+gpt35,Kiedy powstał Pas Kuipera?,0,0.7058823529411764,0.7236842105263157
+gpt35,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0,0.13953488372093026
+gpt35,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0,0.26086956521739135
+gpt35,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.08695652173913045,0.09142857142857141
+gpt35,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0,0.2450980392156863
+gpt35,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0.28571428571428575,0.234375
+gpt35,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,0,0.6666666666666666,0.9523809523809523
+gpt35,Kiedy naukowiec zdobył profesurę?,0,0.15384615384615385,0.05128205128205132
+gpt35,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.6666666666666666,0.6179775280898876
+gpt35,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0,0.6428571428571428
+gpt35,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.43478260869565216,0.33333333333333337
+gpt35,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",0,0,0.18085106382978722
+gpt35,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.2105263157894737,0.28205128205128205
+gpt35,Za co ukarano Guozhu?,0,0.47619047619047616,0.33333333333333337
+gpt35,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.26666666666666666,0.32608695652173914
+gpt35,Jaki był powód dokonania przez władze eksmisji?,0,0.4166666666666667,0.33333333333333337
+gpt35,W jakiej produkcji pojawił się aktor w 1997 roku?,0,0.13333333333333333,0.34523809523809523
+gpt35,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0,0.109375
+gpt35,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0,0.06666666666666665
+gpt35,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.38461538461538464,0.2222222222222222
+gpt35,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.35294117647058826,0.20731707317073167
+gpt35,Skąd chciano pozbyć się Żydów i Polaków?,0,0.35714285714285715,0.20779220779220775
+gpt35,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0.2222222222222222,0.14473684210526316
+gpt35,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.1818181818181818,0.14516129032258063
+gpt35,Jaki obiekt przyniósł straty spółce?,0,0,0.07272727272727275
+gpt35,Kiedy doszło do likwidacji spółki?,0,0,0.06382978723404253
+gpt35,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0.5000000000000001,0.4
+gpt35,Kiedy ostatecznie zlikwidowano windę?,0,0,0.1470588235294118
+gpt35,Czym są pisma rabiniczne?,0,0.2857142857142857,0.3354838709677419
+gpt35,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0,0.2777777777777778
+gpt35,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.11764705882352941,0.3013698630136986
+gpt35,W jakiej formie przekazana została Miszna?,0,0,0.09523809523809523
+gpt35,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0,0.11475409836065575
+gpt35,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,0,0.5,0.24528301886792447
+gpt35,Czy Emilia podbiła Dyneburg?,0,0.32,0.24264705882352944
+gpt35,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.5833333333333334,0.3812154696132597
+gpt35,W jakim miejscu odbył się ślub pary?,0,0.6363636363636364,0.5
+gpt35,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.20000000000000004,0.4339622641509434
+gpt35,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.4,0.2558139534883721
+gpt35,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.5,0.5108695652173914
+gpt35,Jakie dania jedzono w czasie karnawału? ,0,0,0.03816793893129766
+gpt35,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.09090909090909091,0.19999999999999996
+gpt35,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.5,0.39655172413793105
+gpt35,Kto zmierzy się w pojedynku o Superpuchar?,0,0.625,0.6083916083916083
+gpt35,Jakim mianem ponownie określano imprezę od 2014 roku?,0,0.5,0.9473684210526316
+gpt35,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.375,0.313953488372093
+gpt35,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.6,0.5520833333333333
+gpt35,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.11764705882352941,0.041860465116279055
+gpt35,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0.0851063829787234,0.09090909090909094
+gpt35,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.14814814814814814,0.2735849056603774
+gpt35,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0.3125,0.3149171270718232
+gpt35,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,0,0.28571428571428575,0.19277108433734935
+gpt35,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.3,0.15454545454545454
+gpt35,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0,0.09375
+gpt35,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.15384615384615383,0.2647058823529411
+gpt35,Kiedy sfinalizowano konstrukcję 13WE?,0,0.2,0.18867924528301883
+gpt35,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0,0.07692307692307687
+gpt35,Kiedy przekazano pojazd do użytku?,0,0.3636363636363636,0.19298245614035092
+gpt35,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.3809523809523809,0.33333333333333337
+gpt35,Dlaczego artysta tworzy rozmaite alter ego?,0,0.16,0.2831858407079646
+gpt35,Która tożsamość rapera jest najpopularniejsza?,0,0,0.14925373134328357
+gpt35,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0.375,0.38095238095238093
+gpt35,Czyim alter ego jest Eminem?,0,0,0.1875
+gpt35,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.5517241379310345,0.5254237288135593
+gpt35,W jaki sposób należy dotykać mezuzę?,0,0.11764705882352941,0.12380952380952381
+gpt35,W jakich miejscach można wykonać pocałunek?,0,0.4516129032258065,0.49193548387096775
+gpt35,O czym świadczy wykonanie pocałunku?,0,0.4444444444444444,0.1578947368421053
+gpt35,W którym roku Rosja dokonała aneksji Krymu?,0,0.6666666666666666,0.30000000000000004
+gpt35,Jaka była przyczyna aneksji Krymu?,0,0.3636363636363636,0.2978723404255319
+gpt35,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.3636363636363636,0.2102272727272727
+gpt35,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.5714285714285715,0.4766839378238342
+gpt35,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0,0.13043478260869568
+gpt35,Czyje imię nosił szpital na Wolskiej?,0,0.22222222222222224,0.30434782608695654
+gpt35,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.22222222222222224,0.10526315789473684
+gpt35,Jakie tereny obejmował główny odcinek frontu?,0,0.14814814814814817,0.45999999999999996
+gpt35,Czy wojsko niemieckie dysponowało także czołgami?,0,0,0.2755102040816326
+gpt35,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.15384615384615385,0.053333333333333344
+gpt35,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.125,0.06818181818181823
+gpt35,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0,0.08333333333333337
+gpt35,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0,0.03960396039603964
+gpt35,Kiedy Matczak zdobył tytuł profesorski?,0,0.5454545454545454,0.28
+gpt35,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0.14285714285714285,0.10126582278481011
+gpt35,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.41379310344827586,0.4576271186440678
+gpt35,Jak nazywa się prowadzony przez niego podcast?,0,0,0.1454545454545455
+gpt35,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.25,0.13207547169811318
+gpt35,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",1,1.0,1.0
+gpt35,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0.2727272727272727,0.39837398373983735
+gpt35,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,0,0.23529411764705882,0.2247191011235955
+gpt35,Jakie tematy poruszył w swojej piosence Hill?,0,0.5454545454545455,0.5137614678899083
+gpt35,Czy Lil Nas X jest osobą homoseksualną?,0,0.36363636363636365,0.18478260869565222
+gpt35,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0,0.19402985074626866
+gpt35,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.04878048780487805,0.1620370370370371
+gpt35,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0.33333333333333326,0.4191176470588235
+gpt35,Jakie zadania należały do pionu okrętów?,0,0.18518518518518517,0.39312977099236646
+gpt35,"Kto dowodził ""Wilkiem""?",0,0.1818181818181818,0.22580645161290325
+gpt35,Na kiedy przypadł zmierzch rycerstwa?,0,0,0.08333333333333337
+gpt35,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0,0.1325301204819277
+gpt35,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.2608695652173913,0.49504950495049505
+gpt35,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.11764705882352941,0.11340206185567014
+gpt35,Skąd biorą się komety krótkookresowe?,0,0.15789473684210525,0.10483870967741937
+gpt35,Kiedy powstał Pas Kuipera?,0,0.7058823529411764,0.7236842105263157
+gpt35,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0,0.13953488372093026
+gpt35,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0,0.26582278481012656
+gpt35,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.10526315789473684,0.1151079136690647
+gpt35,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0,0.2894736842105263
+gpt35,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0.5714285714285715,0.234375
+gpt35,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,0,0.6666666666666666,0.9523809523809523
+gpt35,Kiedy naukowiec zdobył profesurę?,0,0.2857142857142857,0.10256410256410253
+gpt35,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.6666666666666666,0.6179775280898876
+gpt35,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0,0.6428571428571428
+gpt35,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.34782608695652173,0.33333333333333337
+gpt35,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",0,0,0.18085106382978722
+gpt35,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.2105263157894737,0.28205128205128205
+gpt35,Za co ukarano Guozhu?,0,0.47619047619047616,0.33333333333333337
+gpt35,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.26666666666666666,0.32608695652173914
+gpt35,Jaki był powód dokonania przez władze eksmisji?,0,0.4166666666666667,0.33333333333333337
+gpt35,W jakiej produkcji pojawił się aktor w 1997 roku?,0,0.4,0.35365853658536583
+gpt35,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0,0.14893617021276595
+gpt35,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0,0.06666666666666665
+gpt35,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.37037037037037035,0.4180327868852459
+gpt35,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.35294117647058826,0.20731707317073167
+gpt35,Skąd chciano pozbyć się Żydów i Polaków?,0,0.45454545454545453,0.3113207547169812
+gpt35,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0.2222222222222222,0.14473684210526316
+gpt35,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.2,0.15517241379310343
+gpt35,Jaki obiekt przyniósł straty spółce?,0,0,0.12903225806451613
+gpt35,Kiedy doszło do likwidacji spółki?,0,0,0.06382978723404253
+gpt35,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0.5000000000000001,0.3943661971830986
+gpt35,Kiedy ostatecznie zlikwidowano windę?,0,0,0.1470588235294118
+gpt40,Czym są pisma rabiniczne?,0,0.27272727272727276,0.2954545454545454
+gpt40,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0.14285714285714288,0.05681818181818177
+gpt40,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.2,0.23655913978494625
+gpt40,W jakiej formie przekazana została Miszna?,0,0,0.09523809523809523
+gpt40,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0.3157894736842105,0.1724137931034483
+gpt40,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,0,0.4,0.18571428571428572
+gpt40,Czy Emilia podbiła Dyneburg?,0,0.5,0.3258426966292135
+gpt40,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.3902439024390244,0.18232044198895025
+gpt40,W jakim miejscu odbył się ślub pary?,0,0.6666666666666665,0.671875
+gpt40,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.1818181818181818,0.33018867924528306
+gpt40,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.4,0.2558139534883721
+gpt40,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.3,0.3516483516483516
+gpt40,Jakie dania jedzono w czasie karnawału? ,0,0,0.07228915662650603
+gpt40,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.26666666666666666,0.2222222222222222
+gpt40,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.4285714285714285,0.17567567567567566
+gpt40,Kto zmierzy się w pojedynku o Superpuchar?,0,0.4444444444444445,0.20588235294117652
+gpt40,Jakim mianem ponownie określano imprezę od 2014 roku?,0,0.1818181818181818,0.2727272727272727
+gpt40,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.5714285714285715,0.34615384615384615
+gpt40,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.5714285714285714,0.5247524752475248
+gpt40,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.25,0.10465116279069764
+gpt40,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0,0.13084112149532712
+gpt40,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.2105263157894737,0.3287671232876712
+gpt40,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0,0.20454545454545459
+gpt40,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,0,0.4,0.18181818181818177
+gpt40,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.25,0.18085106382978722
+gpt40,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0.14285714285714288,0.09677419354838712
+gpt40,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.20000000000000004,0.17647058823529416
+gpt40,Kiedy sfinalizowano konstrukcję 13WE?,0,0.6,0.28846153846153844
+gpt40,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0,0.07692307692307687
+gpt40,Kiedy przekazano pojazd do użytku?,0,0.3636363636363636,0.19298245614035092
+gpt40,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.47619047619047616,0.33333333333333337
+gpt40,Dlaczego artysta tworzy rozmaite alter ego?,0,0.08,0.24
+gpt40,Która tożsamość rapera jest najpopularniejsza?,0,0,0.15873015873015872
+gpt40,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0.38095238095238093,0.19999999999999996
+gpt40,Czyim alter ego jest Eminem?,0,0,0.11538461538461542
+gpt40,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.41666666666666663,0.26190476190476186
+gpt40,W jaki sposób należy dotykać mezuzę?,0,0.16666666666666669,0.17105263157894735
+gpt40,W jakich miejscach można wykonać pocałunek?,0,0.29411764705882354,0.33870967741935487
+gpt40,O czym świadczy wykonanie pocałunku?,0,0.35294117647058826,0.2192982456140351
+gpt40,W którym roku Rosja dokonała aneksji Krymu?,0,0.22222222222222224,0.14634146341463417
+gpt40,Jaka była przyczyna aneksji Krymu?,0,0.3529411764705882,0.42553191489361697
+gpt40,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.3478260869565218,0.21649484536082475
+gpt40,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.22727272727272727,0.27979274611398963
+gpt40,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0.11764705882352941,0.25
+gpt40,Czyje imię nosił szpital na Wolskiej?,0,0.22222222222222224,0.30434782608695654
+gpt40,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.2,0.09090909090909094
+gpt40,Jakie tereny obejmował główny odcinek frontu?,0,0.24999999999999994,0.23170731707317072
+gpt40,Czy wojsko niemieckie dysponowało także czołgami?,0,0,0.22448979591836737
+gpt40,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.15384615384615385,0.053333333333333344
+gpt40,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.13333333333333336,0.06493506493506496
+gpt40,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0,0.08333333333333337
+gpt40,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0.11764705882352941,0.03960396039603964
+gpt40,Kiedy Matczak zdobył tytuł profesorski?,0,0.5454545454545454,0.28
+gpt40,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0.23529411764705882,0.08080808080808077
+gpt40,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.41379310344827586,0.4576271186440678
+gpt40,Jak nazywa się prowadzony przez niego podcast?,0,0,0.42105263157894735
+gpt40,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.11764705882352941,0.12962962962962965
+gpt40,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",0,0,0.13157894736842102
+gpt40,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0,0.19999999999999996
+gpt40,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,0,0,0.09782608695652173
+gpt40,Jakie tematy poruszył w swojej piosence Hill?,0,0.18181818181818182,0.2666666666666667
+gpt40,Czy Lil Nas X jest osobą homoseksualną?,0,0.36363636363636365,0.18478260869565222
+gpt40,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0.1764705882352941,0.20895522388059706
+gpt40,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.04878048780487805,0.1620370370370371
+gpt40,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0,0.23655913978494625
+gpt40,Jakie zadania należały do pionu okrętów?,0,0.13333333333333333,0.1984732824427481
+gpt40,"Kto dowodził ""Wilkiem""?",0,0.22222222222222224,0.20408163265306123
+gpt40,Na kiedy przypadł zmierzch rycerstwa?,0,0,0.13580246913580252
+gpt40,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0,0.11224489795918369
+gpt40,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.25,0.37735849056603776
+gpt40,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.1111111111111111,0.1208791208791209
+gpt40,Skąd biorą się komety krótkookresowe?,0,0.39999999999999997,0.30952380952380953
+gpt40,Kiedy powstał Pas Kuipera?,0,0.631578947368421,0.6470588235294117
+gpt40,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0,0.13953488372093026
+gpt40,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0,0.19047619047619047
+gpt40,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.16666666666666669,0.19753086419753085
+gpt40,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0.7142857142857143,0.5142857142857142
+gpt40,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0,0.13043478260869568
+gpt40,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,0,0.5,0.3508771929824561
+gpt40,Kiedy naukowiec zdobył profesurę?,0,0.2857142857142857,0.10256410256410253
+gpt40,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.6666666666666666,0.6043956043956045
+gpt40,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0.16666666666666669,0.17391304347826086
+gpt40,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.5454545454545455,0.25555555555555554
+gpt40,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",0,0,0.18085106382978722
+gpt40,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.4285714285714285,0.4415584415584416
+gpt40,Za co ukarano Guozhu?,0,0.5882352941176471,0.39639639639639634
+gpt40,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.26666666666666666,0.3191489361702128
+gpt40,Jaki był powód dokonania przez władze eksmisji?,0,0.5263157894736842,0.3398058252427184
+gpt40,W jakiej produkcji pojawił się aktor w 1997 roku?,0,0.13333333333333333,0.34523809523809523
+gpt40,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0,0.109375
+gpt40,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0,0.09259259259259256
+gpt40,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.09523809523809525,0.19047619047619047
+gpt40,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.375,0.21250000000000002
+gpt40,Skąd chciano pozbyć się Żydów i Polaków?,0,0.5882352941176471,0.3661971830985915
+gpt40,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0,0.14473684210526316
+gpt40,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.13333333333333336,0.08999999999999997
+gpt40,Jaki obiekt przyniósł straty spółce?,0,0,0.07692307692307687
+gpt40,Kiedy doszło do likwidacji spółki?,0,0.16666666666666669,0.05797101449275366
+gpt40,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0.5555555555555556,0.345679012345679
+gpt40,Kiedy ostatecznie zlikwidowano windę?,0,0.7142857142857143,0.47887323943661975
+gpt40,Czym są pisma rabiniczne?,0,0.17142857142857143,0.20707070707070707
+gpt40,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0.14285714285714288,0.05681818181818177
+gpt40,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.16666666666666666,0.16923076923076918
+gpt40,W jakiej formie przekazana została Miszna?,0,0,0.04201680672268904
+gpt40,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0.5833333333333334,0.4841269841269841
+gpt40,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,0,0.4,0.18571428571428572
+gpt40,Czy Emilia podbiła Dyneburg?,0,0.3,0.2549019607843137
+gpt40,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.4615384615384615,0.5
+gpt40,W jakim miejscu odbył się ślub pary?,0,0.6666666666666665,0.671875
+gpt40,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.2608695652173913,0.34905660377358494
+gpt40,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.4,0.2558139534883721
+gpt40,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.23809523809523808,0.21076233183856508
+gpt40,Jakie dania jedzono w czasie karnawału? ,0,0,0.030701754385964897
+gpt40,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.09090909090909091,0.19999999999999996
+gpt40,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.39999999999999997,0.28395061728395066
+gpt40,Kto zmierzy się w pojedynku o Superpuchar?,0,0.4444444444444445,0.3106796116504854
+gpt40,Jakim mianem ponownie określano imprezę od 2014 roku?,0,0,0.26865671641791045
+gpt40,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.5714285714285715,0.34615384615384615
+gpt40,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.5714285714285714,0.5247524752475248
+gpt40,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.13793103448275862,0.05232558139534882
+gpt40,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0.046511627906976744,0.09848484848484851
+gpt40,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.4,0.43089430894308944
+gpt40,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0.07692307692307691,0.2137404580152672
+gpt40,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,0,0.4,0.18181818181818177
+gpt40,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.2,0.1382113821138211
+gpt40,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0,0.0957446808510638
+gpt40,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.18750000000000003,0.2592592592592593
+gpt40,Kiedy sfinalizowano konstrukcję 13WE?,0,0.6,0.28846153846153844
+gpt40,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0,0.07692307692307687
+gpt40,Kiedy przekazano pojazd do użytku?,0,0.33333333333333337,0.16176470588235292
+gpt40,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.47619047619047616,0.33333333333333337
+gpt40,Dlaczego artysta tworzy rozmaite alter ego?,0,0.03278688524590165,0.12957746478873244
+gpt40,Która tożsamość rapera jest najpopularniejsza?,0,0,0.15873015873015872
+gpt40,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0.2857142857142857,0.2640449438202247
+gpt40,Czyim alter ego jest Eminem?,0,0,0.08376963350785338
+gpt40,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.5517241379310345,0.5299145299145299
+gpt40,W jaki sposób należy dotykać mezuzę?,0,0.05714285714285715,0.059633027522935755
+gpt40,W jakich miejscach można wykonać pocałunek?,0,0.35294117647058826,0.4516129032258065
+gpt40,O czym świadczy wykonanie pocałunku?,0,0.3076923076923077,0.4014598540145985
+gpt40,W którym roku Rosja dokonała aneksji Krymu?,0,0.22222222222222224,0.14634146341463417
+gpt40,Jaka była przyczyna aneksji Krymu?,0,0.25806451612903225,0.2009569377990431
+gpt40,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.37037037037037035,0.2720588235294118
+gpt40,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.3508771929824561,0.44041450777202074
+gpt40,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0.11764705882352941,0.25
+gpt40,Czyje imię nosił szpital na Wolskiej?,0,0.22222222222222224,0.30434782608695654
+gpt40,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.2,0.09090909090909094
+gpt40,Jakie tereny obejmował główny odcinek frontu?,0,0.625,0.6612903225806452
+gpt40,Czy wojsko niemieckie dysponowało także czołgami?,0,0,0.2551020408163265
+gpt40,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.15384615384615385,0.053333333333333344
+gpt40,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.13333333333333336,0.0641025641025641
+gpt40,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0,0.08333333333333337
+gpt40,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0.11764705882352941,0.03960396039603964
+gpt40,Kiedy Matczak zdobył tytuł profesorski?,0,0.5,0.24561403508771928
+gpt40,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0.19999999999999998,0.06504065040650409
+gpt40,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.41379310344827586,0.4576271186440678
+gpt40,Jak nazywa się prowadzony przez niego podcast?,0,0,0.42105263157894735
+gpt40,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.15384615384615383,0.1573033707865169
+gpt40,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",0,0,0.4
+gpt40,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0.20833333333333331,0.17218543046357615
+gpt40,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,0,0.2727272727272727,0.1724137931034483
+gpt40,Jakie tematy poruszył w swojej piosence Hill?,0,0.23255813953488372,0.2112068965517241
+gpt40,Czy Lil Nas X jest osobą homoseksualną?,0,0.36363636363636365,0.18478260869565222
+gpt40,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0.2105263157894737,0.2962962962962963
+gpt40,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.04878048780487805,0.1620370370370371
+gpt40,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0.33333333333333326,0.43181818181818177
+gpt40,Jakie zadania należały do pionu okrętów?,0,0.30508474576271183,0.4885496183206107
+gpt40,"Kto dowodził ""Wilkiem""?",0,0.25,0.20833333333333337
+gpt40,Na kiedy przypadł zmierzch rycerstwa?,0,0,0.11340206185567014
+gpt40,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0,0.04800000000000004
+gpt40,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.07692307692307691,0.38596491228070173
+gpt40,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.1111111111111111,0.1208791208791209
+gpt40,Skąd biorą się komety krótkookresowe?,0,0.19354838709677416,0.12935323383084574
+gpt40,Kiedy powstał Pas Kuipera?,0,0.5454545454545455,0.5238095238095238
+gpt40,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0,0.13953488372093026
+gpt40,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0.0625,0.16326530612244894
+gpt40,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.0689655172413793,0.07547169811320753
+gpt40,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0.5263157894736842,0.30508474576271183
+gpt40,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0,0.13043478260869568
+gpt40,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,0,0.5,0.3508771929824561
+gpt40,Kiedy naukowiec zdobył profesurę?,0,0.2857142857142857,0.10256410256410253
+gpt40,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.6666666666666666,0.6043956043956045
+gpt40,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0.16666666666666669,0.17391304347826086
+gpt40,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.48,0.40157480314960625
+gpt40,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",0,0,0.18085106382978722
+gpt40,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.4285714285714285,0.4415584415584416
+gpt40,Za co ukarano Guozhu?,0,0.3157894736842105,0.32773109243697474
+gpt40,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.26666666666666666,0.32608695652173914
+gpt40,Jaki był powód dokonania przez władze eksmisji?,0,0.3333333333333333,0.33333333333333337
+gpt40,W jakiej produkcji pojawił się aktor w 1997 roku?,0,0.13333333333333333,0.34523809523809523
+gpt40,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0,0.109375
+gpt40,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0,0.09259259259259256
+gpt40,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.37037037037037035,0.4180327868852459
+gpt40,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.35294117647058826,0.20731707317073167
+gpt40,Skąd chciano pozbyć się Żydów i Polaków?,0,0.5555555555555556,0.5609756097560976
+gpt40,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0,0.14473684210526316
+gpt40,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.19999999999999998,0.0714285714285714
+gpt40,Jaki obiekt przyniósł straty spółce?,0,0,0.12903225806451613
+gpt40,Kiedy doszło do likwidacji spółki?,0,0.16666666666666669,0.05797101449275366
+gpt40,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0,0.2210526315789474
+gpt40,Kiedy ostatecznie zlikwidowano windę?,0,0.7142857142857143,0.47887323943661975
+gpt40,Czym są pisma rabiniczne?,0,0.05714285714285715,0.1691542288557214
+gpt40,Z ilu komponentów składała się Tora przekazana Mojżeszowi?,0,0.14285714285714288,0.05681818181818177
+gpt40,W jakich formach występowała Tora przekazana Mojżeszowi?,0,0.21428571428571427,0.17218543046357615
+gpt40,W jakiej formie przekazana została Miszna?,0,0,0.09523809523809523
+gpt40,Kto początkowo należał do oddziału stworzonego przez Emilię?,0,0.5,0.4651162790697675
+gpt40,Kiedy Plater wraz z oddziałem dotarła do Dusiatów?,0,0.4,0.18571428571428572
+gpt40,Czy Emilia podbiła Dyneburg?,0,0.5263157894736842,0.3295454545454546
+gpt40,Z jakiego powodu żona Petera przeszła na anglikanizm?,0,0.4615384615384615,0.5
+gpt40,W jakim miejscu odbył się ślub pary?,0,0.6666666666666665,0.671875
+gpt40,Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?,0,0.2608695652173913,0.34905660377358494
+gpt40,Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?,0,0.4,0.2558139534883721
+gpt40,Dlaczego w zapusty ludzie spożywali więcej jedzenia?,0,0.24390243902439024,0.2079646017699115
+gpt40,Jakie dania jedzono w czasie karnawału? ,0,0,0.03755868544600938
+gpt40,Czy w zapusty dozwolone było spożywanie mięsa?,0,0.09090909090909091,0.19999999999999996
+gpt40,Co oprócz placków ziemniaczanych smażono w czasie karnawału? ,0,0.39999999999999997,0.28395061728395066
+gpt40,Kto zmierzy się w pojedynku o Superpuchar?,0,0.2926829268292683,0.37823834196891193
+gpt40,Jakim mianem ponownie określano imprezę od 2014 roku?,0,0,0.26865671641791045
+gpt40,Gdzie rozegrany zostanie pojedynek o Superpuchar?,0,0.5714285714285715,0.34615384615384615
+gpt40,Kiedy odbędzie się pojedynek o Superpuchar?,0,0.5714285714285714,0.5247524752475248
+gpt40,Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?,0,0.13793103448275862,0.05232558139534882
+gpt40,Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?,0,0.07692307692307691,0.07926829268292679
+gpt40,Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?,0,0.3076923076923077,0.49122807017543857
+gpt40,Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?,0,0.14814814814814814,0.25373134328358204
+gpt40,Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?,0,0.4,0.18181818181818177
+gpt40,Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?,0,0.2,0.1382113821138211
+gpt40,Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?,0,0,0.0957446808510638
+gpt40,Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?,0,0.18750000000000003,0.2592592592592593
+gpt40,Kiedy sfinalizowano konstrukcję 13WE?,0,0.6,0.28846153846153844
+gpt40,Gdzie odbyły się testy układu jezdnego pojazdu?,0,0,0.07692307692307687
+gpt40,Kiedy przekazano pojazd do użytku?,0,0.3636363636363636,0.19298245614035092
+gpt40,W jakim okresie odbyły się testy pojazdu na trasie WKD?,0,0.47619047619047616,0.33333333333333337
+gpt40,Dlaczego artysta tworzy rozmaite alter ego?,0,0.029850746268656716,0.11675126903553301
+gpt40,Która tożsamość rapera jest najpopularniejsza?,0,0,0.1785714285714286
+gpt40,"Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",0,0.2857142857142857,0.26857142857142857
+gpt40,Czyim alter ego jest Eminem?,0,0,0.09638554216867468
+gpt40,Jaką modlitwę odmawia się przy przekraczaniu progu domu?,0,0.5517241379310345,0.5299145299145299
+gpt40,W jaki sposób należy dotykać mezuzę?,0,0.06666666666666667,0.06914893617021278
+gpt40,W jakich miejscach można wykonać pocałunek?,0,0.29411764705882354,0.3790322580645161
+gpt40,O czym świadczy wykonanie pocałunku?,0,0.3414634146341463,0.38848920863309355
+gpt40,W którym roku Rosja dokonała aneksji Krymu?,0,0.22222222222222224,0.14634146341463417
+gpt40,Jaka była przyczyna aneksji Krymu?,0,0.23529411764705882,0.18834080717488788
+gpt40,Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?,0,0.35714285714285715,0.2569444444444444
+gpt40,W których realizacjach filmowych o Bondzie wystąpił Brosnan?,0,0.3508771929824561,0.44041450777202074
+gpt40,W jakim filmie o Bondzie wystąpił aktor w 2002 roku?,0,0.1111111111111111,0.23404255319148937
+gpt40,Czyje imię nosił szpital na Wolskiej?,0,0.22222222222222224,0.30434782608695654
+gpt40,"Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",0,0.2,0.09090909090909094
+gpt40,Jakie tereny obejmował główny odcinek frontu?,0,0.6451612903225806,0.6776859504132231
+gpt40,Czy wojsko niemieckie dysponowało także czołgami?,0,0,0.18367346938775508
+gpt40,W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ,0,0.15384615384615385,0.053333333333333344
+gpt40,W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ,0,0.14285714285714285,0.06578947368421051
+gpt40,Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ,0,0,0.08333333333333337
+gpt40,W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?,0,0.11764705882352941,0.03960396039603964
+gpt40,Kiedy Matczak zdobył tytuł profesorski?,0,0.5,0.24561403508771928
+gpt40,Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?,0,0.19999999999999998,0.06504065040650409
+gpt40,Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?,0,0.4827586206896552,0.5084745762711864
+gpt40,Jak nazywa się prowadzony przez niego podcast?,0,0,0.42105263157894735
+gpt40,"Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",0,0.15384615384615383,0.1573033707865169
+gpt40,"Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",0,0,0.4
+gpt40,"W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",0,0.3846153846153846,0.3466666666666667
+gpt40,Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?,0,0.2727272727272727,0.1724137931034483
+gpt40,Jakie tematy poruszył w swojej piosence Hill?,0,0.2631578947368421,0.23414634146341462
+gpt40,Czy Lil Nas X jest osobą homoseksualną?,0,0.36363636363636365,0.18478260869565222
+gpt40,Czy wszyscy zaakceptowali orientację Lil Nas X?,0,0.2105263157894737,0.2962962962962963
+gpt40,"Który okręt pojawił się w Gdyni jako pierwszy: ""Ryś"" czy ""Wilk""?",0,0.04878048780487805,0.1620370370370371
+gpt40,Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?,0,0.33333333333333326,0.43181818181818177
+gpt40,Jakie zadania należały do pionu okrętów?,0,0.4745762711864407,0.6030534351145038
+gpt40,"Kto dowodził ""Wilkiem""?",0,0.2,0.1923076923076923
+gpt40,Na kiedy przypadł zmierzch rycerstwa?,0,0,0.11340206185567014
+gpt40,Kiedy przestano wzywać szlachtę do boju w większości państw Europy?,0,0.05263157894736842,0.060869565217391286
+gpt40,Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?,0,0.07692307692307691,0.38596491228070173
+gpt40,Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?,0,0.1111111111111111,0.1208791208791209
+gpt40,Skąd biorą się komety krótkookresowe?,0,0.18181818181818182,0.12037037037037035
+gpt40,Kiedy powstał Pas Kuipera?,0,0.5454545454545455,0.5238095238095238
+gpt40,Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?,0,0,0.13953488372093026
+gpt40,Czy dysk rozproszony tworzy kilka ciał niebieskich?,0,0,0.16874999999999996
+gpt40,Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?,0,0.08333333333333333,0.09302325581395354
+gpt40,W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?,0,0.7142857142857143,0.5142857142857142
+gpt40,Kiedy prawnik współpracował z uniwersytetem w Melbourne?,0,0,0.13043478260869568
+gpt40,Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?,0,0.5,0.3508771929824561
+gpt40,Kiedy naukowiec zdobył profesurę?,0,0.2857142857142857,0.10256410256410253
+gpt40,W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?,0,0.47058823529411764,0.4818181818181818
+gpt40,Kiedy rozpoczął pracę przy Prywatnej kolekcji?,0,0.16666666666666669,0.17391304347826086
+gpt40,Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?,0,0.3333333333333333,0.33333333333333337
+gpt40,"Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",0,0,0.18085106382978722
+gpt40,Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?,0,0.4285714285714285,0.4415584415584416
+gpt40,Za co ukarano Guozhu?,0,0.47619047619047616,0.33333333333333337
+gpt40,W co wymierzone były protesty zorganizowane przez Guozhu?,0,0.26666666666666666,0.32608695652173914
+gpt40,Jaki był powód dokonania przez władze eksmisji?,0,0.5263157894736842,0.3398058252427184
+gpt40,W jakiej produkcji pojawił się aktor w 1997 roku?,0,0.13333333333333333,0.34523809523809523
+gpt40,W jaką postać wcielił się w filmie Bardzo długie zaręczyny?,0,0,0.109375
+gpt40,Kogo aktor zagrał w Letnim zawrocie głowy?,0,0,0.09259259259259256
+gpt40,Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?,0,0.37037037037037035,0.4180327868852459
+gpt40,Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?,0,0.35294117647058826,0.20731707317073167
+gpt40,Skąd chciano pozbyć się Żydów i Polaków?,0,0.5555555555555556,0.5609756097560976
+gpt40,Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?,0,0,0.14473684210526316
+gpt40,Gdzie naradzano się w sprawie planowanych przesiedleń?,0,0.19999999999999998,0.0714285714285714
+gpt40,Jaki obiekt przyniósł straty spółce?,0,0,0.07692307692307687
+gpt40,Kiedy doszło do likwidacji spółki?,0,0.16666666666666669,0.05797101449275366
+gpt40,Dlaczego zaniechano rozbiórki obiektu w latach 70.?,0,0.5,0.2947368421052632
+gpt40,Kiedy ostatecznie zlikwidowano windę?,0,0.7142857142857143,0.47887323943661975
+
+Model,Average Exact Match (%),Average F1 Score (%),Average Similarity (%)
+Bielik,9.0,67.67234472038905,34.0156200496637
+gpt35,0.6666666666666667,24.80824109991189,28.435922249541928
+gpt40,0.0,24.613324878329536,24.520959539986542

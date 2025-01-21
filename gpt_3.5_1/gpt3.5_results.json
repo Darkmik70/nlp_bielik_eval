@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Czym są pisma rabiniczne?",
+        "context": "Pisma rabiniczne – w tym Miszna – stanowią kompilację poglądów różnych rabinów na określony temat. Zgodnie z wierzeniami judaizmu Mojżesz otrzymał od Boga całą Torę, ale w dwóch częściach: jedną część w formie pisanej, a drugą część w formie ustnej. Miszna – jako Tora ustna – była traktowana nie tylko jako uzupełnienie Tory spisanej, ale również jako jej interpretacja i wyjaśnienie w konkretnych sytuacjach życiowych. Tym samym Miszna stanowiąca kodeks Prawa religijnego zaczęła równocześnie służyć za jego ustnie przekazywany podręcznik.",
+        "true_answers": [
+            "kompilację poglądów różnych rabinów na określony temat"
+        ],
+        "prediction": "Pisma rabiniczne, w tym Miszna, to kompilacja poglądów różnych rabinów na tematy religijne, stanowiąca interpretację i wyjaśnienie Tory ustnej.",
+        "exact_match": 0,
+        "f1_score": 0.3076923076923077
+    },
+    {
+        "question": "Z ilu komponentów składała się Tora przekazana Mojżeszowi?",
+        "context": "Pisma rabiniczne – w tym Miszna – stanowią kompilację poglądów różnych rabinów na określony temat. Zgodnie z wierzeniami judaizmu Mojżesz otrzymał od Boga całą Torę, ale w dwóch częściach: jedną część w formie pisanej, a drugą część w formie ustnej. Miszna – jako Tora ustna – była traktowana nie tylko jako uzupełnienie Tory spisanej, ale również jako jej interpretacja i wyjaśnienie w konkretnych sytuacjach życiowych. Tym samym Miszna stanowiąca kodeks Prawa religijnego zaczęła równocześnie służyć za jego ustnie przekazywany podręcznik.",
+        "true_answers": [
+            "dwóch"
+        ],
+        "prediction": "Dwóch komponentów.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "W jakich formach występowała Tora przekazana Mojżeszowi?",
+        "context": "Pisma rabiniczne – w tym Miszna – stanowią kompilację poglądów różnych rabinów na określony temat. Zgodnie z wierzeniami judaizmu Mojżesz otrzymał od Boga całą Torę, ale w dwóch częściach: jedną część w formie pisanej, a drugą część w formie ustnej. Miszna – jako Tora ustna – była traktowana nie tylko jako uzupełnienie Tory spisanej, ale również jako jej interpretacja i wyjaśnienie w konkretnych sytuacjach życiowych. Tym samym Miszna stanowiąca kodeks Prawa religijnego zaczęła równocześnie służyć za jego ustnie przekazywany podręcznik.",
+        "true_answers": [
+            "pisanej, a drugą część w formie ustnej"
+        ],
+        "prediction": "Tora przekazana Mojżeszowi występowała w dwóch formach: pisanej i ustnej.",
+        "exact_match": 0,
+        "f1_score": 0.11764705882352941
+    },
+    {
+        "question": "W jakiej formie przekazana została Miszna?",
+        "context": "Pisma rabiniczne – w tym Miszna – stanowią kompilację poglądów różnych rabinów na określony temat. Zgodnie z wierzeniami judaizmu Mojżesz otrzymał od Boga całą Torę, ale w dwóch częściach: jedną część w formie pisanej, a drugą część w formie ustnej. Miszna – jako Tora ustna – była traktowana nie tylko jako uzupełnienie Tory spisanej, ale również jako jej interpretacja i wyjaśnienie w konkretnych sytuacjach życiowych. Tym samym Miszna stanowiąca kodeks Prawa religijnego zaczęła równocześnie służyć za jego ustnie przekazywany podręcznik.",
+        "true_answers": [
+            "ustna"
+        ],
+        "prediction": "Miszna została przekazana w formie ustnej.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kto początkowo należał do oddziału stworzonego przez Emilię?",
+        "context": "Sformowany przez nią oddział partyzancki liczył 280 strzelców, kilkuset chłopów kosynierów i 60 kawalerzystów. Wraz z oddziałem rozpoczęła marsz w kierunku Dyneburga, po drodze do oddziału dołączali wciąż ochotnicy. 29 marca 1831 wkroczyła do Dusiatów, gdzie pod rozwiniętą flagą Polski zachęcała okoliczną ludność do przyłączenia się do powstania. 30 marca 1831 wraz ze swym hufcem zajęła stację Daugiele. 2 kwietnia jej oddział stoczył zwycięską potyczkę i zniósł kompanię piechoty rosyjskiej pod Ucianami. 4 kwietnia uderzyła na jedną z kolumn korpusu gen. Schirmana, która zmierzała w rejon koncentracji głównych sił rosyjskich w Dyneburgu. Oddział Emilii Plater opanował Jeziorosy, gdzie zdążono wpisać do akt grodzkich akt powstania. Zaskoczenie Dyneburga nie powiodło się powstańcom, młodzi zrewoltowani podchorążowie zostali wysłani do obozu Dybicza. Wobec pogarszającego się położenia militarnego, Emilia zrezygnowała ostatecznie z ataku na Dyneburg. Emilia dzieliła z podkomendnymi wszystkie trudy walki partyzanckiej, zyskała sobie wkrótce ich miłość i uznanie, chociaż w świecie salonów nie szczędzono jej złośliwych uwag i zarzutów niemoralności. W zaciętych walkach, stoczonych z Schirmanem pod Ucianą i Oniksztami oddział Emilii poniósł znaczne straty w zabitych i rannych, uległ rozproszeniu, resztę Emilia Plater przyłączyła do oddziału Cezarego Platera.",
+        "true_answers": [
+            "280 strzelców, kilkuset chłopów kosynierów i 60 kawalerzystów"
+        ],
+        "prediction": "Cezary Plater.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kiedy Plater wraz z oddziałem dotarła do Dusiatów?",
+        "context": "Sformowany przez nią oddział partyzancki liczył 280 strzelców, kilkuset chłopów kosynierów i 60 kawalerzystów. Wraz z oddziałem rozpoczęła marsz w kierunku Dyneburga, po drodze do oddziału dołączali wciąż ochotnicy. 29 marca 1831 wkroczyła do Dusiatów, gdzie pod rozwiniętą flagą Polski zachęcała okoliczną ludność do przyłączenia się do powstania. 30 marca 1831 wraz ze swym hufcem zajęła stację Daugiele. 2 kwietnia jej oddział stoczył zwycięską potyczkę i zniósł kompanię piechoty rosyjskiej pod Ucianami. 4 kwietnia uderzyła na jedną z kolumn korpusu gen. Schirmana, która zmierzała w rejon koncentracji głównych sił rosyjskich w Dyneburgu. Oddział Emilii Plater opanował Jeziorosy, gdzie zdążono wpisać do akt grodzkich akt powstania. Zaskoczenie Dyneburga nie powiodło się powstańcom, młodzi zrewoltowani podchorążowie zostali wysłani do obozu Dybicza. Wobec pogarszającego się położenia militarnego, Emilia zrezygnowała ostatecznie z ataku na Dyneburg. Emilia dzieliła z podkomendnymi wszystkie trudy walki partyzanckiej, zyskała sobie wkrótce ich miłość i uznanie, chociaż w świecie salonów nie szczędzono jej złośliwych uwag i zarzutów niemoralności. W zaciętych walkach, stoczonych z Schirmanem pod Ucianą i Oniksztami oddział Emilii poniósł znaczne straty w zabitych i rannych, uległ rozproszeniu, resztę Emilia Plater przyłączyła do oddziału Cezarego Platera.",
+        "true_answers": [
+            "29 marca 1831"
+        ],
+        "prediction": "Emilia Plater wraz z oddziałem dotarła do Dusiatów 29 marca 1831 roku.",
+        "exact_match": 0,
+        "f1_score": 0.4
+    },
+    {
+        "question": "Czy Emilia podbiła Dyneburg?",
+        "context": "Sformowany przez nią oddział partyzancki liczył 280 strzelców, kilkuset chłopów kosynierów i 60 kawalerzystów. Wraz z oddziałem rozpoczęła marsz w kierunku Dyneburga, po drodze do oddziału dołączali wciąż ochotnicy. 29 marca 1831 wkroczyła do Dusiatów, gdzie pod rozwiniętą flagą Polski zachęcała okoliczną ludność do przyłączenia się do powstania. 30 marca 1831 wraz ze swym hufcem zajęła stację Daugiele. 2 kwietnia jej oddział stoczył zwycięską potyczkę i zniósł kompanię piechoty rosyjskiej pod Ucianami. 4 kwietnia uderzyła na jedną z kolumn korpusu gen. Schirmana, która zmierzała w rejon koncentracji głównych sił rosyjskich w Dyneburgu. Oddział Emilii Plater opanował Jeziorosy, gdzie zdążono wpisać do akt grodzkich akt powstania. Zaskoczenie Dyneburga nie powiodło się powstańcom, młodzi zrewoltowani podchorążowie zostali wysłani do obozu Dybicza. Wobec pogarszającego się położenia militarnego, Emilia zrezygnowała ostatecznie z ataku na Dyneburg. Emilia dzieliła z podkomendnymi wszystkie trudy walki partyzanckiej, zyskała sobie wkrótce ich miłość i uznanie, chociaż w świecie salonów nie szczędzono jej złośliwych uwag i zarzutów niemoralności. W zaciętych walkach, stoczonych z Schirmanem pod Ucianą i Oniksztami oddział Emilii poniósł znaczne straty w zabitych i rannych, uległ rozproszeniu, resztę Emilia Plater przyłączyła do oddziału Cezarego Platera.",
+        "true_answers": [
+            "zrezygnowała ostatecznie z ataku na Dyneburg"
+        ],
+        "prediction": "Nie, Emilia Plater nie podbiła Dyneburga.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Z jakiego powodu żona Petera przeszła na anglikanizm?",
+        "context": "Zaręczyny pary ogłoszono 28 lipca 2007 za pośrednictwem biura Pałacu Buckingham. Kelly, ochrzczona w Kościele katolickim, dokonała konwersji na anglikanizm, aby jej przyszły mąż mógł utrzymać miejsce w linii sukcesji brytyjskiego tronu, w tym czasie bowiem Act of Settlement odsuwał od dziedziczenia tronu osoby, które poślubiły katolików. Ceremonia zaślubin miała miejsce 30 kwietnia 2008 w Kaplicy Świętego Jerzego na Zamku Windsor, a przewodniczył jej dziekan kapituły Windsoru, David Conner. Phillips jest pierwszym wnukiem królowej, który wstąpił w związek małżeński. Uroczystość relacjonował w specjalnym wydaniu magazyn Hello!, za co para otrzymała pięćset tysięcy funtów. Małżonkowie przejechali przez teren posiadłości bryczką, a następnie uczestniczyli w przyjęciu weselnym we Frogmore Cottage. Była to pierwsza okazja, w czasie której Katarzyna Middleton (późniejsza księżna Cambridge) reprezentowała samodzielnie swojego ówczesnego partnera, księcia Wilhelma, w oficjalnym wydarzeniu",
+        "true_answers": [
+            "aby jej przyszły mąż mógł utrzymać miejsce w linii sukcesji brytyjskiego tronu, w tym czasie bowiem Act of Settlement odsuwał od dziedziczenia tronu osoby, które poślubiły katolików"
+        ],
+        "prediction": "Kelly przeszła na anglikanizm, aby jej przyszły mąż mógł utrzymać miejsce w linii sukcesji brytyjskiego tronu, zgodnie z przepisami Act of Settlement.",
+        "exact_match": 0,
+        "f1_score": 0.5714285714285714
+    },
+    {
+        "question": "W jakim miejscu odbył się ślub pary?",
+        "context": "Zaręczyny pary ogłoszono 28 lipca 2007 za pośrednictwem biura Pałacu Buckingham. Kelly, ochrzczona w Kościele katolickim, dokonała konwersji na anglikanizm, aby jej przyszły mąż mógł utrzymać miejsce w linii sukcesji brytyjskiego tronu, w tym czasie bowiem Act of Settlement odsuwał od dziedziczenia tronu osoby, które poślubiły katolików. Ceremonia zaślubin miała miejsce 30 kwietnia 2008 w Kaplicy Świętego Jerzego na Zamku Windsor, a przewodniczył jej dziekan kapituły Windsoru, David Conner. Phillips jest pierwszym wnukiem królowej, który wstąpił w związek małżeński. Uroczystość relacjonował w specjalnym wydaniu magazyn Hello!, za co para otrzymała pięćset tysięcy funtów. Małżonkowie przejechali przez teren posiadłości bryczką, a następnie uczestniczyli w przyjęciu weselnym we Frogmore Cottage. Była to pierwsza okazja, w czasie której Katarzyna Middleton (późniejsza księżna Cambridge) reprezentowała samodzielnie swojego ówczesnego partnera, księcia Wilhelma, w oficjalnym wydarzeniu",
+        "true_answers": [
+            "w Kaplicy Świętego Jerzego na Zamku Windsor"
+        ],
+        "prediction": "The wedding of the couple took place at St. George's Chapel in Windsor Castle on April 30, 2008.",
+        "exact_match": 0,
+        "f1_score": 0.08
+    },
+    {
+        "question": "Czy Middleton pojawiła się na uroczystości w towarzystwie swojego partnera?",
+        "context": "Zaręczyny pary ogłoszono 28 lipca 2007 za pośrednictwem biura Pałacu Buckingham. Kelly, ochrzczona w Kościele katolickim, dokonała konwersji na anglikanizm, aby jej przyszły mąż mógł utrzymać miejsce w linii sukcesji brytyjskiego tronu, w tym czasie bowiem Act of Settlement odsuwał od dziedziczenia tronu osoby, które poślubiły katolików. Ceremonia zaślubin miała miejsce 30 kwietnia 2008 w Kaplicy Świętego Jerzego na Zamku Windsor, a przewodniczył jej dziekan kapituły Windsoru, David Conner. Phillips jest pierwszym wnukiem królowej, który wstąpił w związek małżeński. Uroczystość relacjonował w specjalnym wydaniu magazyn Hello!, za co para otrzymała pięćset tysięcy funtów. Małżonkowie przejechali przez teren posiadłości bryczką, a następnie uczestniczyli w przyjęciu weselnym we Frogmore Cottage. Była to pierwsza okazja, w czasie której Katarzyna Middleton (późniejsza księżna Cambridge) reprezentowała samodzielnie swojego ówczesnego partnera, księcia Wilhelma, w oficjalnym wydarzeniu",
+        "true_answers": [
+            "Katarzyna Middleton (późniejsza księżna Cambridge) reprezentowała samodzielnie swojego ówczesnego partnera"
+        ],
+        "prediction": "Tak, Middleton pojawiła się na uroczystości w towarzystwie swojego partnera.",
+        "exact_match": 0,
+        "f1_score": 0.20000000000000004
+    },
+    {
+        "question": "Wynagrodzenie w jakiej wysokości otrzymała para za zezwolenie na opublikowanie relacji ze ślubu?",
+        "context": "Zaręczyny pary ogłoszono 28 lipca 2007 za pośrednictwem biura Pałacu Buckingham. Kelly, ochrzczona w Kościele katolickim, dokonała konwersji na anglikanizm, aby jej przyszły mąż mógł utrzymać miejsce w linii sukcesji brytyjskiego tronu, w tym czasie bowiem Act of Settlement odsuwał od dziedziczenia tronu osoby, które poślubiły katolików. Ceremonia zaślubin miała miejsce 30 kwietnia 2008 w Kaplicy Świętego Jerzego na Zamku Windsor, a przewodniczył jej dziekan kapituły Windsoru, David Conner. Phillips jest pierwszym wnukiem królowej, który wstąpił w związek małżeński. Uroczystość relacjonował w specjalnym wydaniu magazyn Hello!, za co para otrzymała pięćset tysięcy funtów. Małżonkowie przejechali przez teren posiadłości bryczką, a następnie uczestniczyli w przyjęciu weselnym we Frogmore Cottage. Była to pierwsza okazja, w czasie której Katarzyna Middleton (późniejsza księżna Cambridge) reprezentowała samodzielnie swojego ówczesnego partnera, księcia Wilhelma, w oficjalnym wydarzeniu",
+        "true_answers": [
+            "pięćset tysięcy funtów"
+        ],
+        "prediction": "Para otrzymała pięćset tysięcy funtów za zezwolenie na opublikowanie relacji ze ślubu.",
+        "exact_match": 0,
+        "f1_score": 0.4
+    },
+    {
+        "question": "Dlaczego w zapusty ludzie spożywali więcej jedzenia?",
+        "context": "Dawniej w zapusty jedzono dużo tłustych dań, bardzo popularne były placki ziemniaczane. Jedzono wiele, jakby chciano zaspokoić głód przed zbliżającym się postem. Ludzie bardzo biedni starali się w tym dniu zjeść choć trochę mięsa wierząc w to, że kto w zapusty nie je mięsa, tego komary przez lato zjedzą. W tym czasie smażono też pączki, faworki i bliny. Taniec, zabawa, śpiewy, to nieodzowne elementy zapustne. Do dzisiaj zachował się tam zwyczaj chodzenia w zapusty przebierańców. Spotkać można wśród nich postacie z kolędowania, niedźwiedzia, konia, bociana, cygana czy żandarma.",
+        "true_answers": [
+            "chciano zaspokoić głód przed zbliżającym się postem"
+        ],
+        "prediction": "W zapusty ludzie spożywali więcej jedzenia, aby zaspokoić głód przed zbliżającym się postem.",
+        "exact_match": 0,
+        "f1_score": 0.5
+    },
+    {
+        "question": "Jakie dania jedzono w czasie karnawału? ",
+        "context": "Dawniej w zapusty jedzono dużo tłustych dań, bardzo popularne były placki ziemniaczane. Jedzono wiele, jakby chciano zaspokoić głód przed zbliżającym się postem. Ludzie bardzo biedni starali się w tym dniu zjeść choć trochę mięsa wierząc w to, że kto w zapusty nie je mięsa, tego komary przez lato zjedzą. W tym czasie smażono też pączki, faworki i bliny. Taniec, zabawa, śpiewy, to nieodzowne elementy zapustne. Do dzisiaj zachował się tam zwyczaj chodzenia w zapusty przebierańców. Spotkać można wśród nich postacie z kolędowania, niedźwiedzia, konia, bociana, cygana czy żandarma.",
+        "true_answers": [
+            "tłustych"
+        ],
+        "prediction": "W czasie karnawału dawniej jedzono tłuste potrawy takie jak placki ziemniaczane, pączki, faworki i bliny.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Czy w zapusty dozwolone było spożywanie mięsa?",
+        "context": "Dawniej w zapusty jedzono dużo tłustych dań, bardzo popularne były placki ziemniaczane. Jedzono wiele, jakby chciano zaspokoić głód przed zbliżającym się postem. Ludzie bardzo biedni starali się w tym dniu zjeść choć trochę mięsa wierząc w to, że kto w zapusty nie je mięsa, tego komary przez lato zjedzą. W tym czasie smażono też pączki, faworki i bliny. Taniec, zabawa, śpiewy, to nieodzowne elementy zapustne. Do dzisiaj zachował się tam zwyczaj chodzenia w zapusty przebierańców. Spotkać można wśród nich postacie z kolędowania, niedźwiedzia, konia, bociana, cygana czy żandarma.",
+        "true_answers": [
+            "Ludzie bardzo biedni starali się w tym dniu zjeść choć trochę mięsa wierząc w to"
+        ],
+        "prediction": "Tak, w zapusty było dozwolone spożywanie mięsa.",
+        "exact_match": 0,
+        "f1_score": 0.09090909090909091
+    },
+    {
+        "question": "Co oprócz placków ziemniaczanych smażono w czasie karnawału? ",
+        "context": "Dawniej w zapusty jedzono dużo tłustych dań, bardzo popularne były placki ziemniaczane. Jedzono wiele, jakby chciano zaspokoić głód przed zbliżającym się postem. Ludzie bardzo biedni starali się w tym dniu zjeść choć trochę mięsa wierząc w to, że kto w zapusty nie je mięsa, tego komary przez lato zjedzą. W tym czasie smażono też pączki, faworki i bliny. Taniec, zabawa, śpiewy, to nieodzowne elementy zapustne. Do dzisiaj zachował się tam zwyczaj chodzenia w zapusty przebierańców. Spotkać można wśród nich postacie z kolędowania, niedźwiedzia, konia, bociana, cygana czy żandarma.",
+        "true_answers": [
+            "pączki, faworki i bliny"
+        ],
+        "prediction": "Podczas karnawału smażono również pączki, faworki i bliny.",
+        "exact_match": 0,
+        "f1_score": 0.5
+    },
+    {
+        "question": "Kto zmierzy się w pojedynku o Superpuchar?",
+        "context": "Od 2014 roku w Superpucharze, z inicjatywy prezesa PZPN Zbigniewa Bońka, nastąpiła zmiana, gdyż po 8 latach przerwy związek podjął na swoje barki organizację rozgrywek o Superpuchar. O trofeum walczyć będą Mistrz Polski oraz zdobywca Pucharu Polski sezonu zakończonego w roku rozgrywania Superpucharu. Tym samym powrócono do nazwy Superpuchar Polski. Mecz rozgrywany będzie na stadionie Mistrza Polski, na około tydzień przed startem nowego sezonu Ekstraklasy. W sytuacji, gdy ten sam klub sięgnie po mistrzostwo i Puchar Polski, jego rywalem w meczu o trofeum będzie finalista ostatniej edycji Pucharu Polski.",
+        "true_answers": [
+            "Mistrz Polski oraz zdobywca Pucharu Polski sezonu zakończonego w roku rozgrywania Superpucharu"
+        ],
+        "prediction": "Mistrz Polski i zdobywca Pucharu Polski będą się zmierzyć w pojedynku o Superpuchar Polski.",
+        "exact_match": 0,
+        "f1_score": 0.3846153846153846
+    },
+    {
+        "question": "Jakim mianem ponownie określano imprezę od 2014 roku?",
+        "context": "Od 2014 roku w Superpucharze, z inicjatywy prezesa PZPN Zbigniewa Bońka, nastąpiła zmiana, gdyż po 8 latach przerwy związek podjął na swoje barki organizację rozgrywek o Superpuchar. O trofeum walczyć będą Mistrz Polski oraz zdobywca Pucharu Polski sezonu zakończonego w roku rozgrywania Superpucharu. Tym samym powrócono do nazwy Superpuchar Polski. Mecz rozgrywany będzie na stadionie Mistrza Polski, na około tydzień przed startem nowego sezonu Ekstraklasy. W sytuacji, gdy ten sam klub sięgnie po mistrzostwo i Puchar Polski, jego rywalem w meczu o trofeum będzie finalista ostatniej edycji Pucharu Polski.",
+        "true_answers": [
+            "Superpuchar Polski"
+        ],
+        "prediction": "Superpuchar Polski.",
+        "exact_match": 0,
+        "f1_score": 0.5
+    },
+    {
+        "question": "Gdzie rozegrany zostanie pojedynek o Superpuchar?",
+        "context": "Od 2014 roku w Superpucharze, z inicjatywy prezesa PZPN Zbigniewa Bońka, nastąpiła zmiana, gdyż po 8 latach przerwy związek podjął na swoje barki organizację rozgrywek o Superpuchar. O trofeum walczyć będą Mistrz Polski oraz zdobywca Pucharu Polski sezonu zakończonego w roku rozgrywania Superpucharu. Tym samym powrócono do nazwy Superpuchar Polski. Mecz rozgrywany będzie na stadionie Mistrza Polski, na około tydzień przed startem nowego sezonu Ekstraklasy. W sytuacji, gdy ten sam klub sięgnie po mistrzostwo i Puchar Polski, jego rywalem w meczu o trofeum będzie finalista ostatniej edycji Pucharu Polski.",
+        "true_answers": [
+            "na stadionie Mistrza Polski"
+        ],
+        "prediction": "Na stadionie Mistrza Polski, na około tydzień przed startem nowego sezonu Ekstraklasy.",
+        "exact_match": 0,
+        "f1_score": 0.375
+    },
+    {
+        "question": "Kiedy odbędzie się pojedynek o Superpuchar?",
+        "context": "Od 2014 roku w Superpucharze, z inicjatywy prezesa PZPN Zbigniewa Bońka, nastąpiła zmiana, gdyż po 8 latach przerwy związek podjął na swoje barki organizację rozgrywek o Superpuchar. O trofeum walczyć będą Mistrz Polski oraz zdobywca Pucharu Polski sezonu zakończonego w roku rozgrywania Superpucharu. Tym samym powrócono do nazwy Superpuchar Polski. Mecz rozgrywany będzie na stadionie Mistrza Polski, na około tydzień przed startem nowego sezonu Ekstraklasy. W sytuacji, gdy ten sam klub sięgnie po mistrzostwo i Puchar Polski, jego rywalem w meczu o trofeum będzie finalista ostatniej edycji Pucharu Polski.",
+        "true_answers": [
+            "około tydzień przed startem nowego sezonu Ekstraklasy"
+        ],
+        "prediction": "O Superpuchar Polski będzie rozgrywany na stadionie Mistrza Polski, około tydzień przed startem nowego sezonu Ekstraklasy.",
+        "exact_match": 0,
+        "f1_score": 0.5217391304347825
+    },
+    {
+        "question": "Dlaczego w 2012 roku sezon ligowy w piłce nożnej został opóźniony?",
+        "context": "Ze względu na organizację Euro 2012 Superpuchar Ekstraklasy jak i cały sezon ligowy rozpoczął się nie jak dotychczas w lipcu, a w sierpniu. Jednocześnie nie potrafiono znaleźć obiektu w którym mógłby przyjąć piłkarzy i kibiców Legii Warszawa (Zdobywcy Pucharu Polski) i Śląska Wrocław (Mistrza Polski). Zdecydowano ostatecznie że mecz o Superpuchar Polski odbędzie się na stadionie przy ulicy Łazienkowskiej w Warszawie. Organizacja meczu na stadionie Legii została skrytykowana przez kibiców obu drużyn, przez co większość kibiców postanowiła zbojkotować to spotkanie, przez co na meczu zjawiło się zaledwie 5000 widzów. 12 sierpnia 2012 na Stadionie Wojska Polskiego Legia która była zdobywcą Pucharu Polski remisowała po regulaminowym czasie 1:1 z mistrzem kraju Śląskiem Wrocław. W konsekwencji doszło do rzutów karnych gdzie lepszy był wrocławski zespół 4:2.",
+        "true_answers": [
+            "Euro 2012"
+        ],
+        "prediction": "Sezon ligowy w piłce nożnej w 2012 roku został opóźniony ze względu na organizację Euro 2012 oraz trudności z znalezieniem odpowiedniego obiektu dla meczu Legii Warszawa i Śląska Wrocław.",
+        "exact_match": 0,
+        "f1_score": 0.12903225806451613
+    },
+    {
+        "question": "Na czym polegał problem ze znalezieniem stadionu odpowiedniego do Superpucharu Polski 2012?",
+        "context": "Ze względu na organizację Euro 2012 Superpuchar Ekstraklasy jak i cały sezon ligowy rozpoczął się nie jak dotychczas w lipcu, a w sierpniu. Jednocześnie nie potrafiono znaleźć obiektu w którym mógłby przyjąć piłkarzy i kibiców Legii Warszawa (Zdobywcy Pucharu Polski) i Śląska Wrocław (Mistrza Polski). Zdecydowano ostatecznie że mecz o Superpuchar Polski odbędzie się na stadionie przy ulicy Łazienkowskiej w Warszawie. Organizacja meczu na stadionie Legii została skrytykowana przez kibiców obu drużyn, przez co większość kibiców postanowiła zbojkotować to spotkanie, przez co na meczu zjawiło się zaledwie 5000 widzów. 12 sierpnia 2012 na Stadionie Wojska Polskiego Legia która była zdobywcą Pucharu Polski remisowała po regulaminowym czasie 1:1 z mistrzem kraju Śląskiem Wrocław. W konsekwencji doszło do rzutów karnych gdzie lepszy był wrocławski zespół 4:2.",
+        "true_answers": [
+            "mógłby przyjąć piłkarzy i kibiców"
+        ],
+        "prediction": "Problemem było znalezienie odpowiedniego stadionu do rozegrania Superpucharu Polski 2012 ze względu na organizację Euro 2012. Ostatecznie mecz odbył się na stadionie przy ulicy Łazienkowskiej w Warszawie, co spotkało się z krytyką kibiców i doprowadziło do bojkotu większości z nich.",
+        "exact_match": 0,
+        "f1_score": 0.0888888888888889
+    },
+    {
+        "question": "Jakie dwa zespoły miały zmierzyć się podczas Superpucharu Polski 2012?",
+        "context": "Ze względu na organizację Euro 2012 Superpuchar Ekstraklasy jak i cały sezon ligowy rozpoczął się nie jak dotychczas w lipcu, a w sierpniu. Jednocześnie nie potrafiono znaleźć obiektu w którym mógłby przyjąć piłkarzy i kibiców Legii Warszawa (Zdobywcy Pucharu Polski) i Śląska Wrocław (Mistrza Polski). Zdecydowano ostatecznie że mecz o Superpuchar Polski odbędzie się na stadionie przy ulicy Łazienkowskiej w Warszawie. Organizacja meczu na stadionie Legii została skrytykowana przez kibiców obu drużyn, przez co większość kibiców postanowiła zbojkotować to spotkanie, przez co na meczu zjawiło się zaledwie 5000 widzów. 12 sierpnia 2012 na Stadionie Wojska Polskiego Legia która była zdobywcą Pucharu Polski remisowała po regulaminowym czasie 1:1 z mistrzem kraju Śląskiem Wrocław. W konsekwencji doszło do rzutów karnych gdzie lepszy był wrocławski zespół 4:2.",
+        "true_answers": [
+            "Legii Warszawa (Zdobywcy Pucharu Polski) i Śląska Wrocław"
+        ],
+        "prediction": "Legia Warszawa and Śląsk Wrocław were supposed to face each other during the Superpuchar Polski 2012.",
+        "exact_match": 0,
+        "f1_score": 0.16666666666666666
+    },
+    {
+        "question": "Czy kibice zaprotestowali przeciwko drużynom grającym o Superpuchar Polski?",
+        "context": "Ze względu na organizację Euro 2012 Superpuchar Ekstraklasy jak i cały sezon ligowy rozpoczął się nie jak dotychczas w lipcu, a w sierpniu. Jednocześnie nie potrafiono znaleźć obiektu w którym mógłby przyjąć piłkarzy i kibiców Legii Warszawa (Zdobywcy Pucharu Polski) i Śląska Wrocław (Mistrza Polski). Zdecydowano ostatecznie że mecz o Superpuchar Polski odbędzie się na stadionie przy ulicy Łazienkowskiej w Warszawie. Organizacja meczu na stadionie Legii została skrytykowana przez kibiców obu drużyn, przez co większość kibiców postanowiła zbojkotować to spotkanie, przez co na meczu zjawiło się zaledwie 5000 widzów. 12 sierpnia 2012 na Stadionie Wojska Polskiego Legia która była zdobywcą Pucharu Polski remisowała po regulaminowym czasie 1:1 z mistrzem kraju Śląskiem Wrocław. W konsekwencji doszło do rzutów karnych gdzie lepszy był wrocławski zespół 4:2.",
+        "true_answers": [
+            "Organizacja meczu na stadionie Legii została skrytykowana przez kibiców"
+        ],
+        "prediction": "Tak, kibice obu drużyn zdecydowali się zbojkotować mecz o Superpuchar Polski ze względu na organizację spotkania na stadionie Legii Warszawa.",
+        "exact_match": 0,
+        "f1_score": 0.20689655172413793
+    },
+    {
+        "question": "Kiedy w Piekarach Śląskich powstały sektory płatnych miejsc postojowych?",
+        "context": "2 listopada 2015 w Piekarach Śląskich uruchomiono strefę płatnego parkowania, w której płatności odbywa się w automatach ŚKUP (gotówką lub kartą ŚKUP). Tego samego dnia uruchomiono parkomaty ŚKUP (z możliwością płatności gotówką lub kartą ŚKUP) w Tychach, gdzie wcześniej opłatę za parking pobierali inkasenci. Na przełomie listopada i grudnia w katowickich parkomatach uruchomiono możliwość płacenia kartami ŚKUP (same automaty uruchomiono wcześniej, ale przyjmowały tylko płatności gotówkowe), a 16 grudnia możliwość płacenia kartami ŚKUP uruchomiono w bytomskich parkomatach. Płatność kartami ŚKUP została również uruchomiona w parkomatach w Chorzowie i Zabrzu. W obu miastach już wcześniej funkcjonowały strefy płatnego parkowania.",
+        "true_answers": [
+            "2 listopada 2015"
+        ],
+        "prediction": "Sektory płatnych miejsc postojowych w Piekarach Śląskich powstały 2 listopada 2015.",
+        "exact_match": 0,
+        "f1_score": 0.28571428571428575
+    },
+    {
+        "question": "Gdzie można zapłacić za miejsce postojowe w Piekarach Śląskich?",
+        "context": "2 listopada 2015 w Piekarach Śląskich uruchomiono strefę płatnego parkowania, w której płatności odbywa się w automatach ŚKUP (gotówką lub kartą ŚKUP). Tego samego dnia uruchomiono parkomaty ŚKUP (z możliwością płatności gotówką lub kartą ŚKUP) w Tychach, gdzie wcześniej opłatę za parking pobierali inkasenci. Na przełomie listopada i grudnia w katowickich parkomatach uruchomiono możliwość płacenia kartami ŚKUP (same automaty uruchomiono wcześniej, ale przyjmowały tylko płatności gotówkowe), a 16 grudnia możliwość płacenia kartami ŚKUP uruchomiono w bytomskich parkomatach. Płatność kartami ŚKUP została również uruchomiona w parkomatach w Chorzowie i Zabrzu. W obu miastach już wcześniej funkcjonowały strefy płatnego parkowania.",
+        "true_answers": [
+            "w automatach ŚKUP"
+        ],
+        "prediction": "W Piekarach Śląskich można zapłacić za miejsce postojowe w automatach ŚKUP przy użyciu gotówki lub karty ŚKUP.",
+        "exact_match": 0,
+        "f1_score": 0.3
+    },
+    {
+        "question": "Kto przyjmował opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów?",
+        "context": "2 listopada 2015 w Piekarach Śląskich uruchomiono strefę płatnego parkowania, w której płatności odbywa się w automatach ŚKUP (gotówką lub kartą ŚKUP). Tego samego dnia uruchomiono parkomaty ŚKUP (z możliwością płatności gotówką lub kartą ŚKUP) w Tychach, gdzie wcześniej opłatę za parking pobierali inkasenci. Na przełomie listopada i grudnia w katowickich parkomatach uruchomiono możliwość płacenia kartami ŚKUP (same automaty uruchomiono wcześniej, ale przyjmowały tylko płatności gotówkowe), a 16 grudnia możliwość płacenia kartami ŚKUP uruchomiono w bytomskich parkomatach. Płatność kartami ŚKUP została również uruchomiona w parkomatach w Chorzowie i Zabrzu. W obu miastach już wcześniej funkcjonowały strefy płatnego parkowania.",
+        "true_answers": [
+            "inkasenci"
+        ],
+        "prediction": "Inkasenci przyjmowali opłaty za miejsca postojowe w Tychach przed oddaniem do użytku parkomatów.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Czy w Tychach można dokonać opłaty za miejsce postojowe w parkomacie?",
+        "context": "2 listopada 2015 w Piekarach Śląskich uruchomiono strefę płatnego parkowania, w której płatności odbywa się w automatach ŚKUP (gotówką lub kartą ŚKUP). Tego samego dnia uruchomiono parkomaty ŚKUP (z możliwością płatności gotówką lub kartą ŚKUP) w Tychach, gdzie wcześniej opłatę za parking pobierali inkasenci. Na przełomie listopada i grudnia w katowickich parkomatach uruchomiono możliwość płacenia kartami ŚKUP (same automaty uruchomiono wcześniej, ale przyjmowały tylko płatności gotówkowe), a 16 grudnia możliwość płacenia kartami ŚKUP uruchomiono w bytomskich parkomatach. Płatność kartami ŚKUP została również uruchomiona w parkomatach w Chorzowie i Zabrzu. W obu miastach już wcześniej funkcjonowały strefy płatnego parkowania.",
+        "true_answers": [
+            "Tego samego dnia uruchomiono parkomaty ŚKUP (z możliwością płatności gotówką lub kartą ŚKUP) w Tychach"
+        ],
+        "prediction": "Tak, w Tychach można dokonać opłaty za miejsce postojowe w parkomacie.",
+        "exact_match": 0,
+        "f1_score": 0.15384615384615383
+    },
+    {
+        "question": "Kiedy sfinalizowano konstrukcję 13WE?",
+        "context": "28 czerwca 2004 został ukończony prototypowy pojazd typu 13WE i dwa dni później został on dostarczony do Warszawy. Po próbach układu jezdnego skład trafił do Grodziska Mazowieckiego na właściwe testy. Od 1 lipca do 25 sierpnia przeprowadzono jazdy próbne zespołu na trasie WKD, a 26 sierpnia Urząd Transportu Kolejowego wydał dla niego terminowe świadectwo dopuszczenia do eksploatacji. Następnego dnia miał miejsce przejazd jednostki dla dziennikarzy, natomiast 29 sierpnia w Grodzisku pociąg oznaczony jako EN95-01 został uroczyście przekazany do użytku. Był to wówczas pierwszy jednoprzestrzenny skład WKD.",
+        "true_answers": [
+            "28 czerwca 2004"
+        ],
+        "prediction": "29 sierpnia 2004 roku sfinalizowano konstrukcję 13WE.",
+        "exact_match": 0,
+        "f1_score": 0.2
+    },
+    {
+        "question": "Gdzie odbyły się testy układu jezdnego pojazdu?",
+        "context": "28 czerwca 2004 został ukończony prototypowy pojazd typu 13WE i dwa dni później został on dostarczony do Warszawy. Po próbach układu jezdnego skład trafił do Grodziska Mazowieckiego na właściwe testy. Od 1 lipca do 25 sierpnia przeprowadzono jazdy próbne zespołu na trasie WKD, a 26 sierpnia Urząd Transportu Kolejowego wydał dla niego terminowe świadectwo dopuszczenia do eksploatacji. Następnego dnia miał miejsce przejazd jednostki dla dziennikarzy, natomiast 29 sierpnia w Grodzisku pociąg oznaczony jako EN95-01 został uroczyście przekazany do użytku. Był to wówczas pierwszy jednoprzestrzenny skład WKD.",
+        "true_answers": [
+            "Warszawy"
+        ],
+        "prediction": "Testy układu jezdnego pojazdu odbyły się w Grodzisku Mazowieckim.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kiedy przekazano pojazd do użytku?",
+        "context": "28 czerwca 2004 został ukończony prototypowy pojazd typu 13WE i dwa dni później został on dostarczony do Warszawy. Po próbach układu jezdnego skład trafił do Grodziska Mazowieckiego na właściwe testy. Od 1 lipca do 25 sierpnia przeprowadzono jazdy próbne zespołu na trasie WKD, a 26 sierpnia Urząd Transportu Kolejowego wydał dla niego terminowe świadectwo dopuszczenia do eksploatacji. Następnego dnia miał miejsce przejazd jednostki dla dziennikarzy, natomiast 29 sierpnia w Grodzisku pociąg oznaczony jako EN95-01 został uroczyście przekazany do użytku. Był to wówczas pierwszy jednoprzestrzenny skład WKD.",
+        "true_answers": [
+            "29 sierpnia"
+        ],
+        "prediction": "29 sierpnia 2004 roku pojazd został przekazany do użytku.",
+        "exact_match": 0,
+        "f1_score": 0.3636363636363636
+    },
+    {
+        "question": "W jakim okresie odbyły się testy pojazdu na trasie WKD?",
+        "context": "28 czerwca 2004 został ukończony prototypowy pojazd typu 13WE i dwa dni później został on dostarczony do Warszawy. Po próbach układu jezdnego skład trafił do Grodziska Mazowieckiego na właściwe testy. Od 1 lipca do 25 sierpnia przeprowadzono jazdy próbne zespołu na trasie WKD, a 26 sierpnia Urząd Transportu Kolejowego wydał dla niego terminowe świadectwo dopuszczenia do eksploatacji. Następnego dnia miał miejsce przejazd jednostki dla dziennikarzy, natomiast 29 sierpnia w Grodzisku pociąg oznaczony jako EN95-01 został uroczyście przekazany do użytku. Był to wówczas pierwszy jednoprzestrzenny skład WKD.",
+        "true_answers": [
+            "Od 1 lipca do 25 sierpnia"
+        ],
+        "prediction": "Testy pojazdu na trasie WKD odbyły się w okresie od 1 lipca do 25 sierpnia.",
+        "exact_match": 0,
+        "f1_score": 0.3809523809523809
+    },
+    {
+        "question": "Dlaczego artysta tworzy rozmaite alter ego?",
+        "context": "Eminem używa różnych tożsamości w swoich piosenkach, by korzystać z różnych stylów rapowania i różnych podmiotów. Jego najbardziej znane i popularne alter ego, „Slim Shady”, pochodzi z The Slim Shady EP. Pod tą osobowością, Eminem tworzy kontrowersyjne i odważne piosenki z komicznym akcentem. Chociaż Slim Shady często staje się częścią dzieł Eminema, nie ma go dużo na albumie Recovery, ponieważ Eminem czuł, że nie pasuje on za bardzo do głównego tematu płyty. Eminem jest uważany za alter ego swojego prawdziwego „ja” tj. Marshalla Mathersa. Innym wcieleniem Eminema jest Ken Kaniff, pierwotnie postać grana przez przyjaciela Eminema w albumie The Slim Shady LP, ale już na The Marshall Mathers LP i później rolę Kena Kaniffa odegrał sam Eminem. Ken Kaniff jest raperem homoseksualistą, który wyśmiewa się z piosenek Eminema.",
+        "true_answers": [
+            "by korzystać z różnych stylów rapowania i różnych podmiotów"
+        ],
+        "prediction": "Artysta tworzy różne alter ego w swojej twórczości, aby eksperymentować z różnymi stylami, tematami i perspektywami, co pozwala mu wyrazić się w bardziej zróżnicowany sposób.",
+        "exact_match": 0,
+        "f1_score": 0.11764705882352941
+    },
+    {
+        "question": "Która tożsamość rapera jest najpopularniejsza?",
+        "context": "Eminem używa różnych tożsamości w swoich piosenkach, by korzystać z różnych stylów rapowania i różnych podmiotów. Jego najbardziej znane i popularne alter ego, „Slim Shady”, pochodzi z The Slim Shady EP. Pod tą osobowością, Eminem tworzy kontrowersyjne i odważne piosenki z komicznym akcentem. Chociaż Slim Shady często staje się częścią dzieł Eminema, nie ma go dużo na albumie Recovery, ponieważ Eminem czuł, że nie pasuje on za bardzo do głównego tematu płyty. Eminem jest uważany za alter ego swojego prawdziwego „ja” tj. Marshalla Mathersa. Innym wcieleniem Eminema jest Ken Kaniff, pierwotnie postać grana przez przyjaciela Eminema w albumie The Slim Shady LP, ale już na The Marshall Mathers LP i później rolę Kena Kaniffa odegrał sam Eminem. Ken Kaniff jest raperem homoseksualistą, który wyśmiewa się z piosenek Eminema.",
+        "true_answers": [
+            "Slim Shady"
+        ],
+        "prediction": "Najpopularniejszą tożsamością rapera Eminema jest \"Slim Shady\".",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Jakie utwory nagrywa raper, gdy wciela się w postać Slim Shady?",
+        "context": "Eminem używa różnych tożsamości w swoich piosenkach, by korzystać z różnych stylów rapowania i różnych podmiotów. Jego najbardziej znane i popularne alter ego, „Slim Shady”, pochodzi z The Slim Shady EP. Pod tą osobowością, Eminem tworzy kontrowersyjne i odważne piosenki z komicznym akcentem. Chociaż Slim Shady często staje się częścią dzieł Eminema, nie ma go dużo na albumie Recovery, ponieważ Eminem czuł, że nie pasuje on za bardzo do głównego tematu płyty. Eminem jest uważany za alter ego swojego prawdziwego „ja” tj. Marshalla Mathersa. Innym wcieleniem Eminema jest Ken Kaniff, pierwotnie postać grana przez przyjaciela Eminema w albumie The Slim Shady LP, ale już na The Marshall Mathers LP i później rolę Kena Kaniffa odegrał sam Eminem. Ken Kaniff jest raperem homoseksualistą, który wyśmiewa się z piosenek Eminema.",
+        "true_answers": [
+            "kontrowersyjne i odważne piosenki z komicznym akcentem"
+        ],
+        "prediction": "Eminem nagrywa utwory jako Slim Shady.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Czyim alter ego jest Eminem?",
+        "context": "Eminem używa różnych tożsamości w swoich piosenkach, by korzystać z różnych stylów rapowania i różnych podmiotów. Jego najbardziej znane i popularne alter ego, „Slim Shady”, pochodzi z The Slim Shady EP. Pod tą osobowością, Eminem tworzy kontrowersyjne i odważne piosenki z komicznym akcentem. Chociaż Slim Shady często staje się częścią dzieł Eminema, nie ma go dużo na albumie Recovery, ponieważ Eminem czuł, że nie pasuje on za bardzo do głównego tematu płyty. Eminem jest uważany za alter ego swojego prawdziwego „ja” tj. Marshalla Mathersa. Innym wcieleniem Eminema jest Ken Kaniff, pierwotnie postać grana przez przyjaciela Eminema w albumie The Slim Shady LP, ale już na The Marshall Mathers LP i później rolę Kena Kaniffa odegrał sam Eminem. Ken Kaniff jest raperem homoseksualistą, który wyśmiewa się z piosenek Eminema.",
+        "true_answers": [
+            "Marshalla Mathersa"
+        ],
+        "prediction": "Alter ego Eminema to Slim Shady oraz Ken Kaniff.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Jaką modlitwę odmawia się przy przekraczaniu progu domu?",
+        "context": "Podczas przechodzenia przez drzwi wejściowe mezuza powinna być dotykana z pobożnością. Podczas wchodzenia i wychodzenia z domu wypowiadana jest modlitwa „Niech Bóg chroni moje wyjścia i powroty, teraz i w przyszłości”. Praktykowane bywa także składanie pocałunku na tej dłoni, którą dotknęło się mezuzy. Pocałunek może być także składany na własnych palcach przed dotknięciem nimi mezuzy. Gest ten ma wyrażać „miłość i szacunek w stosunku do Boga oraz Jego przykazań i przypominać o zawartych w nich zaleceniach”.",
+        "true_answers": [
+            "Niech Bóg chroni moje wyjścia i powroty, teraz i w przyszłości"
+        ],
+        "prediction": "Modlitwą odmawianą przy przekraczaniu progu domu jest: \"Niech Bóg chroni moje wyjścia i powroty, teraz i w przyszłości.\"",
+        "exact_match": 0,
+        "f1_score": 0.5517241379310345
+    },
+    {
+        "question": "W jaki sposób należy dotykać mezuzę?",
+        "context": "Podczas przechodzenia przez drzwi wejściowe mezuza powinna być dotykana z pobożnością. Podczas wchodzenia i wychodzenia z domu wypowiadana jest modlitwa „Niech Bóg chroni moje wyjścia i powroty, teraz i w przyszłości”. Praktykowane bywa także składanie pocałunku na tej dłoni, którą dotknęło się mezuzy. Pocałunek może być także składany na własnych palcach przed dotknięciem nimi mezuzy. Gest ten ma wyrażać „miłość i szacunek w stosunku do Boga oraz Jego przykazań i przypominać o zawartych w nich zaleceniach”.",
+        "true_answers": [
+            "z pobożnością"
+        ],
+        "prediction": "Mezuzę należy dotykać z pobożnością podczas przechodzenia przez drzwi wejściowe, a niektórzy składają pocałunek na dłoni lub palcach przed dotknięciem mezuzy.",
+        "exact_match": 0,
+        "f1_score": 0.17391304347826084
+    },
+    {
+        "question": "W jakich miejscach można wykonać pocałunek?",
+        "context": "Podczas przechodzenia przez drzwi wejściowe mezuza powinna być dotykana z pobożnością. Podczas wchodzenia i wychodzenia z domu wypowiadana jest modlitwa „Niech Bóg chroni moje wyjścia i powroty, teraz i w przyszłości”. Praktykowane bywa także składanie pocałunku na tej dłoni, którą dotknęło się mezuzy. Pocałunek może być także składany na własnych palcach przed dotknięciem nimi mezuzy. Gest ten ma wyrażać „miłość i szacunek w stosunku do Boga oraz Jego przykazań i przypominać o zawartych w nich zaleceniach”.",
+        "true_answers": [
+            "na tej dłoni, którą dotknęło się mezuzy. Pocałunek może być także składany na własnych palcach przed dotknięciem nimi mezuzy"
+        ],
+        "prediction": "Miejsca, gdzie można wykonać pocałunek, to mezuza oraz własne palce przed dotknięciem mezuzy.",
+        "exact_match": 0,
+        "f1_score": 0.18749999999999997
+    },
+    {
+        "question": "O czym świadczy wykonanie pocałunku?",
+        "context": "Podczas przechodzenia przez drzwi wejściowe mezuza powinna być dotykana z pobożnością. Podczas wchodzenia i wychodzenia z domu wypowiadana jest modlitwa „Niech Bóg chroni moje wyjścia i powroty, teraz i w przyszłości”. Praktykowane bywa także składanie pocałunku na tej dłoni, którą dotknęło się mezuzy. Pocałunek może być także składany na własnych palcach przed dotknięciem nimi mezuzy. Gest ten ma wyrażać „miłość i szacunek w stosunku do Boga oraz Jego przykazań i przypominać o zawartych w nich zaleceniach”.",
+        "true_answers": [
+            "ma wyrażać „miłość i szacunek w stosunku do Boga oraz Jego przykazań i przypominać o zawartych w nich zaleceniach”"
+        ],
+        "prediction": "Pocałunek wykonany na mezuzy świadczy o miłości, szacunku i pobożności wobec Boga oraz Jego przykazań.",
+        "exact_match": 0,
+        "f1_score": 0.29411764705882354
+    },
+    {
+        "question": "W którym roku Rosja dokonała aneksji Krymu?",
+        "context": "W 2014 roku Rosja, w odpowiedzi na obalenie prorosyjskiego prezydenta Ukrainy Wiktora Janukowycza, doprowadziła do oderwania Krymu od Ukrainy, a następnie do zbrojnej secesji obwodów donieckiego i ługańskiego, prowadzącej do faktycznej wojny rosyjsko-ukraińskiej na wschodzie kraju. Paradoksalnie z punktu celów rosyjskich, doprowadziło to do dominacji wśród ludności Ukrainy nastrojów antyrosyjskich i zacieśnienia relacji z Unią Europejską oraz współpracy wojskowej z NATO. Jej armia, której efektywność była krytykowana w 2014 roku, została zreorganizowana, lepiej wyszkolona z pomocą państw NATO, oraz doposażona w nowsze uzbrojenie, w tym kupowane na Zachodzie. Spowodowało to też zwiększenie aktywności wojskowej USA w krajach wschodniej flanki NATO.",
+        "true_answers": [
+            "W 2014"
+        ],
+        "prediction": "Aneksja Krymu przez Rosję miała miejsce w 2014 roku.",
+        "exact_match": 0,
+        "f1_score": 0.1818181818181818
+    },
+    {
+        "question": "Jaka była przyczyna aneksji Krymu?",
+        "context": "W 2014 roku Rosja, w odpowiedzi na obalenie prorosyjskiego prezydenta Ukrainy Wiktora Janukowycza, doprowadziła do oderwania Krymu od Ukrainy, a następnie do zbrojnej secesji obwodów donieckiego i ługańskiego, prowadzącej do faktycznej wojny rosyjsko-ukraińskiej na wschodzie kraju. Paradoksalnie z punktu celów rosyjskich, doprowadziło to do dominacji wśród ludności Ukrainy nastrojów antyrosyjskich i zacieśnienia relacji z Unią Europejską oraz współpracy wojskowej z NATO. Jej armia, której efektywność była krytykowana w 2014 roku, została zreorganizowana, lepiej wyszkolona z pomocą państw NATO, oraz doposażona w nowsze uzbrojenie, w tym kupowane na Zachodzie. Spowodowało to też zwiększenie aktywności wojskowej USA w krajach wschodniej flanki NATO.",
+        "true_answers": [
+            "obalenie prorosyjskiego prezydenta Ukrainy"
+        ],
+        "prediction": "Rosja anektowała Krym w 2014 roku w odpowiedzi na obalenie prorosyjskiego prezydenta Ukrainy Wiktora Janukowycza.",
+        "exact_match": 0,
+        "f1_score": 0.4210526315789474
+    },
+    {
+        "question": "Dlaczego Brosnan nie wystąpił w realizacji o agencie z 1986 roku?",
+        "context": "W 1986 miał wcielić się w postać agenta 007 Jamesa Bonda, gdy z tej roli zrezygnował Roger Moore. Lecz Brosnan był związany kontraktem ze stacją NBC i propozycję musiał odrzucić, a jego miejsce zajął Timothy Dalton. Producenci pamiętali jednak o nim i w 1995 roku aktor uzyskał kolejną szansę na zostanie Jamesem Bondem; zagrał w GoldenEye. Później wystąpił jeszcze w trzech filmach o agencie 007: Jutro nie umiera nigdy (Tomorrow Never Dies, 1997), Świat to za mało (The World Is Not Enough, 1999) i Śmierć nadejdzie jutro (Die Another Day, 2002). W 2001 roku został okrzyknięty przez magazyn „People” najseksowniejszym mężczyzną świata.",
+        "true_answers": [
+            "był związany kontraktem ze stacją NBC"
+        ],
+        "prediction": "Brosnan nie wystąpił w realizacji o agencie z 1986 roku, ponieważ był związany kontraktem ze stacją NBC i musiał odrzucić propozycję zastąpienia Rogera Moore'a jako James Bond.",
+        "exact_match": 0,
+        "f1_score": 0.3636363636363636
+    },
+    {
+        "question": "W których realizacjach filmowych o Bondzie wystąpił Brosnan?",
+        "context": "W 1986 miał wcielić się w postać agenta 007 Jamesa Bonda, gdy z tej roli zrezygnował Roger Moore. Lecz Brosnan był związany kontraktem ze stacją NBC i propozycję musiał odrzucić, a jego miejsce zajął Timothy Dalton. Producenci pamiętali jednak o nim i w 1995 roku aktor uzyskał kolejną szansę na zostanie Jamesem Bondem; zagrał w GoldenEye. Później wystąpił jeszcze w trzech filmach o agencie 007: Jutro nie umiera nigdy (Tomorrow Never Dies, 1997), Świat to za mało (The World Is Not Enough, 1999) i Śmierć nadejdzie jutro (Die Another Day, 2002). W 2001 roku został okrzyknięty przez magazyn „People” najseksowniejszym mężczyzną świata.",
+        "true_answers": [
+            "GoldenEye. Później wystąpił jeszcze w trzech filmach o agencie 007: Jutro nie umiera nigdy (Tomorrow Never Dies, 1997), Świat to za mało (The World Is Not Enough, 1999) i Śmierć nadejdzie jutro"
+        ],
+        "prediction": "Brosnan wystąpił w czterech filmach o Jamesie Bondzie: GoldenEye (1995), Jutro nie umiera nigdy (1997), Świat to za mało (1999) i Śmierć nadejdzie jutro (2002).",
+        "exact_match": 0,
+        "f1_score": 0.5614035087719298
+    },
+    {
+        "question": "W jakim filmie o Bondzie wystąpił aktor w 2002 roku?",
+        "context": "W 1986 miał wcielić się w postać agenta 007 Jamesa Bonda, gdy z tej roli zrezygnował Roger Moore. Lecz Brosnan był związany kontraktem ze stacją NBC i propozycję musiał odrzucić, a jego miejsce zajął Timothy Dalton. Producenci pamiętali jednak o nim i w 1995 roku aktor uzyskał kolejną szansę na zostanie Jamesem Bondem; zagrał w GoldenEye. Później wystąpił jeszcze w trzech filmach o agencie 007: Jutro nie umiera nigdy (Tomorrow Never Dies, 1997), Świat to za mało (The World Is Not Enough, 1999) i Śmierć nadejdzie jutro (Die Another Day, 2002). W 2001 roku został okrzyknięty przez magazyn „People” najseksowniejszym mężczyzną świata.",
+        "true_answers": [
+            "Śmierć nadejdzie jutro"
+        ],
+        "prediction": "Die Another Day (2002).",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Czyje imię nosił szpital na Wolskiej?",
+        "context": "5 sierpnia o świcie oddziały OW PPS trzymały nadal barykadę na Wolskiej. Południowe ubezpieczenie całej linii obronnej od cmentarza powązkowskiego do szpitala św. Stanisława na Wolskiej, stanowiła Milicja PPS. Początkowe natarcie zgrupowania Reinefartha ok. 7.00 zostało odparte, żołnierze plutonu AL zniszczyli czołg. Około godz. 8.00 pluton OW PPS zajmujący pozycje w Fabryce Franaszka przed barykadą i przy zabudowaniach szpitala św. Stanisława przepuścił Niemców, a następnie otworzył skuteczny ogień, zmuszając ich do wycofania. Według Lesława Bartelskiego barykady broniło wówczas ok. 200 żołnierzy (z tego 100 z OW PPS, oddział Czwartaków, pluton „Czarnego” z Batalionu Parasol), posiadając 3 ckm 1 granatnik, 62 kb 16 pm i 260 granatów. Według Adama Przygońskiego, głównego odcinka frontu od ul. Ożarowskiej, wzdłuż ul. Płockiej i Wolskiej, do remizy przy ul. Młynarskiej broniło 400 żołnierzy w tym 150 żołnierzy AL i ok. 100 OW PPS. Według wspomnień żołnierzy OW PPS, cytowanych przez Przygońskiego, było to 232 uzbrojonych żołnierzy w tym 98 z OW PPS,14 z AL i 120 z AK. Atak prowadziło natomiast zgrupowanie 3000 żołnierzy niemieckich wsparte kompanią ciężkich czołgów.",
+        "true_answers": [
+            "św. Stanisława"
+        ],
+        "prediction": "Imię nosił szpital na Wolskiej to szpital św. Stanisława.",
+        "exact_match": 0,
+        "f1_score": 0.1818181818181818
+    },
+    {
+        "question": "Ilu żołnierzy, zdaniem Bartelskiego, strzegło barykady?",
+        "context": "5 sierpnia o świcie oddziały OW PPS trzymały nadal barykadę na Wolskiej. Południowe ubezpieczenie całej linii obronnej od cmentarza powązkowskiego do szpitala św. Stanisława na Wolskiej, stanowiła Milicja PPS. Początkowe natarcie zgrupowania Reinefartha ok. 7.00 zostało odparte, żołnierze plutonu AL zniszczyli czołg. Około godz. 8.00 pluton OW PPS zajmujący pozycje w Fabryce Franaszka przed barykadą i przy zabudowaniach szpitala św. Stanisława przepuścił Niemców, a następnie otworzył skuteczny ogień, zmuszając ich do wycofania. Według Lesława Bartelskiego barykady broniło wówczas ok. 200 żołnierzy (z tego 100 z OW PPS, oddział Czwartaków, pluton „Czarnego” z Batalionu Parasol), posiadając 3 ckm 1 granatnik, 62 kb 16 pm i 260 granatów. Według Adama Przygońskiego, głównego odcinka frontu od ul. Ożarowskiej, wzdłuż ul. Płockiej i Wolskiej, do remizy przy ul. Młynarskiej broniło 400 żołnierzy w tym 150 żołnierzy AL i ok. 100 OW PPS. Według wspomnień żołnierzy OW PPS, cytowanych przez Przygońskiego, było to 232 uzbrojonych żołnierzy w tym 98 z OW PPS,14 z AL i 120 z AK. Atak prowadziło natomiast zgrupowanie 3000 żołnierzy niemieckich wsparte kompanią ciężkich czołgów.",
+        "true_answers": [
+            "ok. 200"
+        ],
+        "prediction": "Według Bartelskiego, barykadę broniło około 200 żołnierzy.",
+        "exact_match": 0,
+        "f1_score": 0.22222222222222224
+    },
+    {
+        "question": "Jakie tereny obejmował główny odcinek frontu?",
+        "context": "5 sierpnia o świcie oddziały OW PPS trzymały nadal barykadę na Wolskiej. Południowe ubezpieczenie całej linii obronnej od cmentarza powązkowskiego do szpitala św. Stanisława na Wolskiej, stanowiła Milicja PPS. Początkowe natarcie zgrupowania Reinefartha ok. 7.00 zostało odparte, żołnierze plutonu AL zniszczyli czołg. Około godz. 8.00 pluton OW PPS zajmujący pozycje w Fabryce Franaszka przed barykadą i przy zabudowaniach szpitala św. Stanisława przepuścił Niemców, a następnie otworzył skuteczny ogień, zmuszając ich do wycofania. Według Lesława Bartelskiego barykady broniło wówczas ok. 200 żołnierzy (z tego 100 z OW PPS, oddział Czwartaków, pluton „Czarnego” z Batalionu Parasol), posiadając 3 ckm 1 granatnik, 62 kb 16 pm i 260 granatów. Według Adama Przygońskiego, głównego odcinka frontu od ul. Ożarowskiej, wzdłuż ul. Płockiej i Wolskiej, do remizy przy ul. Młynarskiej broniło 400 żołnierzy w tym 150 żołnierzy AL i ok. 100 OW PPS. Według wspomnień żołnierzy OW PPS, cytowanych przez Przygońskiego, było to 232 uzbrojonych żołnierzy w tym 98 z OW PPS,14 z AL i 120 z AK. Atak prowadziło natomiast zgrupowanie 3000 żołnierzy niemieckich wsparte kompanią ciężkich czołgów.",
+        "true_answers": [
+            "od ul. Ożarowskiej, wzdłuż ul. Płockiej i Wolskiej, do remizy przy ul. Młynarskiej"
+        ],
+        "prediction": "Główny odcinek frontu obejmował tereny od ul. Ożarowskiej, wzdłuż ul. Płockiej i Wolskiej, do remizy przy ul. Młynarskiej.",
+        "exact_match": 0,
+        "f1_score": 0.6451612903225806
+    },
+    {
+        "question": "Czy wojsko niemieckie dysponowało także czołgami?",
+        "context": "5 sierpnia o świcie oddziały OW PPS trzymały nadal barykadę na Wolskiej. Południowe ubezpieczenie całej linii obronnej od cmentarza powązkowskiego do szpitala św. Stanisława na Wolskiej, stanowiła Milicja PPS. Początkowe natarcie zgrupowania Reinefartha ok. 7.00 zostało odparte, żołnierze plutonu AL zniszczyli czołg. Około godz. 8.00 pluton OW PPS zajmujący pozycje w Fabryce Franaszka przed barykadą i przy zabudowaniach szpitala św. Stanisława przepuścił Niemców, a następnie otworzył skuteczny ogień, zmuszając ich do wycofania. Według Lesława Bartelskiego barykady broniło wówczas ok. 200 żołnierzy (z tego 100 z OW PPS, oddział Czwartaków, pluton „Czarnego” z Batalionu Parasol), posiadając 3 ckm 1 granatnik, 62 kb 16 pm i 260 granatów. Według Adama Przygońskiego, głównego odcinka frontu od ul. Ożarowskiej, wzdłuż ul. Płockiej i Wolskiej, do remizy przy ul. Młynarskiej broniło 400 żołnierzy w tym 150 żołnierzy AL i ok. 100 OW PPS. Według wspomnień żołnierzy OW PPS, cytowanych przez Przygońskiego, było to 232 uzbrojonych żołnierzy w tym 98 z OW PPS,14 z AL i 120 z AK. Atak prowadziło natomiast zgrupowanie 3000 żołnierzy niemieckich wsparte kompanią ciężkich czołgów.",
+        "true_answers": [
+            "Atak prowadziło natomiast zgrupowanie 3000 żołnierzy niemieckich wsparte kompanią ciężkich czołgów"
+        ],
+        "prediction": "Tak, wojsko niemieckie dysponowało czołgami.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "W którym roku odbyła się pierwsza edycja mistrzostw świata w piłce siatkowej? ",
+        "context": "Polscy siatkarze zadebiutowali w mistrzostwach świata już w pierwszej edycji – w 1949 w Pradze (w swym inauguracyjnym meczu pokonali 3:0 Holandię). W 1974 w Meksyku po raz pierwszy wywalczyli złoty medal (wygrali wszystkie spotkania). Był to zarazem pierwszy medal zdobyty przez jakąkolwiek drużynową reprezentację biało-czerwonych w mistrzostwach świata. Kolejny medal – tym razem srebrny – Polacy wywieźli z Japonii w 2006. Trzeci medal, a drugi złoty \"biało-czerwoni\" wywalczyli w 2014 na własnych parkietach. Po raz trzeci złoty medal zdobyli w 2018. Polska uczestniczyła w 17 z 19 turniejów mistrzowskich (stan po MŚ 2018) - nie zakwalifikowała się jedynie do mistrzostw w 1990 i w 1994.",
+        "true_answers": [
+            "1949"
+        ],
+        "prediction": "Answer: Pierwsza edycja mistrzostw świata w piłce siatkowej odbyła się w 1949 roku.",
+        "exact_match": 0,
+        "f1_score": 0.14285714285714288
+    },
+    {
+        "question": "W jakim mieście odbyły się pierwsze w historii mistrzostwa świata w piłce nożnej? ",
+        "context": "Polscy siatkarze zadebiutowali w mistrzostwach świata już w pierwszej edycji – w 1949 w Pradze (w swym inauguracyjnym meczu pokonali 3:0 Holandię). W 1974 w Meksyku po raz pierwszy wywalczyli złoty medal (wygrali wszystkie spotkania). Był to zarazem pierwszy medal zdobyty przez jakąkolwiek drużynową reprezentację biało-czerwonych w mistrzostwach świata. Kolejny medal – tym razem srebrny – Polacy wywieźli z Japonii w 2006. Trzeci medal, a drugi złoty \"biało-czerwoni\" wywalczyli w 2014 na własnych parkietach. Po raz trzeci złoty medal zdobyli w 2018. Polska uczestniczyła w 17 z 19 turniejów mistrzowskich (stan po MŚ 2018) - nie zakwalifikowała się jedynie do mistrzostw w 1990 i w 1994.",
+        "true_answers": [
+            "w Pradze"
+        ],
+        "prediction": "Pierwsze mistrzostwa świata w piłce nożnej odbyły się w 1930 roku w Montevideo, Urugwaj.",
+        "exact_match": 0,
+        "f1_score": 0.125
+    },
+    {
+        "question": "Z jaki krajem Polska rozegrała pierwszy mecz podczas mistrzostw świata piłki siatkowej? ",
+        "context": "Polscy siatkarze zadebiutowali w mistrzostwach świata już w pierwszej edycji – w 1949 w Pradze (w swym inauguracyjnym meczu pokonali 3:0 Holandię). W 1974 w Meksyku po raz pierwszy wywalczyli złoty medal (wygrali wszystkie spotkania). Był to zarazem pierwszy medal zdobyty przez jakąkolwiek drużynową reprezentację biało-czerwonych w mistrzostwach świata. Kolejny medal – tym razem srebrny – Polacy wywieźli z Japonii w 2006. Trzeci medal, a drugi złoty \"biało-czerwoni\" wywalczyli w 2014 na własnych parkietach. Po raz trzeci złoty medal zdobyli w 2018. Polska uczestniczyła w 17 z 19 turniejów mistrzowskich (stan po MŚ 2018) - nie zakwalifikowała się jedynie do mistrzostw w 1990 i w 1994.",
+        "true_answers": [
+            "Holandię"
+        ],
+        "prediction": "Holandia.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "W którym roku Polska zdobyła po raz pierwszy pierwsze miejsce w mistrzostwach świata w piłce siatkowej?",
+        "context": "Polscy siatkarze zadebiutowali w mistrzostwach świata już w pierwszej edycji – w 1949 w Pradze (w swym inauguracyjnym meczu pokonali 3:0 Holandię). W 1974 w Meksyku po raz pierwszy wywalczyli złoty medal (wygrali wszystkie spotkania). Był to zarazem pierwszy medal zdobyty przez jakąkolwiek drużynową reprezentację biało-czerwonych w mistrzostwach świata. Kolejny medal – tym razem srebrny – Polacy wywieźli z Japonii w 2006. Trzeci medal, a drugi złoty \"biało-czerwoni\" wywalczyli w 2014 na własnych parkietach. Po raz trzeci złoty medal zdobyli w 2018. Polska uczestniczyła w 17 z 19 turniejów mistrzowskich (stan po MŚ 2018) - nie zakwalifikowała się jedynie do mistrzostw w 1990 i w 1994.",
+        "true_answers": [
+            "1974"
+        ],
+        "prediction": "Poland first won the World Men's Volleyball Championship in 1974.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kiedy Matczak zdobył tytuł profesorski?",
+        "context": "15 lutego 2021 r. prezydent Andrzej Duda nadał mu tytuł profesora nauk społecznych w dyscyplinie nauk prawnych, jednak trzy dni później Marcin Matczak w oświadczeniu poinformował, że nie zjawi się na uroczystości wręczenia nominacji w Pałacu Prezydenckim, co uzasadnił, pisząc: „Szczególnie teraz jestem zobowiązany pozostać wierny wartościom, które są bliskie każdemu prawnikowi: wierności Konstytucji i szacunkowi dla prawa. Pana działania w ostatnich latach były, niestety, zaprzeczeniem tych wartości (...) Nie mogę pozwolić na to, aby uściśnięcie Pana dłoni zostało odebrane jako choćby cień akceptacji dla tych działań. To są sprawy absolutnie najważniejsze i mam nadzieję, że jako człowiek i prawnik Pan to rozumie, nawet jeśli jako polityk poszedł Pan na nieakceptowalne kompromisy”.",
+        "true_answers": [
+            "15 lutego 2021"
+        ],
+        "prediction": "Matczak zdobył tytuł profesorski 15 lutego 2021 r.",
+        "exact_match": 0,
+        "f1_score": 0.5454545454545454
+    },
+    {
+        "question": "Ile czasu po ogłoszeniu nadania mu tytułu Matczak przekazał informację o rezygnacji z pojawienia się na uroczystości przyznania mu tytułu?",
+        "context": "15 lutego 2021 r. prezydent Andrzej Duda nadał mu tytuł profesora nauk społecznych w dyscyplinie nauk prawnych, jednak trzy dni później Marcin Matczak w oświadczeniu poinformował, że nie zjawi się na uroczystości wręczenia nominacji w Pałacu Prezydenckim, co uzasadnił, pisząc: „Szczególnie teraz jestem zobowiązany pozostać wierny wartościom, które są bliskie każdemu prawnikowi: wierności Konstytucji i szacunkowi dla prawa. Pana działania w ostatnich latach były, niestety, zaprzeczeniem tych wartości (...) Nie mogę pozwolić na to, aby uściśnięcie Pana dłoni zostało odebrane jako choćby cień akceptacji dla tych działań. To są sprawy absolutnie najważniejsze i mam nadzieję, że jako człowiek i prawnik Pan to rozumie, nawet jeśli jako polityk poszedł Pan na nieakceptowalne kompromisy”.",
+        "true_answers": [
+            "trzy dni"
+        ],
+        "prediction": "Trzy dni po nadaniu mu tytułu Matczak przekazał informację o rezygnacji z uroczystości.",
+        "exact_match": 0,
+        "f1_score": 0.13333333333333336
+    },
+    {
+        "question": "Czy Matczak planował pojawić się na uroczystości nadania mu tytułu profesorskiego?",
+        "context": "15 lutego 2021 r. prezydent Andrzej Duda nadał mu tytuł profesora nauk społecznych w dyscyplinie nauk prawnych, jednak trzy dni później Marcin Matczak w oświadczeniu poinformował, że nie zjawi się na uroczystości wręczenia nominacji w Pałacu Prezydenckim, co uzasadnił, pisząc: „Szczególnie teraz jestem zobowiązany pozostać wierny wartościom, które są bliskie każdemu prawnikowi: wierności Konstytucji i szacunkowi dla prawa. Pana działania w ostatnich latach były, niestety, zaprzeczeniem tych wartości (...) Nie mogę pozwolić na to, aby uściśnięcie Pana dłoni zostało odebrane jako choćby cień akceptacji dla tych działań. To są sprawy absolutnie najważniejsze i mam nadzieję, że jako człowiek i prawnik Pan to rozumie, nawet jeśli jako polityk poszedł Pan na nieakceptowalne kompromisy”.",
+        "true_answers": [
+            "Marcin Matczak w oświadczeniu poinformował, że nie zjawi się na uroczystości wręczenia nominacji w Pałacu Prezydenckim"
+        ],
+        "prediction": "Nie, Marcin Matczak nie planował pojawić się na uroczystości nadania mu tytułu profesorskiego.",
+        "exact_match": 0,
+        "f1_score": 0.41379310344827586
+    },
+    {
+        "question": "Jak nazywa się prowadzony przez niego podcast?",
+        "context": "Od początku kryzysu wokół Trybunału Konstytucyjnego w 2015 r. regularnie występuje w mediach oraz na spotkaniach jako publicysta, komentator i ekspert ds. konstytucyjnych, będąc określanym jako „jeden z największych krytyków działań Prawa i Sprawiedliwości”. Od 2019 r. pod nazwą Profesor Matczak prowadzi popularyzujący prawoznawstwo kanał w serwisie YouTube, a od 2020 r. podcast o tej samej nazwie. W lutym 2021 r. został stałym współpracownikiem internetowej rozgłośni Halo.Radio, na której antenie nadawane są jego autorskie felietony.",
+        "true_answers": [
+            "Profesor Matczak"
+        ],
+        "prediction": "Profesor Matczak prowadzi podcast o nazwie \"Profesor Matczak\".",
+        "exact_match": 0,
+        "f1_score": 0.4
+    },
+    {
+        "question": "Gdzie można oglądać nagrania, na których popularyzuje prawoznawstwo?",
+        "context": "Od początku kryzysu wokół Trybunału Konstytucyjnego w 2015 r. regularnie występuje w mediach oraz na spotkaniach jako publicysta, komentator i ekspert ds. konstytucyjnych, będąc określanym jako „jeden z największych krytyków działań Prawa i Sprawiedliwości”. Od 2019 r. pod nazwą Profesor Matczak prowadzi popularyzujący prawoznawstwo kanał w serwisie YouTube, a od 2020 r. podcast o tej samej nazwie. W lutym 2021 r. został stałym współpracownikiem internetowej rozgłośni Halo.Radio, na której antenie nadawane są jego autorskie felietony.",
+        "true_answers": [
+            "w serwisie YouTube"
+        ],
+        "prediction": "Na kanałach YouTube i podcastach pod nazwą Profesor Matczak oraz na antenie internetowej rozgłośni Halo.Radio.",
+        "exact_match": 0,
+        "f1_score": 0.1111111111111111
+    },
+    {
+        "question": "Jak nazywa się rozgłośnia, z którą zaczął kolaborować na początku 2021 roku?",
+        "context": "Od początku kryzysu wokół Trybunału Konstytucyjnego w 2015 r. regularnie występuje w mediach oraz na spotkaniach jako publicysta, komentator i ekspert ds. konstytucyjnych, będąc określanym jako „jeden z największych krytyków działań Prawa i Sprawiedliwości”. Od 2019 r. pod nazwą Profesor Matczak prowadzi popularyzujący prawoznawstwo kanał w serwisie YouTube, a od 2020 r. podcast o tej samej nazwie. W lutym 2021 r. został stałym współpracownikiem internetowej rozgłośni Halo.Radio, na której antenie nadawane są jego autorskie felietony.",
+        "true_answers": [
+            "Halo.Radio"
+        ],
+        "prediction": "Rozgłośnia, z którą zaczął kolaborować na początku 2021 roku, nosi nazwę Halo.Radio.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "W jakiej roli pojawia się w mediach od czasu kryzysu, który rozpętał się wokół Trybunału Konstytucyjnego?",
+        "context": "Od początku kryzysu wokół Trybunału Konstytucyjnego w 2015 r. regularnie występuje w mediach oraz na spotkaniach jako publicysta, komentator i ekspert ds. konstytucyjnych, będąc określanym jako „jeden z największych krytyków działań Prawa i Sprawiedliwości”. Od 2019 r. pod nazwą Profesor Matczak prowadzi popularyzujący prawoznawstwo kanał w serwisie YouTube, a od 2020 r. podcast o tej samej nazwie. W lutym 2021 r. został stałym współpracownikiem internetowej rozgłośni Halo.Radio, na której antenie nadawane są jego autorskie felietony.",
+        "true_answers": [
+            "publicysta, komentator i ekspert ds. konstytucyjnych"
+        ],
+        "prediction": "Jako publicysta, komentator i ekspert ds. konstytucyjnych.",
+        "exact_match": 0,
+        "f1_score": 0.7692307692307692
+    },
+    {
+        "question": "Jaki utwór rapera był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu?",
+        "context": "To zachęciło dziennikarzy i słuchaczy do analizy słów utworu „C7osure (You Like)” z jego minialbumu, 7. Magazyn Rolling Stone zauważył, że kompozycja „dotyka takich tematów, jak mówienie prawdy, dorastanie i akceptowanie samego siebie”. Następnego dnia artysta opublikował na portalu oryginalną okładkę wcześniej wspomnianego projektu, dopisując: „ja głupi myślałem, że to, co zrobiłem jest oczywiste”. W wywiadzie dla programu BBC Breakfast Lil Nas X był dwuznaczny, stwierdzając, że jest gejem i jego seksualność nie jest akceptowana w środowisku hip-hop i country. Reakcje na tę sytuację były w głównie pozytywne, jednakże część z nich była negatywna i zawierała dużą ilość homofobicznych wypowiedzi, na co Nas X zareagował. Sprzeciwiła się również branża rapu, zwracając szczególnie na momenty homofobii w jej kulturze. W styczniu 2020 roku raper Pastor Troy w sposób homofobiczny skrytykował strój, który Lil Nas X miał na sobie podczas nagród Grammy, na co Lil odpowiedział: „Cholera, wyglądam naprawdę dobrze na tym zdjęciu”.",
+        "true_answers": [
+            "„C7osure (You Like)”"
+        ],
+        "prediction": "Utwór rapera Lil Nas X, który był przeanalizowany przez dziennikarzy pod kątem przekazu tekstu, to „C7osure (You Like)”.",
+        "exact_match": 0,
+        "f1_score": 0.1904761904761905
+    },
+    {
+        "question": "Jakie tematy poruszył w swojej piosence Hill?",
+        "context": "To zachęciło dziennikarzy i słuchaczy do analizy słów utworu „C7osure (You Like)” z jego minialbumu, 7. Magazyn Rolling Stone zauważył, że kompozycja „dotyka takich tematów, jak mówienie prawdy, dorastanie i akceptowanie samego siebie”. Następnego dnia artysta opublikował na portalu oryginalną okładkę wcześniej wspomnianego projektu, dopisując: „ja głupi myślałem, że to, co zrobiłem jest oczywiste”. W wywiadzie dla programu BBC Breakfast Lil Nas X był dwuznaczny, stwierdzając, że jest gejem i jego seksualność nie jest akceptowana w środowisku hip-hop i country. Reakcje na tę sytuację były w głównie pozytywne, jednakże część z nich była negatywna i zawierała dużą ilość homofobicznych wypowiedzi, na co Nas X zareagował. Sprzeciwiła się również branża rapu, zwracając szczególnie na momenty homofobii w jej kulturze. W styczniu 2020 roku raper Pastor Troy w sposób homofobiczny skrytykował strój, który Lil Nas X miał na sobie podczas nagród Grammy, na co Lil odpowiedział: „Cholera, wyglądam naprawdę dobrze na tym zdjęciu”.",
+        "true_answers": [
+            "mówienie prawdy, dorastanie i akceptowanie samego siebie"
+        ],
+        "prediction": "Tematy poruszone w piosence \"C7osure (You Like)\" to mówienie prawdy, dorastanie i akceptowanie samego siebie.",
+        "exact_match": 0,
+        "f1_score": 0.5454545454545455
+    },
+    {
+        "question": "Czy Lil Nas X jest osobą homoseksualną?",
+        "context": "To zachęciło dziennikarzy i słuchaczy do analizy słów utworu „C7osure (You Like)” z jego minialbumu, 7. Magazyn Rolling Stone zauważył, że kompozycja „dotyka takich tematów, jak mówienie prawdy, dorastanie i akceptowanie samego siebie”. Następnego dnia artysta opublikował na portalu oryginalną okładkę wcześniej wspomnianego projektu, dopisując: „ja głupi myślałem, że to, co zrobiłem jest oczywiste”. W wywiadzie dla programu BBC Breakfast Lil Nas X był dwuznaczny, stwierdzając, że jest gejem i jego seksualność nie jest akceptowana w środowisku hip-hop i country. Reakcje na tę sytuację były w głównie pozytywne, jednakże część z nich była negatywna i zawierała dużą ilość homofobicznych wypowiedzi, na co Nas X zareagował. Sprzeciwiła się również branża rapu, zwracając szczególnie na momenty homofobii w jej kulturze. W styczniu 2020 roku raper Pastor Troy w sposób homofobiczny skrytykował strój, który Lil Nas X miał na sobie podczas nagród Grammy, na co Lil odpowiedział: „Cholera, wyglądam naprawdę dobrze na tym zdjęciu”.",
+        "true_answers": [
+            "W wywiadzie dla programu BBC Breakfast Lil Nas X był dwuznaczny, stwierdzając, że jest gejem"
+        ],
+        "prediction": "Tak, Lil Nas X jest osobą homoseksualną.",
+        "exact_match": 0,
+        "f1_score": 0.36363636363636365
+    },
+    {
+        "question": "Czy wszyscy zaakceptowali orientację Lil Nas X?",
+        "context": "To zachęciło dziennikarzy i słuchaczy do analizy słów utworu „C7osure (You Like)” z jego minialbumu, 7. Magazyn Rolling Stone zauważył, że kompozycja „dotyka takich tematów, jak mówienie prawdy, dorastanie i akceptowanie samego siebie”. Następnego dnia artysta opublikował na portalu oryginalną okładkę wcześniej wspomnianego projektu, dopisując: „ja głupi myślałem, że to, co zrobiłem jest oczywiste”. W wywiadzie dla programu BBC Breakfast Lil Nas X był dwuznaczny, stwierdzając, że jest gejem i jego seksualność nie jest akceptowana w środowisku hip-hop i country. Reakcje na tę sytuację były w głównie pozytywne, jednakże część z nich była negatywna i zawierała dużą ilość homofobicznych wypowiedzi, na co Nas X zareagował. Sprzeciwiła się również branża rapu, zwracając szczególnie na momenty homofobii w jej kulturze. W styczniu 2020 roku raper Pastor Troy w sposób homofobiczny skrytykował strój, który Lil Nas X miał na sobie podczas nagród Grammy, na co Lil odpowiedział: „Cholera, wyglądam naprawdę dobrze na tym zdjęciu”.",
+        "true_answers": [
+            "Reakcje na tę sytuację były w głównie pozytywne, jednakże część z nich była negatywna i zawierała dużą ilość homofobicznych wypowiedzi"
+        ],
+        "prediction": "Nie wszyscy zaakceptowali orientację Lil Nas X, a reakcje były mieszane, zawierając zarówno pozytywne, jak i negatywne opinie, w tym homofobiczne komentarze.",
+        "exact_match": 0,
+        "f1_score": 0.1904761904761905
+    },
+    {
+        "question": "Który okręt pojawił się w Gdyni jako pierwszy: \"Ryś\" czy \"Wilk\"?",
+        "context": "19 stycznia 1931 roku do Gdyni przybył ORP „Ryś” pod dowództwem kpt. mar. Edwarda Szystowskiego, zaś 23 listopada pod dowództwem kpt. mar. Aleksandra Mohuczego, prowadzony przez zaledwie 35-osobową załogę, ORP „Wilk”. Drugi z tych okrętów został przywitany na polskich wodach terytorialnych przez swój okręt bliźniaczy oraz kanonierkę „Generał Haller”. Wkrótce po przybyciu drugiego okrętu, rozkazem nr 97 szef Kierownictwa Marynarki Wojennej z dniem 9 grudnia 1931 roku utworzył Grupę Okrętów Podwodnych pod dowództwem kpt. Mohuczego, pełniącego jednocześnie obowiązki dowódcy „Wilka”. W styczniu 1932 roku „Ryś” powrócił do stoczni w Nantes aby odebrać stamtąd brakujące wyposażenie, zaś 19 marca tego roku do Gdyni przypłynął pod dowództwem kmdr. ppor. Eugeniusza Pławskiego ORP „Żbik”, powitany na miejscu przez OORP „Wilk” i „Generał Haller”. Przybycie ostatniego okrętu spowodowało, że zarządzeniem nr 724 z 30 kwietnia 1932 roku, Szef Kierownictwa Marynarki Wojennej z dniem 1 maja tego roku utworzył Dywizjon Łodzi Podwodnych, 23 września 1936 roku przemianowany na Dywizjon Okrętów Podwodnych, w skład którego weszły wszystkie polskie okręty podwodne. Bazą macierzystą i głównym zapleczem jednostek Dywizjonu został port wojenny w Gdyni-Oksywiu, którego basen północny został przeznaczony dla okrętów podwodnych. Rozkazem szefa Kierownictwa Marynarki Wojennej, każdy z okrętów otrzymał swój znak rozpoznawczy, którym była pierwsza litera nazwy okrętu wymalowana na obu bokach kiosku. Znaki te obowiązywały do 1 lipca 1937 roku, kiedy, na rozkaz nr 33 szefa KMW z 14 czerwca tego roku, zostały zamalowane. W ramach Dywizjonu jednostki należały do umownego pionu okrętów (odrębnego od pionu bazy), obejmującego wszystkie sprawy związane ze szkoleniem załóg okrętowych w ruchu i w czasie postoju, a także obsługę mechanizmów głównych i pomocniczych, systemów okrętowych i uzbrojenia, ponadto konserwację i remont okrętów, pełnienie codziennej służby wachtowej oraz realizację zadań szkoleniowych w morzu.",
+        "true_answers": [
+            "19 stycznia 1931 roku do Gdyni przybył ORP „Ryś” pod dowództwem kpt. mar. Edwarda Szystowskiego, zaś 23 listopada pod dowództwem kpt. mar. Aleksandra Mohuczego, prowadzony przez zaledwie 35-osobową załogę, ORP „Wilk”"
+        ],
+        "prediction": "ORP \"Ryś\" pojawił się w Gdyni jako pierwszy.",
+        "exact_match": 0,
+        "f1_score": 0.10256410256410256
+    },
+    {
+        "question": "Jaki znak rozpoznawczy posiadał każdy z okrętów do połowy 1937 r.?",
+        "context": "19 stycznia 1931 roku do Gdyni przybył ORP „Ryś” pod dowództwem kpt. mar. Edwarda Szystowskiego, zaś 23 listopada pod dowództwem kpt. mar. Aleksandra Mohuczego, prowadzony przez zaledwie 35-osobową załogę, ORP „Wilk”. Drugi z tych okrętów został przywitany na polskich wodach terytorialnych przez swój okręt bliźniaczy oraz kanonierkę „Generał Haller”. Wkrótce po przybyciu drugiego okrętu, rozkazem nr 97 szef Kierownictwa Marynarki Wojennej z dniem 9 grudnia 1931 roku utworzył Grupę Okrętów Podwodnych pod dowództwem kpt. Mohuczego, pełniącego jednocześnie obowiązki dowódcy „Wilka”. W styczniu 1932 roku „Ryś” powrócił do stoczni w Nantes aby odebrać stamtąd brakujące wyposażenie, zaś 19 marca tego roku do Gdyni przypłynął pod dowództwem kmdr. ppor. Eugeniusza Pławskiego ORP „Żbik”, powitany na miejscu przez OORP „Wilk” i „Generał Haller”. Przybycie ostatniego okrętu spowodowało, że zarządzeniem nr 724 z 30 kwietnia 1932 roku, Szef Kierownictwa Marynarki Wojennej z dniem 1 maja tego roku utworzył Dywizjon Łodzi Podwodnych, 23 września 1936 roku przemianowany na Dywizjon Okrętów Podwodnych, w skład którego weszły wszystkie polskie okręty podwodne. Bazą macierzystą i głównym zapleczem jednostek Dywizjonu został port wojenny w Gdyni-Oksywiu, którego basen północny został przeznaczony dla okrętów podwodnych. Rozkazem szefa Kierownictwa Marynarki Wojennej, każdy z okrętów otrzymał swój znak rozpoznawczy, którym była pierwsza litera nazwy okrętu wymalowana na obu bokach kiosku. Znaki te obowiązywały do 1 lipca 1937 roku, kiedy, na rozkaz nr 33 szefa KMW z 14 czerwca tego roku, zostały zamalowane. W ramach Dywizjonu jednostki należały do umownego pionu okrętów (odrębnego od pionu bazy), obejmującego wszystkie sprawy związane ze szkoleniem załóg okrętowych w ruchu i w czasie postoju, a także obsługę mechanizmów głównych i pomocniczych, systemów okrętowych i uzbrojenia, ponadto konserwację i remont okrętów, pełnienie codziennej służby wachtowej oraz realizację zadań szkoleniowych w morzu.",
+        "true_answers": [
+            "pierwsza litera nazwy okrętu wymalowana na obu bokach kiosku"
+        ],
+        "prediction": "Do połowy 1937 r. każdy z okrętów otrzymał swój znak rozpoznawczy, którym była pierwsza litera nazwy okrętu wymalowana na obu bokach kiosku.",
+        "exact_match": 0,
+        "f1_score": 0.5161290322580644
+    },
+    {
+        "question": "Jakie zadania należały do pionu okrętów?",
+        "context": "19 stycznia 1931 roku do Gdyni przybył ORP „Ryś” pod dowództwem kpt. mar. Edwarda Szystowskiego, zaś 23 listopada pod dowództwem kpt. mar. Aleksandra Mohuczego, prowadzony przez zaledwie 35-osobową załogę, ORP „Wilk”. Drugi z tych okrętów został przywitany na polskich wodach terytorialnych przez swój okręt bliźniaczy oraz kanonierkę „Generał Haller”. Wkrótce po przybyciu drugiego okrętu, rozkazem nr 97 szef Kierownictwa Marynarki Wojennej z dniem 9 grudnia 1931 roku utworzył Grupę Okrętów Podwodnych pod dowództwem kpt. Mohuczego, pełniącego jednocześnie obowiązki dowódcy „Wilka”. W styczniu 1932 roku „Ryś” powrócił do stoczni w Nantes aby odebrać stamtąd brakujące wyposażenie, zaś 19 marca tego roku do Gdyni przypłynął pod dowództwem kmdr. ppor. Eugeniusza Pławskiego ORP „Żbik”, powitany na miejscu przez OORP „Wilk” i „Generał Haller”. Przybycie ostatniego okrętu spowodowało, że zarządzeniem nr 724 z 30 kwietnia 1932 roku, Szef Kierownictwa Marynarki Wojennej z dniem 1 maja tego roku utworzył Dywizjon Łodzi Podwodnych, 23 września 1936 roku przemianowany na Dywizjon Okrętów Podwodnych, w skład którego weszły wszystkie polskie okręty podwodne. Bazą macierzystą i głównym zapleczem jednostek Dywizjonu został port wojenny w Gdyni-Oksywiu, którego basen północny został przeznaczony dla okrętów podwodnych. Rozkazem szefa Kierownictwa Marynarki Wojennej, każdy z okrętów otrzymał swój znak rozpoznawczy, którym była pierwsza litera nazwy okrętu wymalowana na obu bokach kiosku. Znaki te obowiązywały do 1 lipca 1937 roku, kiedy, na rozkaz nr 33 szefa KMW z 14 czerwca tego roku, zostały zamalowane. W ramach Dywizjonu jednostki należały do umownego pionu okrętów (odrębnego od pionu bazy), obejmującego wszystkie sprawy związane ze szkoleniem załóg okrętowych w ruchu i w czasie postoju, a także obsługę mechanizmów głównych i pomocniczych, systemów okrętowych i uzbrojenia, ponadto konserwację i remont okrętów, pełnienie codziennej służby wachtowej oraz realizację zadań szkoleniowych w morzu.",
+        "true_answers": [
+            "szkoleniem załóg okrętowych w ruchu i w czasie postoju, a także obsługę mechanizmów głównych i pomocniczych, systemów okrętowych i uzbrojenia, ponadto konserwację i remont okrętów, pełnienie codziennej służby wachtowej oraz realizację zadań szkoleniowych w morzu"
+        ],
+        "prediction": "Pion okrętów obejmował zadania związane ze szkoleniem załóg okrętowych, obsługą mechanizmów i systemów okrętowych, konserwacją i remontami okrętów, pełnieniem służby wachtowej oraz realizacją zadań szkoleniowych w morzu.",
+        "exact_match": 0,
+        "f1_score": 0.3870967741935484
+    },
+    {
+        "question": "Kto dowodził \"Wilkiem\"?",
+        "context": "19 stycznia 1931 roku do Gdyni przybył ORP „Ryś” pod dowództwem kpt. mar. Edwarda Szystowskiego, zaś 23 listopada pod dowództwem kpt. mar. Aleksandra Mohuczego, prowadzony przez zaledwie 35-osobową załogę, ORP „Wilk”. Drugi z tych okrętów został przywitany na polskich wodach terytorialnych przez swój okręt bliźniaczy oraz kanonierkę „Generał Haller”. Wkrótce po przybyciu drugiego okrętu, rozkazem nr 97 szef Kierownictwa Marynarki Wojennej z dniem 9 grudnia 1931 roku utworzył Grupę Okrętów Podwodnych pod dowództwem kpt. Mohuczego, pełniącego jednocześnie obowiązki dowódcy „Wilka”. W styczniu 1932 roku „Ryś” powrócił do stoczni w Nantes aby odebrać stamtąd brakujące wyposażenie, zaś 19 marca tego roku do Gdyni przypłynął pod dowództwem kmdr. ppor. Eugeniusza Pławskiego ORP „Żbik”, powitany na miejscu przez OORP „Wilk” i „Generał Haller”. Przybycie ostatniego okrętu spowodowało, że zarządzeniem nr 724 z 30 kwietnia 1932 roku, Szef Kierownictwa Marynarki Wojennej z dniem 1 maja tego roku utworzył Dywizjon Łodzi Podwodnych, 23 września 1936 roku przemianowany na Dywizjon Okrętów Podwodnych, w skład którego weszły wszystkie polskie okręty podwodne. Bazą macierzystą i głównym zapleczem jednostek Dywizjonu został port wojenny w Gdyni-Oksywiu, którego basen północny został przeznaczony dla okrętów podwodnych. Rozkazem szefa Kierownictwa Marynarki Wojennej, każdy z okrętów otrzymał swój znak rozpoznawczy, którym była pierwsza litera nazwy okrętu wymalowana na obu bokach kiosku. Znaki te obowiązywały do 1 lipca 1937 roku, kiedy, na rozkaz nr 33 szefa KMW z 14 czerwca tego roku, zostały zamalowane. W ramach Dywizjonu jednostki należały do umownego pionu okrętów (odrębnego od pionu bazy), obejmującego wszystkie sprawy związane ze szkoleniem załóg okrętowych w ruchu i w czasie postoju, a także obsługę mechanizmów głównych i pomocniczych, systemów okrętowych i uzbrojenia, ponadto konserwację i remont okrętów, pełnienie codziennej służby wachtowej oraz realizację zadań szkoleniowych w morzu.",
+        "true_answers": [
+            "kpt. Mohuczego"
+        ],
+        "prediction": "ORP \"Wilk\" był dowodzony przez kpt. mar. Aleksandra Mohuczego.",
+        "exact_match": 0,
+        "f1_score": 0.1818181818181818
+    },
+    {
+        "question": "Na kiedy przypadł zmierzch rycerstwa?",
+        "context": "W historii wojskowości koniec średniowiecza w Europie Zachodniej wiąże się jednoznacznie z kresem rycerstwa, wraz z jego etosem i sposobem prowadzenia walki. W Polsce, podobnie jak w niektórych innych krajach Europy, rycerstwo (szlachtę) zwoływano na wojnę (pospolite ruszenie) aż do czasów saskich. Taki wyznacznik ramowy końca średniowiecza w Polsce należy więc odrzucić, a w jego miejsce przyjąć moment, gdy ciężką jazdę kopijniczą, z jej pełnymi zbrojami płytowymi, zastąpiły formacje tzw. narodowego autoramentu z husarią na czele. Na znajdującym się w zbiorach Muzeum Narodowego w Warszawie znanym obrazie Bitwa pod Orszą widać wyraźnie walczące ramię w ramię oddziały, lekkiej jeszcze wtedy husarii i ciężkiej jazdy kopijniczej. Bitwa pod Orszą rozegrana została jesienią 1514 roku. W bitwie pod Obertynem (1531) po stronie polskiej występuje już tylko lekka jazda, więc być może te dwie daty stanowią punkty graniczne jako ostatnia bitwa polskiego średniowiecza (Orsza) i pierwsza polska bitwa epoki nowożytnej (Obertyn).",
+        "true_answers": [
+            "koniec średniowiecza"
+        ],
+        "prediction": "Zmierzch rycerstwa przypadł na przełom XV i XVI wieku.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kiedy przestano wzywać szlachtę do boju w większości państw Europy?",
+        "context": "W historii wojskowości koniec średniowiecza w Europie Zachodniej wiąże się jednoznacznie z kresem rycerstwa, wraz z jego etosem i sposobem prowadzenia walki. W Polsce, podobnie jak w niektórych innych krajach Europy, rycerstwo (szlachtę) zwoływano na wojnę (pospolite ruszenie) aż do czasów saskich. Taki wyznacznik ramowy końca średniowiecza w Polsce należy więc odrzucić, a w jego miejsce przyjąć moment, gdy ciężką jazdę kopijniczą, z jej pełnymi zbrojami płytowymi, zastąpiły formacje tzw. narodowego autoramentu z husarią na czele. Na znajdującym się w zbiorach Muzeum Narodowego w Warszawie znanym obrazie Bitwa pod Orszą widać wyraźnie walczące ramię w ramię oddziały, lekkiej jeszcze wtedy husarii i ciężkiej jazdy kopijniczej. Bitwa pod Orszą rozegrana została jesienią 1514 roku. W bitwie pod Obertynem (1531) po stronie polskiej występuje już tylko lekka jazda, więc być może te dwie daty stanowią punkty graniczne jako ostatnia bitwa polskiego średniowiecza (Orsza) i pierwsza polska bitwa epoki nowożytnej (Obertyn).",
+        "true_answers": [
+            "czasów saskich"
+        ],
+        "prediction": "W większości państw Europy przestano wzywać szlachtę do boju pod koniec XVII wieku.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Jakie formacje wojenne przedstawione są na obrazie Bitwa pod Orszą?",
+        "context": "W historii wojskowości koniec średniowiecza w Europie Zachodniej wiąże się jednoznacznie z kresem rycerstwa, wraz z jego etosem i sposobem prowadzenia walki. W Polsce, podobnie jak w niektórych innych krajach Europy, rycerstwo (szlachtę) zwoływano na wojnę (pospolite ruszenie) aż do czasów saskich. Taki wyznacznik ramowy końca średniowiecza w Polsce należy więc odrzucić, a w jego miejsce przyjąć moment, gdy ciężką jazdę kopijniczą, z jej pełnymi zbrojami płytowymi, zastąpiły formacje tzw. narodowego autoramentu z husarią na czele. Na znajdującym się w zbiorach Muzeum Narodowego w Warszawie znanym obrazie Bitwa pod Orszą widać wyraźnie walczące ramię w ramię oddziały, lekkiej jeszcze wtedy husarii i ciężkiej jazdy kopijniczej. Bitwa pod Orszą rozegrana została jesienią 1514 roku. W bitwie pod Obertynem (1531) po stronie polskiej występuje już tylko lekka jazda, więc być może te dwie daty stanowią punkty graniczne jako ostatnia bitwa polskiego średniowiecza (Orsza) i pierwsza polska bitwa epoki nowożytnej (Obertyn).",
+        "true_answers": [
+            "oddziały, lekkiej jeszcze wtedy husarii i ciężkiej jazdy kopijniczej"
+        ],
+        "prediction": "Na obrazie Bitwa pod Orszą przedstawione są formacje wojenne lekkiej husarii i ciężkiej jazdy kopijniczej.",
+        "exact_match": 0,
+        "f1_score": 0.4166666666666667
+    },
+    {
+        "question": "Jaka formacja wojenna walczyła po polskiej stronie podczas walki stoczonej w 1531 roku?",
+        "context": "W historii wojskowości koniec średniowiecza w Europie Zachodniej wiąże się jednoznacznie z kresem rycerstwa, wraz z jego etosem i sposobem prowadzenia walki. W Polsce, podobnie jak w niektórych innych krajach Europy, rycerstwo (szlachtę) zwoływano na wojnę (pospolite ruszenie) aż do czasów saskich. Taki wyznacznik ramowy końca średniowiecza w Polsce należy więc odrzucić, a w jego miejsce przyjąć moment, gdy ciężką jazdę kopijniczą, z jej pełnymi zbrojami płytowymi, zastąpiły formacje tzw. narodowego autoramentu z husarią na czele. Na znajdującym się w zbiorach Muzeum Narodowego w Warszawie znanym obrazie Bitwa pod Orszą widać wyraźnie walczące ramię w ramię oddziały, lekkiej jeszcze wtedy husarii i ciężkiej jazdy kopijniczej. Bitwa pod Orszą rozegrana została jesienią 1514 roku. W bitwie pod Obertynem (1531) po stronie polskiej występuje już tylko lekka jazda, więc być może te dwie daty stanowią punkty graniczne jako ostatnia bitwa polskiego średniowiecza (Orsza) i pierwsza polska bitwa epoki nowożytnej (Obertyn).",
+        "true_answers": [
+            "lekka jazda"
+        ],
+        "prediction": "Formacja wojenna walcząca po polskiej stronie podczas walki stoczonej w 1531 roku była lekka jazda.",
+        "exact_match": 0,
+        "f1_score": 0.11764705882352941
+    },
+    {
+        "question": "Skąd biorą się komety krótkookresowe?",
+        "context": "Odkrycia kolejnych transneptunowych obiektów pokazały, że w rzeczywistości Pas Kuipera nie jest źródłem komet krótkookresowych. Pochodzą one z tzw. dysku rozproszonego. Powstał on w początkowym okresie formowania się Układu Słonecznego, gdy Neptun oddalił się w rejony powstającego Pasa Kuipera, znajdującego się wtedy znacznie bliżej Słońca. Jego grawitacja zaburzyła orbity części obiektów z Pasa, rozciągając je i sprawiając, że obecnie ich peryhelia znajdują się w pobliżu orbity Neptuna. Dzięki temu mogą one, w przeciwieństwie do większości obiektów z Pasa, być wciąż wytrącane z orbit przez Neptuna i trafiać do wewnętrznego Układu. Ta grupa obiektów, nazwana dyskiem rozproszonym, jest uważana za źródło większości komet krótkookresowych.",
+        "true_answers": [
+            "z tzw. dysku rozproszonego"
+        ],
+        "prediction": "Komet krótkookresowe pochodzą z tzw. dysku rozproszonego, który powstał w początkowym okresie formowania się Układu Słonecznego, gdy Neptun zaburzył orbity obiektów z Pasa Kuipera, sprawiając, że ich peryhelia znajdują się w pobliżu orbity Neptuna.",
+        "exact_match": 0,
+        "f1_score": 0.15789473684210525
+    },
+    {
+        "question": "Kiedy powstał Pas Kuipera?",
+        "context": "Odkrycia kolejnych transneptunowych obiektów pokazały, że w rzeczywistości Pas Kuipera nie jest źródłem komet krótkookresowych. Pochodzą one z tzw. dysku rozproszonego. Powstał on w początkowym okresie formowania się Układu Słonecznego, gdy Neptun oddalił się w rejony powstającego Pasa Kuipera, znajdującego się wtedy znacznie bliżej Słońca. Jego grawitacja zaburzyła orbity części obiektów z Pasa, rozciągając je i sprawiając, że obecnie ich peryhelia znajdują się w pobliżu orbity Neptuna. Dzięki temu mogą one, w przeciwieństwie do większości obiektów z Pasa, być wciąż wytrącane z orbit przez Neptuna i trafiać do wewnętrznego Układu. Ta grupa obiektów, nazwana dyskiem rozproszonym, jest uważana za źródło większości komet krótkookresowych.",
+        "true_answers": [
+            "w początkowym okresie formowania się Układu Słonecznego"
+        ],
+        "prediction": "Pas Kuipera powstał w początkowym okresie formowania się Układu Słonecznego.",
+        "exact_match": 0,
+        "f1_score": 0.7058823529411764
+    },
+    {
+        "question": "Grawitacja jakiego ciała niebieskiego wpłynęła na Pas Kuipera?",
+        "context": "Odkrycia kolejnych transneptunowych obiektów pokazały, że w rzeczywistości Pas Kuipera nie jest źródłem komet krótkookresowych. Pochodzą one z tzw. dysku rozproszonego. Powstał on w początkowym okresie formowania się Układu Słonecznego, gdy Neptun oddalił się w rejony powstającego Pasa Kuipera, znajdującego się wtedy znacznie bliżej Słońca. Jego grawitacja zaburzyła orbity części obiektów z Pasa, rozciągając je i sprawiając, że obecnie ich peryhelia znajdują się w pobliżu orbity Neptuna. Dzięki temu mogą one, w przeciwieństwie do większości obiektów z Pasa, być wciąż wytrącane z orbit przez Neptuna i trafiać do wewnętrznego Układu. Ta grupa obiektów, nazwana dyskiem rozproszonym, jest uważana za źródło większości komet krótkookresowych.",
+        "true_answers": [
+            "Neptun"
+        ],
+        "prediction": "Grawitacja Neptuna wpłynęła na Pas Kuipera.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Czy dysk rozproszony tworzy kilka ciał niebieskich?",
+        "context": "Odkrycia kolejnych transneptunowych obiektów pokazały, że w rzeczywistości Pas Kuipera nie jest źródłem komet krótkookresowych. Pochodzą one z tzw. dysku rozproszonego. Powstał on w początkowym okresie formowania się Układu Słonecznego, gdy Neptun oddalił się w rejony powstającego Pasa Kuipera, znajdującego się wtedy znacznie bliżej Słońca. Jego grawitacja zaburzyła orbity części obiektów z Pasa, rozciągając je i sprawiając, że obecnie ich peryhelia znajdują się w pobliżu orbity Neptuna. Dzięki temu mogą one, w przeciwieństwie do większości obiektów z Pasa, być wciąż wytrącane z orbit przez Neptuna i trafiać do wewnętrznego Układu. Ta grupa obiektów, nazwana dyskiem rozproszonym, jest uważana za źródło większości komet krótkookresowych.",
+        "true_answers": [
+            "Ta grupa obiektów, nazwana dyskiem rozproszonym"
+        ],
+        "prediction": "Tak, dysk rozproszony jest źródłem większości komet krótkookresowych.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Odkrycia jakich obiektów wpłynęły na poszerzenie wiedzy o Pasie Kurpiera?",
+        "context": "Odkrycia kolejnych transneptunowych obiektów pokazały, że w rzeczywistości Pas Kuipera nie jest źródłem komet krótkookresowych. Pochodzą one z tzw. dysku rozproszonego. Powstał on w początkowym okresie formowania się Układu Słonecznego, gdy Neptun oddalił się w rejony powstającego Pasa Kuipera, znajdującego się wtedy znacznie bliżej Słońca. Jego grawitacja zaburzyła orbity części obiektów z Pasa, rozciągając je i sprawiając, że obecnie ich peryhelia znajdują się w pobliżu orbity Neptuna. Dzięki temu mogą one, w przeciwieństwie do większości obiektów z Pasa, być wciąż wytrącane z orbit przez Neptuna i trafiać do wewnętrznego Układu. Ta grupa obiektów, nazwana dyskiem rozproszonym, jest uważana za źródło większości komet krótkookresowych.",
+        "true_answers": [
+            "transneptunowych"
+        ],
+        "prediction": "Odkrycia transneptunowych obiektów pokazały, że większość komet krótkookresowych pochodzi z tzw. dysku rozproszonego, a nie z Pasa Kuipera.",
+        "exact_match": 0,
+        "f1_score": 0.10526315789473684
+    },
+    {
+        "question": "W jakiej jednostce uczelni pracował pomiędzy 1972 a 1981 rokiem?",
+        "context": "W latach 1972–1981 był pracownikiem naukowo-dydaktycznym na Wydziale Prawa i Administracji UW. Od początku lat 80. przebywał za granicą. Od 1983 do 1985 wykładał prawo na University of Melbourne, a w latach 1985–1993 na University of Sydney. Od 1994 jest profesorem filozofii prawa na Wydziale Prawa tej uczelni, a od 1999 profesorem teorii prawa na Wydziale Prawa Europejskiego Instytutu Uniwersyteckiego we Florencji. W latach 2003–2006 był dziekanem Wydziału Prawa Europejskiego Instytutu Uniwersyteckiego. Gościnnie wykładał na University of Sydney (1981–1982), w Yale Law School (1983–1984), Cornell University School of Law w Ithace (1995–1996) i Saint Louis University School of Law (1998). Jest również pracownikiem Sekcji Badań i Szkoleń w Centrum Europejskim Uniwersytetu Warszawskiego.",
+        "true_answers": [
+            "na Wydziale Prawa i Administracji UW"
+        ],
+        "prediction": "Between 1972 and 1981, he worked at the Faculty of Law and Administration at the University of Warsaw.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kiedy prawnik współpracował z uniwersytetem w Melbourne?",
+        "context": "W latach 1972–1981 był pracownikiem naukowo-dydaktycznym na Wydziale Prawa i Administracji UW. Od początku lat 80. przebywał za granicą. Od 1983 do 1985 wykładał prawo na University of Melbourne, a w latach 1985–1993 na University of Sydney. Od 1994 jest profesorem filozofii prawa na Wydziale Prawa tej uczelni, a od 1999 profesorem teorii prawa na Wydziale Prawa Europejskiego Instytutu Uniwersyteckiego we Florencji. W latach 2003–2006 był dziekanem Wydziału Prawa Europejskiego Instytutu Uniwersyteckiego. Gościnnie wykładał na University of Sydney (1981–1982), w Yale Law School (1983–1984), Cornell University School of Law w Ithace (1995–1996) i Saint Louis University School of Law (1998). Jest również pracownikiem Sekcji Badań i Szkoleń w Centrum Europejskim Uniwersytetu Warszawskiego.",
+        "true_answers": [
+            "Od 1983 do 1985"
+        ],
+        "prediction": "Prawnika współpracował z University of Melbourne w latach 1983–1985.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Na jakiej uczelni wyższej pracował wykładowca od 1985 roku?",
+        "context": "W latach 1972–1981 był pracownikiem naukowo-dydaktycznym na Wydziale Prawa i Administracji UW. Od początku lat 80. przebywał za granicą. Od 1983 do 1985 wykładał prawo na University of Melbourne, a w latach 1985–1993 na University of Sydney. Od 1994 jest profesorem filozofii prawa na Wydziale Prawa tej uczelni, a od 1999 profesorem teorii prawa na Wydziale Prawa Europejskiego Instytutu Uniwersyteckiego we Florencji. W latach 2003–2006 był dziekanem Wydziału Prawa Europejskiego Instytutu Uniwersyteckiego. Gościnnie wykładał na University of Sydney (1981–1982), w Yale Law School (1983–1984), Cornell University School of Law w Ithace (1995–1996) i Saint Louis University School of Law (1998). Jest również pracownikiem Sekcji Badań i Szkoleń w Centrum Europejskim Uniwersytetu Warszawskiego.",
+        "true_answers": [
+            "University of Sydney"
+        ],
+        "prediction": "University of Sydney.",
+        "exact_match": 0,
+        "f1_score": 0.6666666666666666
+    },
+    {
+        "question": "Kiedy naukowiec zdobył profesurę?",
+        "context": "W latach 1972–1981 był pracownikiem naukowo-dydaktycznym na Wydziale Prawa i Administracji UW. Od początku lat 80. przebywał za granicą. Od 1983 do 1985 wykładał prawo na University of Melbourne, a w latach 1985–1993 na University of Sydney. Od 1994 jest profesorem filozofii prawa na Wydziale Prawa tej uczelni, a od 1999 profesorem teorii prawa na Wydziale Prawa Europejskiego Instytutu Uniwersyteckiego we Florencji. W latach 2003–2006 był dziekanem Wydziału Prawa Europejskiego Instytutu Uniwersyteckiego. Gościnnie wykładał na University of Sydney (1981–1982), w Yale Law School (1983–1984), Cornell University School of Law w Ithace (1995–1996) i Saint Louis University School of Law (1998). Jest również pracownikiem Sekcji Badań i Szkoleń w Centrum Europejskim Uniwersytetu Warszawskiego.",
+        "true_answers": [
+            "1994"
+        ],
+        "prediction": "Naukowiec zdobył profesurę w 1994 roku.",
+        "exact_match": 0,
+        "f1_score": 0.2857142857142857
+    },
+    {
+        "question": "W jakiej jednostce uczelni prawnik obejmował stanowisko dziekana?",
+        "context": "W latach 1972–1981 był pracownikiem naukowo-dydaktycznym na Wydziale Prawa i Administracji UW. Od początku lat 80. przebywał za granicą. Od 1983 do 1985 wykładał prawo na University of Melbourne, a w latach 1985–1993 na University of Sydney. Od 1994 jest profesorem filozofii prawa na Wydziale Prawa tej uczelni, a od 1999 profesorem teorii prawa na Wydziale Prawa Europejskiego Instytutu Uniwersyteckiego we Florencji. W latach 2003–2006 był dziekanem Wydziału Prawa Europejskiego Instytutu Uniwersyteckiego. Gościnnie wykładał na University of Sydney (1981–1982), w Yale Law School (1983–1984), Cornell University School of Law w Ithace (1995–1996) i Saint Louis University School of Law (1998). Jest również pracownikiem Sekcji Badań i Szkoleń w Centrum Europejskim Uniwersytetu Warszawskiego.",
+        "true_answers": [
+            "Wydziału Prawa Europejskiego Instytutu Uniwersyteckiego"
+        ],
+        "prediction": "Dziekanem był na Wydziale Prawa Europejskiego Instytutu Uniwersyteckiego w latach 2003–2006.",
+        "exact_match": 0,
+        "f1_score": 0.5000000000000001
+    },
+    {
+        "question": "Kiedy rozpoczął pracę przy Prywatnej kolekcji?",
+        "context": "Podjął pracę w Radio Dla Ciebie, potem trafił do radiowej Jedynki, a w 2001 – do Trójki. Pierwszy raz w Trójce pojawił się na początku lat 90. Prowadził audycję Orzech i reszta, a od września 2007 prowadził audycję Prywatna kolekcja. W latach 2006–2015 poprowadził trzy wydania Listy Przebojów Programu Trzeciego. Prowadził też audycje Zaraz wracam i Trzy kontynenty. Jesienią 2017 roku w związku z działaniami ówczesnego dyrektora Trójki Wiktora Świetlika odszedł ze stacji. W roku 2020 należał do zespołu redakcyjnego internetowej stacji radiowej RadioSpacja.pl jako prezenter audycji Swoją drogą.",
+        "true_answers": [
+            "września 2007"
+        ],
+        "prediction": "Wrzesień 2007",
+        "exact_match": 0,
+        "f1_score": 0.5
+    },
+    {
+        "question": "Dlaczego prezenter zdecydował się odejść z rozgłośni w 2017 roku?",
+        "context": "Podjął pracę w Radio Dla Ciebie, potem trafił do radiowej Jedynki, a w 2001 – do Trójki. Pierwszy raz w Trójce pojawił się na początku lat 90. Prowadził audycję Orzech i reszta, a od września 2007 prowadził audycję Prywatna kolekcja. W latach 2006–2015 poprowadził trzy wydania Listy Przebojów Programu Trzeciego. Prowadził też audycje Zaraz wracam i Trzy kontynenty. Jesienią 2017 roku w związku z działaniami ówczesnego dyrektora Trójki Wiktora Świetlika odszedł ze stacji. W roku 2020 należał do zespołu redakcyjnego internetowej stacji radiowej RadioSpacja.pl jako prezenter audycji Swoją drogą.",
+        "true_answers": [
+            "w związku z działaniami ówczesnego dyrektora Trójki"
+        ],
+        "prediction": "Prezenter zdecydował się odejść z rozgłośni Trójka w 2017 roku z powodu działań ówczesnego dyrektora stacji.",
+        "exact_match": 0,
+        "f1_score": 0.34782608695652173
+    },
+    {
+        "question": "Jakim mianem opatrzony był program, nad którym prezenter pracował od września 2007 roku?",
+        "context": "Podjął pracę w Radio Dla Ciebie, potem trafił do radiowej Jedynki, a w 2001 – do Trójki. Pierwszy raz w Trójce pojawił się na początku lat 90. Prowadził audycję Orzech i reszta, a od września 2007 prowadził audycję Prywatna kolekcja. W latach 2006–2015 poprowadził trzy wydania Listy Przebojów Programu Trzeciego. Prowadził też audycje Zaraz wracam i Trzy kontynenty. Jesienią 2017 roku w związku z działaniami ówczesnego dyrektora Trójki Wiktora Świetlika odszedł ze stacji. W roku 2020 należał do zespołu redakcyjnego internetowej stacji radiowej RadioSpacja.pl jako prezenter audycji Swoją drogą.",
+        "true_answers": [
+            "Prywatna kolekcja"
+        ],
+        "prediction": "Program, nad którym prezenter pracował od września 2007 roku, nosił miano \"Prywatna kolekcja\".",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Jaki program prowadził prezenter pomiędzy 2006 a 2015 rokiem?",
+        "context": "Podjął pracę w Radio Dla Ciebie, potem trafił do radiowej Jedynki, a w 2001 – do Trójki. Pierwszy raz w Trójce pojawił się na początku lat 90. Prowadził audycję Orzech i reszta, a od września 2007 prowadził audycję Prywatna kolekcja. W latach 2006–2015 poprowadził trzy wydania Listy Przebojów Programu Trzeciego. Prowadził też audycje Zaraz wracam i Trzy kontynenty. Jesienią 2017 roku w związku z działaniami ówczesnego dyrektora Trójki Wiktora Świetlika odszedł ze stacji. W roku 2020 należał do zespołu redakcyjnego internetowej stacji radiowej RadioSpacja.pl jako prezenter audycji Swoją drogą.",
+        "true_answers": [
+            "Listy Przebojów Programu Trzeciego"
+        ],
+        "prediction": "Answer: Prezenter prowadził Listę Przebojów Programu Trzeciego pomiędzy 2006 a 2015 rokiem.",
+        "exact_match": 0,
+        "f1_score": 0.375
+    },
+    {
+        "question": "Za co ukarano Guozhu?",
+        "context": "Z drugiej jednak strony władze chińskie podjęły przed igrzyskami starania, by zapobiec ewentualnym protestom. Aktywista praw człowieka Ye Guozhu otrzymał czteroletni wyrok za uczestnictwo w organizowaniu demonstracji, skierowanej przeciw przymusowymi eksmisjom w Pekinie. Podczas przygotowań do organizacji igrzysk władze chińskie dokonały licznych przesiedleń, mających na celu przygotowania miejsca na przyszłe obiekty olimpijskie. Podczas samych Igrzysk władze chińskie również nie dopuszczały do przeprowadzania demonstracji przeciwko łamaniu praw człowieka. Mimo wyznaczenia trzech miejskich parków, w których mogłyby być organizowane demonstracje, władze odrzuciły wszystkie petycje w sprawie zorganizowania tam manifestacji.",
+        "true_answers": [
+            "za uczestnictwo w organizowaniu demonstracji"
+        ],
+        "prediction": "Ye Guozhu został ukarany czteroletnim wyrokiem za uczestnictwo w organizowaniu demonstracji przeciw przymusowym eksmisjom w Pekinie.",
+        "exact_match": 0,
+        "f1_score": 0.47619047619047616
+    },
+    {
+        "question": "W co wymierzone były protesty zorganizowane przez Guozhu?",
+        "context": "Z drugiej jednak strony władze chińskie podjęły przed igrzyskami starania, by zapobiec ewentualnym protestom. Aktywista praw człowieka Ye Guozhu otrzymał czteroletni wyrok za uczestnictwo w organizowaniu demonstracji, skierowanej przeciw przymusowymi eksmisjom w Pekinie. Podczas przygotowań do organizacji igrzysk władze chińskie dokonały licznych przesiedleń, mających na celu przygotowania miejsca na przyszłe obiekty olimpijskie. Podczas samych Igrzysk władze chińskie również nie dopuszczały do przeprowadzania demonstracji przeciwko łamaniu praw człowieka. Mimo wyznaczenia trzech miejskich parków, w których mogłyby być organizowane demonstracje, władze odrzuciły wszystkie petycje w sprawie zorganizowania tam manifestacji.",
+        "true_answers": [
+            "przymusowymi eksmisjom w Pekinie"
+        ],
+        "prediction": "Protesty zorganizowane przez Guozhu były skierowane przeciwko przymusowym eksmisjom w Pekinie.",
+        "exact_match": 0,
+        "f1_score": 0.26666666666666666
+    },
+    {
+        "question": "Jaki był powód dokonania przez władze eksmisji?",
+        "context": "Z drugiej jednak strony władze chińskie podjęły przed igrzyskami starania, by zapobiec ewentualnym protestom. Aktywista praw człowieka Ye Guozhu otrzymał czteroletni wyrok za uczestnictwo w organizowaniu demonstracji, skierowanej przeciw przymusowymi eksmisjom w Pekinie. Podczas przygotowań do organizacji igrzysk władze chińskie dokonały licznych przesiedleń, mających na celu przygotowania miejsca na przyszłe obiekty olimpijskie. Podczas samych Igrzysk władze chińskie również nie dopuszczały do przeprowadzania demonstracji przeciwko łamaniu praw człowieka. Mimo wyznaczenia trzech miejskich parków, w których mogłyby być organizowane demonstracje, władze odrzuciły wszystkie petycje w sprawie zorganizowania tam manifestacji.",
+        "true_answers": [
+            "przygotowania miejsca na przyszłe obiekty olimpijskie"
+        ],
+        "prediction": "Powodem dokonania przez władze eksmisji było przygotowanie miejsca na przyszłe obiekty olimpijskie podczas organizacji igrzysk w Pekinie.",
+        "exact_match": 0,
+        "f1_score": 0.4347826086956522
+    },
+    {
+        "question": "W jakiej produkcji pojawił się aktor w 1997 roku?",
+        "context": "Szybko dostał angaż do kilku francuskich seriali. W 1997 pojawił się w filmie telewizyjnym Mission protection rapprochée. Za rolę Loïca w komedii Letni zawrót głowy (Embrassez qui vous voudrez, 2003) z Charlotte Rampling i Jakiem Dutronc oraz za postać Yvana w melodramacie Zabłąkani (Les Égarés, 2003) u boku Emmanuelle Béart zdobył nominację do nagrody Césara w kategorii Najbardziej Obiecującego Aktora. Kreacja Manecha, jednego z pięciu rannych żołnierzy, którzy stanęli przed sądem wojennym w melodramacie Bardzo długie zaręczyny (Un long dimanche de fiançailles, 2004) z Audrey Tautou przyniosła mu nagrodę Césara. W prequelu filmu Milczenie owiec – Hannibal: Po drugiej stronie maski (Hannibal Rising, 2007) wcielił się w rolę tytułowego bohatera, Hannibala Lectera.",
+        "true_answers": [
+            "Mission protection rapprochée"
+        ],
+        "prediction": "Aktor pojawił się w filmie telewizyjnym \"Mission protection rapprochée\" w 1997 roku.",
+        "exact_match": 0,
+        "f1_score": 0.13333333333333333
+    },
+    {
+        "question": "W jaką postać wcielił się w filmie Bardzo długie zaręczyny?",
+        "context": "Szybko dostał angaż do kilku francuskich seriali. W 1997 pojawił się w filmie telewizyjnym Mission protection rapprochée. Za rolę Loïca w komedii Letni zawrót głowy (Embrassez qui vous voudrez, 2003) z Charlotte Rampling i Jakiem Dutronc oraz za postać Yvana w melodramacie Zabłąkani (Les Égarés, 2003) u boku Emmanuelle Béart zdobył nominację do nagrody Césara w kategorii Najbardziej Obiecującego Aktora. Kreacja Manecha, jednego z pięciu rannych żołnierzy, którzy stanęli przed sądem wojennym w melodramacie Bardzo długie zaręczyny (Un long dimanche de fiançailles, 2004) z Audrey Tautou przyniosła mu nagrodę Césara. W prequelu filmu Milczenie owiec – Hannibal: Po drugiej stronie maski (Hannibal Rising, 2007) wcielił się w rolę tytułowego bohatera, Hannibala Lectera.",
+        "true_answers": [
+            "Manecha"
+        ],
+        "prediction": "W filmie \"Bardzo długie zaręczyny\" wcielił się w postać Manecha.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kogo aktor zagrał w Letnim zawrocie głowy?",
+        "context": "Szybko dostał angaż do kilku francuskich seriali. W 1997 pojawił się w filmie telewizyjnym Mission protection rapprochée. Za rolę Loïca w komedii Letni zawrót głowy (Embrassez qui vous voudrez, 2003) z Charlotte Rampling i Jakiem Dutronc oraz za postać Yvana w melodramacie Zabłąkani (Les Égarés, 2003) u boku Emmanuelle Béart zdobył nominację do nagrody Césara w kategorii Najbardziej Obiecującego Aktora. Kreacja Manecha, jednego z pięciu rannych żołnierzy, którzy stanęli przed sądem wojennym w melodramacie Bardzo długie zaręczyny (Un long dimanche de fiançailles, 2004) z Audrey Tautou przyniosła mu nagrodę Césara. W prequelu filmu Milczenie owiec – Hannibal: Po drugiej stronie maski (Hannibal Rising, 2007) wcielił się w rolę tytułowego bohatera, Hannibala Lectera.",
+        "true_answers": [
+            "Loïca"
+        ],
+        "prediction": "Gaspard Ulliel.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kogo chciano wysiedlić z Okręgu Rzeczy Gdańsk-Prusy Zachodnie?",
+        "context": "Ze względu na opór stawiany przez Forstera Himmler w dniu 26 października 1939 podjął decyzję o chwilowym wstrzymaniu wysiedleń z ziem wcielonych do Rzeszy. Już cztery dni później wydał jednak rozporządzenie nr 1/II do dekretu Hitlera o umocnieniu Niemczyzny, w którym nakazywał, aby do końca lutego 1940 z terenów Okręgu Rzeszy Gdańsk-Prusy Zachodnie wysiedleni zostali wszyscy Żydzi oraz Polacy przybyli na Pomorze po 1918 roku. 3 listopada 1939 ponownie wezwał natomiast do kontynuowania na Pomorzu i w Poznańskiem akcji osadniczo-wysiedleńczej związanej z ewakuacją Niemców bałtyckich. Z kolei w dniu 15 listopada Hildebrandt zorganizował w Gdańsku naradę z udziałem przedstawicieli władz okręgu, której celem było wypracowanie wspólnego stanowiska w sprawie planowanych przesiedleń. W trakcie konferencji najwięcej miejsca poświęcono kwestii osadnictwa Niemców bałtyckich. Hildebrandt wychodząc nieco naprzeciw postulatom Forstera, zgodził się, że Okręg Gdańsk-Prusy Zachodnie może przyjąć tylko niewielką liczbę Baltendeutschów – głównie przedstawicieli inteligencji lub wykwalifikowanych robotników. W ślad za postanowieniami konferencji w Krakowie (8 listopada) potwierdzono, że z Pomorza zostanie w krótkim czasie deportowanych blisko 400 tys. Polaków i Żydów. Postanowiono, że wysiedleniami zostaną objęte przede wszystkim południowe powiaty prowincji – najgęściej zamieszkiwane przez Polaków. Z inicjatywy dr Rudolfa Trögera – gdańskiego inspektora SD i policji bezpieczeństwa (IdS) – postanowiono również, że w pierwszym rzędzie będą wysiedlane rodziny Polaków zamordowanych podczas akcji „Inteligencja”.",
+        "true_answers": [
+            "wszyscy Żydzi oraz Polacy przybyli na Pomorze po 1918 roku"
+        ],
+        "prediction": "Wysiedleni mieli zostać wszyscy Żydzi oraz Polacy przybyli na Pomorze po 1918 roku z Okręgu Rzeczy Gdańsk-Prusy Zachodnie.",
+        "exact_match": 0,
+        "f1_score": 0.7142857142857143
+    },
+    {
+        "question": "Do kiedy mieli zostać wysiedleni Polacy Żydzi z terenów Rzeszy?",
+        "context": "Ze względu na opór stawiany przez Forstera Himmler w dniu 26 października 1939 podjął decyzję o chwilowym wstrzymaniu wysiedleń z ziem wcielonych do Rzeszy. Już cztery dni później wydał jednak rozporządzenie nr 1/II do dekretu Hitlera o umocnieniu Niemczyzny, w którym nakazywał, aby do końca lutego 1940 z terenów Okręgu Rzeszy Gdańsk-Prusy Zachodnie wysiedleni zostali wszyscy Żydzi oraz Polacy przybyli na Pomorze po 1918 roku. 3 listopada 1939 ponownie wezwał natomiast do kontynuowania na Pomorzu i w Poznańskiem akcji osadniczo-wysiedleńczej związanej z ewakuacją Niemców bałtyckich. Z kolei w dniu 15 listopada Hildebrandt zorganizował w Gdańsku naradę z udziałem przedstawicieli władz okręgu, której celem było wypracowanie wspólnego stanowiska w sprawie planowanych przesiedleń. W trakcie konferencji najwięcej miejsca poświęcono kwestii osadnictwa Niemców bałtyckich. Hildebrandt wychodząc nieco naprzeciw postulatom Forstera, zgodził się, że Okręg Gdańsk-Prusy Zachodnie może przyjąć tylko niewielką liczbę Baltendeutschów – głównie przedstawicieli inteligencji lub wykwalifikowanych robotników. W ślad za postanowieniami konferencji w Krakowie (8 listopada) potwierdzono, że z Pomorza zostanie w krótkim czasie deportowanych blisko 400 tys. Polaków i Żydów. Postanowiono, że wysiedleniami zostaną objęte przede wszystkim południowe powiaty prowincji – najgęściej zamieszkiwane przez Polaków. Z inicjatywy dr Rudolfa Trögera – gdańskiego inspektora SD i policji bezpieczeństwa (IdS) – postanowiono również, że w pierwszym rzędzie będą wysiedlane rodziny Polaków zamordowanych podczas akcji „Inteligencja”.",
+        "true_answers": [
+            "końca lutego 1940"
+        ],
+        "prediction": "Polacy i Żydzi mieli zostać wysiedleni z terenów Rzeszy do końca lutego 1940 roku.",
+        "exact_match": 0,
+        "f1_score": 0.35294117647058826
+    },
+    {
+        "question": "Skąd chciano pozbyć się Żydów i Polaków?",
+        "context": "Ze względu na opór stawiany przez Forstera Himmler w dniu 26 października 1939 podjął decyzję o chwilowym wstrzymaniu wysiedleń z ziem wcielonych do Rzeszy. Już cztery dni później wydał jednak rozporządzenie nr 1/II do dekretu Hitlera o umocnieniu Niemczyzny, w którym nakazywał, aby do końca lutego 1940 z terenów Okręgu Rzeszy Gdańsk-Prusy Zachodnie wysiedleni zostali wszyscy Żydzi oraz Polacy przybyli na Pomorze po 1918 roku. 3 listopada 1939 ponownie wezwał natomiast do kontynuowania na Pomorzu i w Poznańskiem akcji osadniczo-wysiedleńczej związanej z ewakuacją Niemców bałtyckich. Z kolei w dniu 15 listopada Hildebrandt zorganizował w Gdańsku naradę z udziałem przedstawicieli władz okręgu, której celem było wypracowanie wspólnego stanowiska w sprawie planowanych przesiedleń. W trakcie konferencji najwięcej miejsca poświęcono kwestii osadnictwa Niemców bałtyckich. Hildebrandt wychodząc nieco naprzeciw postulatom Forstera, zgodził się, że Okręg Gdańsk-Prusy Zachodnie może przyjąć tylko niewielką liczbę Baltendeutschów – głównie przedstawicieli inteligencji lub wykwalifikowanych robotników. W ślad za postanowieniami konferencji w Krakowie (8 listopada) potwierdzono, że z Pomorza zostanie w krótkim czasie deportowanych blisko 400 tys. Polaków i Żydów. Postanowiono, że wysiedleniami zostaną objęte przede wszystkim południowe powiaty prowincji – najgęściej zamieszkiwane przez Polaków. Z inicjatywy dr Rudolfa Trögera – gdańskiego inspektora SD i policji bezpieczeństwa (IdS) – postanowiono również, że w pierwszym rzędzie będą wysiedlane rodziny Polaków zamordowanych podczas akcji „Inteligencja”.",
+        "true_answers": [
+            "z terenów Okręgu Rzeszy Gdańsk-Prusy Zachodnie"
+        ],
+        "prediction": "Z terenów Okręgu Rzeszy Gdańsk-Prusy Zachodnie chciano pozbyć się wszystkich Żydów oraz Polaków przybyłych na Pomorze po 1918 roku.",
+        "exact_match": 0,
+        "f1_score": 0.39999999999999997
+    },
+    {
+        "question": "Kto zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń?",
+        "context": "Ze względu na opór stawiany przez Forstera Himmler w dniu 26 października 1939 podjął decyzję o chwilowym wstrzymaniu wysiedleń z ziem wcielonych do Rzeszy. Już cztery dni później wydał jednak rozporządzenie nr 1/II do dekretu Hitlera o umocnieniu Niemczyzny, w którym nakazywał, aby do końca lutego 1940 z terenów Okręgu Rzeszy Gdańsk-Prusy Zachodnie wysiedleni zostali wszyscy Żydzi oraz Polacy przybyli na Pomorze po 1918 roku. 3 listopada 1939 ponownie wezwał natomiast do kontynuowania na Pomorzu i w Poznańskiem akcji osadniczo-wysiedleńczej związanej z ewakuacją Niemców bałtyckich. Z kolei w dniu 15 listopada Hildebrandt zorganizował w Gdańsku naradę z udziałem przedstawicieli władz okręgu, której celem było wypracowanie wspólnego stanowiska w sprawie planowanych przesiedleń. W trakcie konferencji najwięcej miejsca poświęcono kwestii osadnictwa Niemców bałtyckich. Hildebrandt wychodząc nieco naprzeciw postulatom Forstera, zgodził się, że Okręg Gdańsk-Prusy Zachodnie może przyjąć tylko niewielką liczbę Baltendeutschów – głównie przedstawicieli inteligencji lub wykwalifikowanych robotników. W ślad za postanowieniami konferencji w Krakowie (8 listopada) potwierdzono, że z Pomorza zostanie w krótkim czasie deportowanych blisko 400 tys. Polaków i Żydów. Postanowiono, że wysiedleniami zostaną objęte przede wszystkim południowe powiaty prowincji – najgęściej zamieszkiwane przez Polaków. Z inicjatywy dr Rudolfa Trögera – gdańskiego inspektora SD i policji bezpieczeństwa (IdS) – postanowiono również, że w pierwszym rzędzie będą wysiedlane rodziny Polaków zamordowanych podczas akcji „Inteligencja”.",
+        "true_answers": [
+            "Hildebrandt"
+        ],
+        "prediction": "Hildebrandt zorganizował naradę w Gdańsku dotyczącą planowanych przesiedleń.",
+        "exact_match": 0,
+        "f1_score": 0.2222222222222222
+    },
+    {
+        "question": "Gdzie naradzano się w sprawie planowanych przesiedleń?",
+        "context": "Ze względu na opór stawiany przez Forstera Himmler w dniu 26 października 1939 podjął decyzję o chwilowym wstrzymaniu wysiedleń z ziem wcielonych do Rzeszy. Już cztery dni później wydał jednak rozporządzenie nr 1/II do dekretu Hitlera o umocnieniu Niemczyzny, w którym nakazywał, aby do końca lutego 1940 z terenów Okręgu Rzeszy Gdańsk-Prusy Zachodnie wysiedleni zostali wszyscy Żydzi oraz Polacy przybyli na Pomorze po 1918 roku. 3 listopada 1939 ponownie wezwał natomiast do kontynuowania na Pomorzu i w Poznańskiem akcji osadniczo-wysiedleńczej związanej z ewakuacją Niemców bałtyckich. Z kolei w dniu 15 listopada Hildebrandt zorganizował w Gdańsku naradę z udziałem przedstawicieli władz okręgu, której celem było wypracowanie wspólnego stanowiska w sprawie planowanych przesiedleń. W trakcie konferencji najwięcej miejsca poświęcono kwestii osadnictwa Niemców bałtyckich. Hildebrandt wychodząc nieco naprzeciw postulatom Forstera, zgodził się, że Okręg Gdańsk-Prusy Zachodnie może przyjąć tylko niewielką liczbę Baltendeutschów – głównie przedstawicieli inteligencji lub wykwalifikowanych robotników. W ślad za postanowieniami konferencji w Krakowie (8 listopada) potwierdzono, że z Pomorza zostanie w krótkim czasie deportowanych blisko 400 tys. Polaków i Żydów. Postanowiono, że wysiedleniami zostaną objęte przede wszystkim południowe powiaty prowincji – najgęściej zamieszkiwane przez Polaków. Z inicjatywy dr Rudolfa Trögera – gdańskiego inspektora SD i policji bezpieczeństwa (IdS) – postanowiono również, że w pierwszym rzędzie będą wysiedlane rodziny Polaków zamordowanych podczas akcji „Inteligencja”.",
+        "true_answers": [
+            "w Gdańsku"
+        ],
+        "prediction": "Naradzano się w sprawie planowanych przesiedleń w Gdańsku.",
+        "exact_match": 0,
+        "f1_score": 0.2
+    },
+    {
+        "question": "Jaki obiekt przyniósł straty spółce?",
+        "context": "22 stycznia 1973 firma poinformowała o znacznych stratach przynoszonych przez windę i zaproponowała rządowi jej przejęcie. Kilka dni później, 1 lutego 1973, nastąpiło zakończenie działalności. Firma Macartney, McElroy & Co. została zlikwidowana w roku 1975. W latach kolejnych pojawiały się propozycje ponownego uruchomienia windy, jednak nie zostały one zrealizowane. Pod koniec lat 70. XX w. podjęto decyzję o rozbiórce windy, co jednak nie nastąpiło ze względu na znaczne koszty. Ostatecznie rozbiórki dokonano pomiędzy czerwcem a sierpniem 1983.",
+        "true_answers": [
+            "windę"
+        ],
+        "prediction": "Winda przyniosła straty spółce.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Kiedy doszło do likwidacji spółki?",
+        "context": "22 stycznia 1973 firma poinformowała o znacznych stratach przynoszonych przez windę i zaproponowała rządowi jej przejęcie. Kilka dni później, 1 lutego 1973, nastąpiło zakończenie działalności. Firma Macartney, McElroy & Co. została zlikwidowana w roku 1975. W latach kolejnych pojawiały się propozycje ponownego uruchomienia windy, jednak nie zostały one zrealizowane. Pod koniec lat 70. XX w. podjęto decyzję o rozbiórce windy, co jednak nie nastąpiło ze względu na znaczne koszty. Ostatecznie rozbiórki dokonano pomiędzy czerwcem a sierpniem 1983.",
+        "true_answers": [
+            "1975"
+        ],
+        "prediction": "1 lutego 1973.",
+        "exact_match": 0,
+        "f1_score": 0
+    },
+    {
+        "question": "Dlaczego zaniechano rozbiórki obiektu w latach 70.?",
+        "context": "22 stycznia 1973 firma poinformowała o znacznych stratach przynoszonych przez windę i zaproponowała rządowi jej przejęcie. Kilka dni później, 1 lutego 1973, nastąpiło zakończenie działalności. Firma Macartney, McElroy & Co. została zlikwidowana w roku 1975. W latach kolejnych pojawiały się propozycje ponownego uruchomienia windy, jednak nie zostały one zrealizowane. Pod koniec lat 70. XX w. podjęto decyzję o rozbiórce windy, co jednak nie nastąpiło ze względu na znaczne koszty. Ostatecznie rozbiórki dokonano pomiędzy czerwcem a sierpniem 1983.",
+        "true_answers": [
+            "ze względu na znaczne koszty"
+        ],
+        "prediction": "Zaniechano rozbiórki obiektu w latach 70. ze względu na znaczne koszty.",
+        "exact_match": 0,
+        "f1_score": 0.5000000000000001
+    },
+    {
+        "question": "Kiedy ostatecznie zlikwidowano windę?",
+        "context": "22 stycznia 1973 firma poinformowała o znacznych stratach przynoszonych przez windę i zaproponowała rządowi jej przejęcie. Kilka dni później, 1 lutego 1973, nastąpiło zakończenie działalności. Firma Macartney, McElroy & Co. została zlikwidowana w roku 1975. W latach kolejnych pojawiały się propozycje ponownego uruchomienia windy, jednak nie zostały one zrealizowane. Pod koniec lat 70. XX w. podjęto decyzję o rozbiórce windy, co jednak nie nastąpiło ze względu na znaczne koszty. Ostatecznie rozbiórki dokonano pomiędzy czerwcem a sierpniem 1983.",
+        "true_answers": [
+            "pomiędzy czerwcem a sierpniem 1983"
+        ],
+        "prediction": "1 lutego 1973.",
+        "exact_match": 0,
+        "f1_score": 0
+    }
+]

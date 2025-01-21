@@ -1,6 +1,0 @@
-Evaluating GPT-4...
-Results for GPT-3.5:
-  Exact Match: 1.00
-  F1 Score: 24.51
-  Runtime: 83.18 seconds
-  Saved results to gpt3.5_results.json
